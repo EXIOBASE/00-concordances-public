@@ -1,0 +1,903 @@
+source_code,source_name,target_code,target_name,weight
+c01.1.1,Bread and cereals (ND),p01.a,Paddy rice,1.0
+c01.1.1,Bread and cereals (ND),p01.b,Wheat,1.0
+c01.1.1,Bread and cereals (ND),p01.c,Cereal grains nec,1.0
+c01.1.1,Bread and cereals (ND),p01.e,Oil seeds,1.0
+c01.1.1,Bread and cereals (ND),p01.f,"Sugar cane, sugar beet",1.0
+c01.1.1,Bread and cereals (ND),p01.g,Plant-based fibers,1.0
+c01.1.1,Bread and cereals (ND),p01.h,Crops nec,1.0
+c01.1.1,Bread and cereals (ND),p15.g,Processed rice,1.0
+c01.1.1,Bread and cereals (ND),p15.i,Food products nec,1.0
+c01.1.1,Bread and cereals (ND),p15.j,Beverages,1.0
+c01.1.2,Meat (ND),p01.i,Cattle,1.0
+c01.1.2,Meat (ND),p01.j,Pigs,1.0
+c01.1.2,Meat (ND),p01.k,Poultry,1.0
+c01.1.2,Meat (ND),p01.l,Meat animals nec,1.0
+c01.1.2,Meat (ND),p01.m,Animal products nec,1.0
+c01.1.2,Meat (ND),p01.n,Raw milk,1.0
+c01.1.2,Meat (ND),p01.o,"Wool, silk-worm cocoons",1.0
+c01.1.2,Meat (ND),p01.w.1,Manure (conventional treatment),1.0
+c01.1.2,Meat (ND),p01.w.2,Manure (biogas treatment),1.0
+c01.1.2,Meat (ND),p15.a,Products of meat cattle,1.0
+c01.1.2,Meat (ND),p15.b,Products of meat pigs,1.0
+c01.1.2,Meat (ND),p15.c,Products of meat poultry,1.0
+c01.1.2,Meat (ND),p15.d,Meat products nec,1.0
+c01.1.3,Fish and seafood (ND),p01.j,Pigs,1.0
+c01.1.3,Fish and seafood (ND),p01.k,Poultry,1.0
+c01.1.3,Fish and seafood (ND),p01.l,Meat animals nec,1.0
+c01.1.3,Fish and seafood (ND),p01.m,Animal products nec,1.0
+c01.1.3,Fish and seafood (ND),p01.n,Raw milk,1.0
+c01.1.3,Fish and seafood (ND),p01.o,"Wool, silk-worm cocoons",1.0
+c01.1.3,Fish and seafood (ND),p01.w.1,Manure (conventional treatment),1.0
+c01.1.3,Fish and seafood (ND),p01.w.2,Manure (biogas treatment),1.0
+c01.1.3,Fish and seafood (ND),p05,Fish and other fishing products; services incidental of fishing (05),1.0
+c01.1.3,Fish and seafood (ND),p15.k,Fish products,1.0
+c01.1.4,"Milk, cheese and eggs (ND)",p01.i,Cattle,1.0
+c01.1.4,"Milk, cheese and eggs (ND)",p01.j,Pigs,1.0
+c01.1.4,"Milk, cheese and eggs (ND)",p01.k,Poultry,1.0
+c01.1.4,"Milk, cheese and eggs (ND)",p01.l,Meat animals nec,1.0
+c01.1.4,"Milk, cheese and eggs (ND)",p01.m,Animal products nec,1.0
+c01.1.4,"Milk, cheese and eggs (ND)",p01.n,Raw milk,1.0
+c01.1.4,"Milk, cheese and eggs (ND)",p01.o,"Wool, silk-worm cocoons",1.0
+c01.1.4,"Milk, cheese and eggs (ND)",p01.w.1,Manure (conventional treatment),1.0
+c01.1.4,"Milk, cheese and eggs (ND)",p01.w.2,Manure (biogas treatment),1.0
+c01.1.4,"Milk, cheese and eggs (ND)",p15.f,Dairy products,1.0
+c01.1.4,"Milk, cheese and eggs (ND)",p15.i,Food products nec,1.0
+c01.1.5,Oils and fats (ND),p15.a,Products of meat cattle,1.0
+c01.1.5,Oils and fats (ND),p15.b,Products of meat pigs,1.0
+c01.1.5,Oils and fats (ND),p15.c,Products of meat poultry,1.0
+c01.1.5,Oils and fats (ND),p15.d,Meat products nec,1.0
+c01.1.5,Oils and fats (ND),p15.e,products of Vegetable oils and fats,1.0
+c01.1.5,Oils and fats (ND),p15.f,Dairy products,1.0
+c01.1.5,Oils and fats (ND),p15.g,Processed rice,1.0
+c01.1.5,Oils and fats (ND),p15.i,Food products nec,1.0
+c01.1.6,Fruit (ND),p01.a,Paddy rice,1.0
+c01.1.6,Fruit (ND),p01.b,Wheat,1.0
+c01.1.6,Fruit (ND),p01.c,Cereal grains nec,1.0
+c01.1.6,Fruit (ND),p01.d,"Vegetables, fruit, nuts",1.0
+c01.1.6,Fruit (ND),p01.e,Oil seeds,1.0
+c01.1.6,Fruit (ND),p01.f,"Sugar cane, sugar beet",1.0
+c01.1.6,Fruit (ND),p01.g,Plant-based fibers,1.0
+c01.1.6,Fruit (ND),p01.h,Crops nec,1.0
+c01.1.6,Fruit (ND),p15.g,Processed rice,1.0
+c01.1.6,Fruit (ND),p15.i,Food products nec,1.0
+c01.1.7,Vegetables (ND),p01.a,Paddy rice,1.0
+c01.1.7,Vegetables (ND),p01.b,Wheat,1.0
+c01.1.7,Vegetables (ND),p01.c,Cereal grains nec,1.0
+c01.1.7,Vegetables (ND),p01.d,"Vegetables, fruit, nuts",1.0
+c01.1.7,Vegetables (ND),p01.e,Oil seeds,1.0
+c01.1.7,Vegetables (ND),p01.f,"Sugar cane, sugar beet",1.0
+c01.1.7,Vegetables (ND),p01.g,Plant-based fibers,1.0
+c01.1.7,Vegetables (ND),p01.h,Crops nec,1.0
+c01.1.7,Vegetables (ND),p05,Fish and other fishing products; services incidental of fishing (05),1.0
+c01.1.7,Vegetables (ND),p15.g,Processed rice,1.0
+c01.1.7,Vegetables (ND),p15.i,Food products nec,1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",p01.j,Pigs,1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",p01.k,Poultry,1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",p01.l,Meat animals nec,1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",p01.m,Animal products nec,1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",p01.n,Raw milk,1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",p01.o,"Wool, silk-worm cocoons",1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",p01.w.1,Manure (conventional treatment),1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",p01.w.2,Manure (biogas treatment),1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",p15.f,Dairy products,1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",p15.g,Processed rice,1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",p15.h,Sugar,1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",p15.i,Food products nec,1.0
+c01.1.9,Food products n.e.c. (ND),p01.d,"Vegetables, fruit, nuts",1.0
+c01.1.9,Food products n.e.c. (ND),p01.e,Oil seeds,1.0
+c01.1.9,Food products n.e.c. (ND),p01.h,Crops nec,1.0
+c01.1.9,Food products n.e.c. (ND),p01.j,Pigs,1.0
+c01.1.9,Food products n.e.c. (ND),p01.k,Poultry,1.0
+c01.1.9,Food products n.e.c. (ND),p01.l,Meat animals nec,1.0
+c01.1.9,Food products n.e.c. (ND),p01.m,Animal products nec,1.0
+c01.1.9,Food products n.e.c. (ND),p01.n,Raw milk,1.0
+c01.1.9,Food products n.e.c. (ND),p01.o,"Wool, silk-worm cocoons",1.0
+c01.1.9,Food products n.e.c. (ND),p01.w.1,Manure (conventional treatment),1.0
+c01.1.9,Food products n.e.c. (ND),p01.w.2,Manure (biogas treatment),1.0
+c01.1.9,Food products n.e.c. (ND),p14.3,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",1.0
+c01.1.9,Food products n.e.c. (ND),p15.g,Processed rice,1.0
+c01.1.9,Food products n.e.c. (ND),p15.i,Food products nec,1.0
+c01.1.9,Food products n.e.c. (ND),p24.d,Chemicals nec,1.0
+c01.1.9,Food products n.e.c. (ND),p24.e,Charcoal,1.0
+c01.1.9,Food products n.e.c. (ND),p24.f,Additives/Blending Components,1.0
+c01.1.9,Food products n.e.c. (ND),p24.g,Biogasoline,1.0
+c01.1.9,Food products n.e.c. (ND),p24.h,Biodiesels,1.0
+c01.1.9,Food products n.e.c. (ND),p24.i,Other Liquid Biofuels,1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",p01.a,Paddy rice,1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",p01.b,Wheat,1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",p01.c,Cereal grains nec,1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",p01.d,"Vegetables, fruit, nuts",1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",p01.e,Oil seeds,1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",p01.f,"Sugar cane, sugar beet",1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",p01.g,Plant-based fibers,1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",p01.h,Crops nec,1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",p01.i,Cattle,1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",p01.j,Pigs,1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",p01.k,Poultry,1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",p01.l,Meat animals nec,1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",p01.m,Animal products nec,1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",p01.n,Raw milk,1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",p01.o,"Wool, silk-worm cocoons",1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",p01.w.1,Manure (conventional treatment),1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",p01.w.2,Manure (biogas treatment),1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",p15.i,Food products nec,1.0
+c01.2.2,"Mineral waters, soft drinks, fruit and vegetable juices (ND)",p15.g,Processed rice,1.0
+c01.2.2,"Mineral waters, soft drinks, fruit and vegetable juices (ND)",p15.i,Food products nec,1.0
+c01.2.2,"Mineral waters, soft drinks, fruit and vegetable juices (ND)",p15.j,Beverages,1.0
+c02.1.1,Spirits (ND),p15.j,Beverages,1.0
+c02.1.2,Wine (ND),p15.j,Beverages,1.0
+c02.1.3,Beer (ND),p15.j,Beverages,1.0
+c02.2.0,Tobacco (ND),p16,Tobacco products (16),1.0
+c02.2.0,Tobacco (ND),p21.w.1,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",1.0
+c02.2.0,Tobacco (ND),p21.2,Paper and paper products,1.0
+c02.3.0,Narcotics (ND),p01.a,Paddy rice,1.0
+c02.3.0,Narcotics (ND),p01.b,Wheat,1.0
+c02.3.0,Narcotics (ND),p01.c,Cereal grains nec,1.0
+c02.3.0,Narcotics (ND),p01.e,Oil seeds,1.0
+c02.3.0,Narcotics (ND),p01.f,"Sugar cane, sugar beet",1.0
+c02.3.0,Narcotics (ND),p01.g,Plant-based fibers,1.0
+c02.3.0,Narcotics (ND),p01.h,Crops nec,1.0
+c02.3.0,Narcotics (ND),p02,"Products of forestry, logging and related services (02)",1.0
+c02.3.0,Narcotics (ND),p15.i,Food products nec,1.0
+c02.3.0,Narcotics (ND),p24.a,"Plastics, basic",1.0
+c02.3.0,Narcotics (ND),p24.a.w,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",1.0
+c02.3.0,Narcotics (ND),p24.d,Chemicals nec,1.0
+c02.3.0,Narcotics (ND),p24.e,Charcoal,1.0
+c02.3.0,Narcotics (ND),p24.f,Additives/Blending Components,1.0
+c02.3.0,Narcotics (ND),p24.g,Biogasoline,1.0
+c02.3.0,Narcotics (ND),p24.h,Biodiesels,1.0
+c02.3.0,Narcotics (ND),p24.i,Other Liquid Biofuels,1.0
+c03.1.1,Clothing materials (SD),p17,Textiles (17),1.0
+c03.1.2,Garments (SD),p17,Textiles (17),1.0
+c03.1.2,Garments (SD),p18,Wearing apparel; furs (18),1.0
+c03.1.2,Garments (SD),p21.w.1,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",1.0
+c03.1.2,Garments (SD),p21.2,Paper and paper products,1.0
+c03.1.2,Garments (SD),p25,Rubber and plastic products (25),1.0
+c03.1.3,Other articles of clothing and clothing accessories (SD),p17,Textiles (17),1.0
+c03.1.3,Other articles of clothing and clothing accessories (SD),p18,Wearing apparel; furs (18),1.0
+c03.1.3,Other articles of clothing and clothing accessories (SD),p25,Rubber and plastic products (25),1.0
+c03.1.3,Other articles of clothing and clothing accessories (SD),p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+c03.1.3,Other articles of clothing and clothing accessories (SD),p36,Furniture; other manufactured goods n.e.c. (36),1.0
+c03.1.4,"Cleaning, repair and hire of clothing (S)",p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+c03.1.4,"Cleaning, repair and hire of clothing (S)",p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+c03.1.4,"Cleaning, repair and hire of clothing (S)",p93,Other services (93),1.0
+c03.1.4,"Cleaning, repair and hire of clothing (S)",p99,Extra-territorial organizations and bodies,1.0
+c03.2.1,Shoes and other footwear (SD),p17,Textiles (17),1.0
+c03.2.1,Shoes and other footwear (SD),p19,Leather and leather products (19),1.0
+c03.2.2,Repair and hire of footwear (S),p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+c03.2.2,Repair and hire of footwear (S),p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+c03.2.2,Repair and hire of footwear (S),p93,Other services (93),1.0
+c03.2.2,Repair and hire of footwear (S),p99,Extra-territorial organizations and bodies,1.0
+c04.1.1,Actual rentals paid by tenants (S),p55,Hotel and restaurant services (55),1.0
+c04.1.1,Actual rentals paid by tenants (S),p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+c04.1.1,Actual rentals paid by tenants (S),p70,Real estate services (70),1.0
+c04.1.2,Other actual rentals (S),p70,Real estate services (70),1.0
+c04.2.1,Imputed rentals of owner-occupiers (S),p70,Real estate services (70),1.0
+c04.2.2,Other imputed rentals (S),p70,Real estate services (70),1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),p21.w.1,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),p21.2,Paper and paper products,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),p24.d,Chemicals nec,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),p24.e,Charcoal,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),p24.f,Additives/Blending Components,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),p24.g,Biogasoline,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),p24.h,Biodiesels,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),p24.i,Other Liquid Biofuels,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),p25,Rubber and plastic products (25),1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),p26.a,Glass and glass products,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),p26.a.w,"Secondary glass for treatment, Re-processing of secondary glass into new glass",1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),p26.c,"Bricks, tiles and construction products, in baked clay",1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),p26.d,"Cement, lime and plaster",1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),p26.e,Other non-metallic mineral products,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),p36,Furniture; other manufactured goods n.e.c. (36),1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p45,Construction work (45),1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p74,Other business services (74),1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.1.a,Food waste for treatment: incineration,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.1.b,Paper waste for treatment: incineration,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.1.c,Plastic waste for treatment: incineration,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.1.d,Intert/metal waste for treatment: incineration,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.1.e,Textiles waste for treatment: incineration,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.1.f,Wood waste for treatment: incineration,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.1.g,Oil/hazardous waste for treatment: incineration,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.2.a,Food waste for treatment: biogasification and land application,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.2.b,Paper waste for treatment: biogasification and land application,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.2.c,Sewage sludge for treatment: biogasification and land application,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.3.a,Food waste for treatment: composting and land application,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.3.b,Paper and wood waste for treatment: composting and land application,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.4.a,Food waste for treatment: waste water treatment,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.4.b,Other waste for treatment: waste water treatment,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.5.a,Food waste for treatment: landfill,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.5.b,Paper for treatment: landfill,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.5.c,Plastic waste for treatment: landfill,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.5.d,Inert/metal/hazardous waste for treatment: landfill,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.5.e,Textiles waste for treatment: landfill,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),p90.5.f,Wood waste for treatment: landfill,1.0
+c04.4.1,Water supply (ND),p41,"Collected and purified water, distribution services of water (41)",1.0
+c04.4.2,Refuse collection (S),p90.1.a,Food waste for treatment: incineration,1.0
+c04.4.2,Refuse collection (S),p90.1.b,Paper waste for treatment: incineration,1.0
+c04.4.2,Refuse collection (S),p90.1.c,Plastic waste for treatment: incineration,1.0
+c04.4.2,Refuse collection (S),p90.1.d,Intert/metal waste for treatment: incineration,1.0
+c04.4.2,Refuse collection (S),p90.1.e,Textiles waste for treatment: incineration,1.0
+c04.4.2,Refuse collection (S),p90.1.f,Wood waste for treatment: incineration,1.0
+c04.4.2,Refuse collection (S),p90.1.g,Oil/hazardous waste for treatment: incineration,1.0
+c04.4.2,Refuse collection (S),p90.2.a,Food waste for treatment: biogasification and land application,1.0
+c04.4.2,Refuse collection (S),p90.2.b,Paper waste for treatment: biogasification and land application,1.0
+c04.4.2,Refuse collection (S),p90.2.c,Sewage sludge for treatment: biogasification and land application,1.0
+c04.4.2,Refuse collection (S),p90.3.a,Food waste for treatment: composting and land application,1.0
+c04.4.2,Refuse collection (S),p90.3.b,Paper and wood waste for treatment: composting and land application,1.0
+c04.4.2,Refuse collection (S),p90.4.a,Food waste for treatment: waste water treatment,1.0
+c04.4.2,Refuse collection (S),p90.4.b,Other waste for treatment: waste water treatment,1.0
+c04.4.2,Refuse collection (S),p90.5.a,Food waste for treatment: landfill,1.0
+c04.4.2,Refuse collection (S),p90.5.b,Paper for treatment: landfill,1.0
+c04.4.2,Refuse collection (S),p90.5.c,Plastic waste for treatment: landfill,1.0
+c04.4.2,Refuse collection (S),p90.5.d,Inert/metal/hazardous waste for treatment: landfill,1.0
+c04.4.2,Refuse collection (S),p90.5.e,Textiles waste for treatment: landfill,1.0
+c04.4.2,Refuse collection (S),p90.5.f,Wood waste for treatment: landfill,1.0
+c04.4.3,Sewage collection (S),p90.1.a,Food waste for treatment: incineration,1.0
+c04.4.3,Sewage collection (S),p90.1.b,Paper waste for treatment: incineration,1.0
+c04.4.3,Sewage collection (S),p90.1.c,Plastic waste for treatment: incineration,1.0
+c04.4.3,Sewage collection (S),p90.1.d,Intert/metal waste for treatment: incineration,1.0
+c04.4.3,Sewage collection (S),p90.1.e,Textiles waste for treatment: incineration,1.0
+c04.4.3,Sewage collection (S),p90.1.f,Wood waste for treatment: incineration,1.0
+c04.4.3,Sewage collection (S),p90.1.g,Oil/hazardous waste for treatment: incineration,1.0
+c04.4.3,Sewage collection (S),p90.2.a,Food waste for treatment: biogasification and land application,1.0
+c04.4.3,Sewage collection (S),p90.2.b,Paper waste for treatment: biogasification and land application,1.0
+c04.4.3,Sewage collection (S),p90.2.c,Sewage sludge for treatment: biogasification and land application,1.0
+c04.4.3,Sewage collection (S),p90.3.a,Food waste for treatment: composting and land application,1.0
+c04.4.3,Sewage collection (S),p90.3.b,Paper and wood waste for treatment: composting and land application,1.0
+c04.4.3,Sewage collection (S),p90.4.a,Food waste for treatment: waste water treatment,1.0
+c04.4.3,Sewage collection (S),p90.4.b,Other waste for treatment: waste water treatment,1.0
+c04.4.3,Sewage collection (S),p90.5.a,Food waste for treatment: landfill,1.0
+c04.4.3,Sewage collection (S),p90.5.b,Paper for treatment: landfill,1.0
+c04.4.3,Sewage collection (S),p90.5.c,Plastic waste for treatment: landfill,1.0
+c04.4.3,Sewage collection (S),p90.5.d,Inert/metal/hazardous waste for treatment: landfill,1.0
+c04.4.3,Sewage collection (S),p90.5.e,Textiles waste for treatment: landfill,1.0
+c04.4.3,Sewage collection (S),p90.5.f,Wood waste for treatment: landfill,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p01.a,Paddy rice,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p01.b,Wheat,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p01.c,Cereal grains nec,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p01.d,"Vegetables, fruit, nuts",1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p01.e,Oil seeds,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p01.f,"Sugar cane, sugar beet",1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p01.g,Plant-based fibers,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p01.h,Crops nec,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p01.i,Cattle,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p01.j,Pigs,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p01.k,Poultry,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p01.l,Meat animals nec,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p01.m,Animal products nec,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p01.n,Raw milk,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p01.o,"Wool, silk-worm cocoons",1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p01.w.1,Manure (conventional treatment),1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p01.w.2,Manure (biogas treatment),1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p29,Machinery and equipment n.e.c. (29),1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p70,Real estate services (70),1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p74,Other business services (74),1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.1.a,Food waste for treatment: incineration,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.1.b,Paper waste for treatment: incineration,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.1.c,Plastic waste for treatment: incineration,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.1.d,Intert/metal waste for treatment: incineration,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.1.e,Textiles waste for treatment: incineration,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.1.f,Wood waste for treatment: incineration,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.1.g,Oil/hazardous waste for treatment: incineration,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.2.a,Food waste for treatment: biogasification and land application,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.2.b,Paper waste for treatment: biogasification and land application,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.2.c,Sewage sludge for treatment: biogasification and land application,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.3.a,Food waste for treatment: composting and land application,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.3.b,Paper and wood waste for treatment: composting and land application,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.4.a,Food waste for treatment: waste water treatment,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.4.b,Other waste for treatment: waste water treatment,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.5.a,Food waste for treatment: landfill,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.5.b,Paper for treatment: landfill,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.5.c,Plastic waste for treatment: landfill,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.5.d,Inert/metal/hazardous waste for treatment: landfill,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.5.e,Textiles waste for treatment: landfill,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),p90.5.f,Wood waste for treatment: landfill,1.0
+c04.5.1,Electricity (ND),p40.11.a,Electricity by coal,1.0
+c04.5.1,Electricity (ND),p40.11.b,Electricity by gas,1.0
+c04.5.1,Electricity (ND),p40.11.c,Electricity by nuclear,1.0
+c04.5.1,Electricity (ND),p40.11.d,Electricity by hydro,1.0
+c04.5.1,Electricity (ND),p40.11.e,Electricity by wind,1.0
+c04.5.1,Electricity (ND),p40.11.f,Electricity by petroleum and other oil derivatives,1.0
+c04.5.1,Electricity (ND),p40.11.g,Electricity by biomass and waste,1.0
+c04.5.1,Electricity (ND),p40.11.h,Electricity by solar photovoltaic,1.0
+c04.5.1,Electricity (ND),p40.11.i,Electricity by solar thermal,1.0
+c04.5.1,Electricity (ND),p40.11.j,"Electricity by tide, wave, ocean",1.0
+c04.5.1,Electricity (ND),p40.11.k,Electricity by Geothermal,1.0
+c04.5.1,Electricity (ND),p40.11.l,Electricity nec,1.0
+c04.5.1,Electricity (ND),p40.12,Transmission services of electricity,1.0
+c04.5.1,Electricity (ND),p40.13,Distribution and trade services of electricity,1.0
+c04.5.2,Gas (ND),p23.1.b,Gas Coke,1.0
+c04.5.2,Gas (ND),p23.1.c,Coal Tar,1.0
+c04.5.2,Gas (ND),p23.20.a,Motor Gasoline,1.0
+c04.5.2,Gas (ND),p23.20.b,Aviation Gasoline,1.0
+c04.5.2,Gas (ND),p23.20.c,Gasoline Type Jet Fuel,1.0
+c04.5.2,Gas (ND),p23.20.d,Kerosene Type Jet Fuel,1.0
+c04.5.2,Gas (ND),p23.20.e,Kerosene,1.0
+c04.5.2,Gas (ND),p23.20.f,Gas/Diesel Oil,1.0
+c04.5.2,Gas (ND),p23.20.g,Heavy Fuel Oil,1.0
+c04.5.2,Gas (ND),p23.20.h,Refinery Gas,1.0
+c04.5.2,Gas (ND),p23.20.i,Liquefied Petroleum Gases (LPG),1.0
+c04.5.2,Gas (ND),p23.20.j,Refinery Feedstocks,1.0
+c04.5.2,Gas (ND),p23.20.k,Ethane,1.0
+c04.5.2,Gas (ND),p23.20.l,Naphtha,1.0
+c04.5.2,Gas (ND),p23.20.m,White Spirit & SBP,1.0
+c04.5.2,Gas (ND),p23.20.n,Lubricants,1.0
+c04.5.2,Gas (ND),p23.20.o,Bitumen,1.0
+c04.5.2,Gas (ND),p23.20.p,Paraffin Waxes,1.0
+c04.5.2,Gas (ND),p23.20.q,Petroleum Coke,1.0
+c04.5.2,Gas (ND),p23.20.r,Non-specified Petroleum Products,1.0
+c04.5.2,Gas (ND),p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+c04.5.2,Gas (ND),p40.2.a,Coke oven gas,1.0
+c04.5.2,Gas (ND),p40.2.b,Blast Furnace Gas,1.0
+c04.5.2,Gas (ND),p40.2.c,Oxygen Steel Furnace Gas,1.0
+c04.5.2,Gas (ND),p40.2.d,Gas Works Gas,1.0
+c04.5.2,Gas (ND),p40.2.e,Biogas,1.0
+c04.5.2,Gas (ND),p40.2.1,Distribution services of gaseous fuels through mains,1.0
+c04.5.3,Liquid fuels (ND),p23.1.b,Gas Coke,1.0
+c04.5.3,Liquid fuels (ND),p23.1.c,Coal Tar,1.0
+c04.5.3,Liquid fuels (ND),p23.20.a,Motor Gasoline,1.0
+c04.5.3,Liquid fuels (ND),p23.20.b,Aviation Gasoline,1.0
+c04.5.3,Liquid fuels (ND),p23.20.c,Gasoline Type Jet Fuel,1.0
+c04.5.3,Liquid fuels (ND),p23.20.d,Kerosene Type Jet Fuel,1.0
+c04.5.3,Liquid fuels (ND),p23.20.e,Kerosene,1.0
+c04.5.3,Liquid fuels (ND),p23.20.f,Gas/Diesel Oil,1.0
+c04.5.3,Liquid fuels (ND),p23.20.g,Heavy Fuel Oil,1.0
+c04.5.3,Liquid fuels (ND),p23.20.h,Refinery Gas,1.0
+c04.5.3,Liquid fuels (ND),p23.20.i,Liquefied Petroleum Gases (LPG),1.0
+c04.5.3,Liquid fuels (ND),p23.20.j,Refinery Feedstocks,1.0
+c04.5.3,Liquid fuels (ND),p23.20.k,Ethane,1.0
+c04.5.3,Liquid fuels (ND),p23.20.l,Naphtha,1.0
+c04.5.3,Liquid fuels (ND),p23.20.m,White Spirit & SBP,1.0
+c04.5.3,Liquid fuels (ND),p23.20.n,Lubricants,1.0
+c04.5.3,Liquid fuels (ND),p23.20.o,Bitumen,1.0
+c04.5.3,Liquid fuels (ND),p23.20.p,Paraffin Waxes,1.0
+c04.5.3,Liquid fuels (ND),p23.20.q,Petroleum Coke,1.0
+c04.5.3,Liquid fuels (ND),p23.20.r,Non-specified Petroleum Products,1.0
+c04.5.4,Solid fuels (ND),p02,"Products of forestry, logging and related services (02)",1.0
+c04.5.4,Solid fuels (ND),p10.a,Anthracite,1.0
+c04.5.4,Solid fuels (ND),p10.b,Coking Coal,1.0
+c04.5.4,Solid fuels (ND),p10.c,Other Bituminous Coal,1.0
+c04.5.4,Solid fuels (ND),p10.d,Sub-Bituminous Coal,1.0
+c04.5.4,Solid fuels (ND),p10.e,Patent Fuel,1.0
+c04.5.4,Solid fuels (ND),p10.f,Lignite/Brown Coal,1.0
+c04.5.4,Solid fuels (ND),p10.g,BKB/Peat Briquettes,1.0
+c04.5.4,Solid fuels (ND),p10.h,Peat,1.0
+c04.5.4,Solid fuels (ND),p23.1.a,Coke Oven Coke,1.0
+c04.5.4,Solid fuels (ND),p24.a,"Plastics, basic",1.0
+c04.5.4,Solid fuels (ND),p24.a.w,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",1.0
+c04.5.4,Solid fuels (ND),p24.d,Chemicals nec,1.0
+c04.5.4,Solid fuels (ND),p24.e,Charcoal,1.0
+c04.5.4,Solid fuels (ND),p24.f,Additives/Blending Components,1.0
+c04.5.4,Solid fuels (ND),p24.g,Biogasoline,1.0
+c04.5.4,Solid fuels (ND),p24.h,Biodiesels,1.0
+c04.5.4,Solid fuels (ND),p24.i,Other Liquid Biofuels,1.0
+c04.5.5,Heat energy (ND),p40.3,Steam and hot water supply services,1.0
+c05.1.1,Furniture and furnishings (D),p05,Fish and other fishing products; services incidental of fishing (05),1.0
+c05.1.1,Furniture and furnishings (D),p17,Textiles (17),1.0
+c05.1.1,Furniture and furnishings (D),p18,Wearing apparel; furs (18),1.0
+c05.1.1,Furniture and furnishings (D),p19,Leather and leather products (19),1.0
+c05.1.1,Furniture and furnishings (D),p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+c05.1.1,Furniture and furnishings (D),p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+c05.1.1,Furniture and furnishings (D),p25,Rubber and plastic products (25),1.0
+c05.1.1,Furniture and furnishings (D),p26.a,Glass and glass products,1.0
+c05.1.1,Furniture and furnishings (D),p26.a.w,"Secondary glass for treatment, Re-processing of secondary glass into new glass",1.0
+c05.1.1,Furniture and furnishings (D),p26.b,Ceramic goods,1.0
+c05.1.1,Furniture and furnishings (D),p26.e,Other non-metallic mineral products,1.0
+c05.1.1,Furniture and furnishings (D),p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+c05.1.1,Furniture and furnishings (D),p31,Electrical machinery and apparatus n.e.c. (31),1.0
+c05.1.1,Furniture and furnishings (D),p36,Furniture; other manufactured goods n.e.c. (36),1.0
+c05.1.1,Furniture and furnishings (D),p45,Construction work (45),1.0
+c05.1.1,Furniture and furnishings (D),p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+c05.1.1,Furniture and furnishings (D),p92,"Recreational, cultural and sporting services (92)",1.0
+c05.1.2,Carpets and other floor coverings (D),p17,Textiles (17),1.0
+c05.1.2,Carpets and other floor coverings (D),p18,Wearing apparel; furs (18),1.0
+c05.1.2,Carpets and other floor coverings (D),p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+c05.1.2,Carpets and other floor coverings (D),p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+c05.1.2,Carpets and other floor coverings (D),p21.w.1,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",1.0
+c05.1.2,Carpets and other floor coverings (D),p21.2,Paper and paper products,1.0
+c05.1.2,Carpets and other floor coverings (D),p25,Rubber and plastic products (25),1.0
+c05.1.2,Carpets and other floor coverings (D),p36,Furniture; other manufactured goods n.e.c. (36),1.0
+c05.1.2,Carpets and other floor coverings (D),p45,Construction work (45),1.0
+c05.1.2,Carpets and other floor coverings (D),p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+c05.1.3,"Repair of furniture, furnishings and floor coverings (S)",p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+c05.1.3,"Repair of furniture, furnishings and floor coverings (S)",p92,"Recreational, cultural and sporting services (92)",1.0
+c05.2.0,Household textiles (SD),p17,Textiles (17),1.0
+c05.2.0,Household textiles (SD),p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+c05.2.0,Household textiles (SD),p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+c05.2.0,Household textiles (SD),p25,Rubber and plastic products (25),1.0
+c05.2.0,Household textiles (SD),p36,Furniture; other manufactured goods n.e.c. (36),1.0
+c05.2.0,Household textiles (SD),p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+c05.3.1,Major household appliances whether electric or not (D),p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+c05.3.1,Major household appliances whether electric or not (D),p29,Machinery and equipment n.e.c. (29),1.0
+c05.3.2,Small electric household appliances (SD),p17,Textiles (17),1.0
+c05.3.2,Small electric household appliances (SD),p29,Machinery and equipment n.e.c. (29),1.0
+c05.3.3,Repair of household appliances (S),p45,Construction work (45),1.0
+c05.3.3,Repair of household appliances (S),p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+c05.3.3,Repair of household appliances (S),p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+c05.3.3,Repair of household appliances (S),p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",p19,Leather and leather products (19),1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",p25,Rubber and plastic products (25),1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",p26.a,Glass and glass products,1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",p26.a.w,"Secondary glass for treatment, Re-processing of secondary glass into new glass",1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",p26.b,Ceramic goods,1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",p29,Machinery and equipment n.e.c. (29),1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",p36,Furniture; other manufactured goods n.e.c. (36),1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+c05.5.1,Major tools and equipment (D),p29,Machinery and equipment n.e.c. (29),1.0
+c05.5.1,Major tools and equipment (D),p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+c05.5.1,Major tools and equipment (D),p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),p02,"Products of forestry, logging and related services (02)",1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),p25,Rubber and plastic products (25),1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),p29,Machinery and equipment n.e.c. (29),1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),p31,Electrical machinery and apparatus n.e.c. (31),1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),p35,Other transport equipment (35),1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+c05.6.1,Non-durable household goods (ND),p01.a,Paddy rice,1.0
+c05.6.1,Non-durable household goods (ND),p01.b,Wheat,1.0
+c05.6.1,Non-durable household goods (ND),p01.c,Cereal grains nec,1.0
+c05.6.1,Non-durable household goods (ND),p01.e,Oil seeds,1.0
+c05.6.1,Non-durable household goods (ND),p01.f,"Sugar cane, sugar beet",1.0
+c05.6.1,Non-durable household goods (ND),p01.g,Plant-based fibers,1.0
+c05.6.1,Non-durable household goods (ND),p01.h,Crops nec,1.0
+c05.6.1,Non-durable household goods (ND),p15.j,Beverages,1.0
+c05.6.1,Non-durable household goods (ND),p17,Textiles (17),1.0
+c05.6.1,Non-durable household goods (ND),p19,Leather and leather products (19),1.0
+c05.6.1,Non-durable household goods (ND),p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+c05.6.1,Non-durable household goods (ND),p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+c05.6.1,Non-durable household goods (ND),p21.1,Pulp,1.0
+c05.6.1,Non-durable household goods (ND),p21.w.1,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",1.0
+c05.6.1,Non-durable household goods (ND),p21.2,Paper and paper products,1.0
+c05.6.1,Non-durable household goods (ND),p23.1.b,Gas Coke,1.0
+c05.6.1,Non-durable household goods (ND),p23.1.c,Coal Tar,1.0
+c05.6.1,Non-durable household goods (ND),p23.20.a,Motor Gasoline,1.0
+c05.6.1,Non-durable household goods (ND),p23.20.b,Aviation Gasoline,1.0
+c05.6.1,Non-durable household goods (ND),p23.20.c,Gasoline Type Jet Fuel,1.0
+c05.6.1,Non-durable household goods (ND),p23.20.d,Kerosene Type Jet Fuel,1.0
+c05.6.1,Non-durable household goods (ND),p23.20.e,Kerosene,1.0
+c05.6.1,Non-durable household goods (ND),p23.20.f,Gas/Diesel Oil,1.0
+c05.6.1,Non-durable household goods (ND),p23.20.g,Heavy Fuel Oil,1.0
+c05.6.1,Non-durable household goods (ND),p23.20.h,Refinery Gas,1.0
+c05.6.1,Non-durable household goods (ND),p23.20.i,Liquefied Petroleum Gases (LPG),1.0
+c05.6.1,Non-durable household goods (ND),p23.20.j,Refinery Feedstocks,1.0
+c05.6.1,Non-durable household goods (ND),p23.20.k,Ethane,1.0
+c05.6.1,Non-durable household goods (ND),p23.20.l,Naphtha,1.0
+c05.6.1,Non-durable household goods (ND),p23.20.m,White Spirit & SBP,1.0
+c05.6.1,Non-durable household goods (ND),p23.20.n,Lubricants,1.0
+c05.6.1,Non-durable household goods (ND),p23.20.o,Bitumen,1.0
+c05.6.1,Non-durable household goods (ND),p23.20.p,Paraffin Waxes,1.0
+c05.6.1,Non-durable household goods (ND),p23.20.q,Petroleum Coke,1.0
+c05.6.1,Non-durable household goods (ND),p23.20.r,Non-specified Petroleum Products,1.0
+c05.6.1,Non-durable household goods (ND),p24.a,"Plastics, basic",1.0
+c05.6.1,Non-durable household goods (ND),p24.a.w,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",1.0
+c05.6.1,Non-durable household goods (ND),p24.b,N-fertiliser,1.0
+c05.6.1,Non-durable household goods (ND),p24.c,P- and other fertiliser,1.0
+c05.6.1,Non-durable household goods (ND),p24.d,Chemicals nec,1.0
+c05.6.1,Non-durable household goods (ND),p24.e,Charcoal,1.0
+c05.6.1,Non-durable household goods (ND),p24.f,Additives/Blending Components,1.0
+c05.6.1,Non-durable household goods (ND),p24.g,Biogasoline,1.0
+c05.6.1,Non-durable household goods (ND),p24.h,Biodiesels,1.0
+c05.6.1,Non-durable household goods (ND),p24.i,Other Liquid Biofuels,1.0
+c05.6.1,Non-durable household goods (ND),p25,Rubber and plastic products (25),1.0
+c05.6.1,Non-durable household goods (ND),p27.41,Precious metals,1.0
+c05.6.1,Non-durable household goods (ND),p27.41.w,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",1.0
+c05.6.1,Non-durable household goods (ND),p27.42,Aluminium and aluminium products,1.0
+c05.6.1,Non-durable household goods (ND),p27.42.w,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",1.0
+c05.6.1,Non-durable household goods (ND),p27.43,"Lead, zinc and tin and products thereof",1.0
+c05.6.1,Non-durable household goods (ND),p27.43.w,"Secondary lead for treatment, Re-processing of secondary lead into new lead",1.0
+c05.6.1,Non-durable household goods (ND),p27.44,Copper products,1.0
+c05.6.1,Non-durable household goods (ND),p27.44.w,"Secondary copper for treatment, Re-processing of secondary copper into new copper",1.0
+c05.6.1,Non-durable household goods (ND),p27.45,Other non-ferrous metal products,1.0
+c05.6.1,Non-durable household goods (ND),p27.45.w,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",1.0
+c05.6.1,Non-durable household goods (ND),p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+c05.6.1,Non-durable household goods (ND),p29,Machinery and equipment n.e.c. (29),1.0
+c05.6.1,Non-durable household goods (ND),p36,Furniture; other manufactured goods n.e.c. (36),1.0
+c05.6.2,Domestic services and household services (S),p01.a,Paddy rice,1.0
+c05.6.2,Domestic services and household services (S),p01.b,Wheat,1.0
+c05.6.2,Domestic services and household services (S),p01.c,Cereal grains nec,1.0
+c05.6.2,Domestic services and household services (S),p01.d,"Vegetables, fruit, nuts",1.0
+c05.6.2,Domestic services and household services (S),p01.e,Oil seeds,1.0
+c05.6.2,Domestic services and household services (S),p01.f,"Sugar cane, sugar beet",1.0
+c05.6.2,Domestic services and household services (S),p01.g,Plant-based fibers,1.0
+c05.6.2,Domestic services and household services (S),p01.h,Crops nec,1.0
+c05.6.2,Domestic services and household services (S),p01.i,Cattle,1.0
+c05.6.2,Domestic services and household services (S),p01.j,Pigs,1.0
+c05.6.2,Domestic services and household services (S),p01.k,Poultry,1.0
+c05.6.2,Domestic services and household services (S),p01.l,Meat animals nec,1.0
+c05.6.2,Domestic services and household services (S),p01.m,Animal products nec,1.0
+c05.6.2,Domestic services and household services (S),p01.n,Raw milk,1.0
+c05.6.2,Domestic services and household services (S),p01.o,"Wool, silk-worm cocoons",1.0
+c05.6.2,Domestic services and household services (S),p01.w.1,Manure (conventional treatment),1.0
+c05.6.2,Domestic services and household services (S),p01.w.2,Manure (biogas treatment),1.0
+c05.6.2,Domestic services and household services (S),p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+c05.6.2,Domestic services and household services (S),p74,Other business services (74),1.0
+c05.6.2,Domestic services and household services (S),p93,Other services (93),1.0
+c05.6.2,Domestic services and household services (S),p95,Private households with employed persons (95),1.0
+c05.6.2,Domestic services and household services (S),p99,Extra-territorial organizations and bodies,1.0
+c06.1.1,Pharmaceutical products (ND),p01.a,Paddy rice,1.0
+c06.1.1,Pharmaceutical products (ND),p01.b,Wheat,1.0
+c06.1.1,Pharmaceutical products (ND),p01.c,Cereal grains nec,1.0
+c06.1.1,Pharmaceutical products (ND),p01.e,Oil seeds,1.0
+c06.1.1,Pharmaceutical products (ND),p01.f,"Sugar cane, sugar beet",1.0
+c06.1.1,Pharmaceutical products (ND),p01.g,Plant-based fibers,1.0
+c06.1.1,Pharmaceutical products (ND),p01.h,Crops nec,1.0
+c06.1.1,Pharmaceutical products (ND),p15.j,Beverages,1.0
+c06.1.1,Pharmaceutical products (ND),p24.d,Chemicals nec,1.0
+c06.1.1,Pharmaceutical products (ND),p24.e,Charcoal,1.0
+c06.1.1,Pharmaceutical products (ND),p24.f,Additives/Blending Components,1.0
+c06.1.1,Pharmaceutical products (ND),p24.g,Biogasoline,1.0
+c06.1.1,Pharmaceutical products (ND),p24.h,Biodiesels,1.0
+c06.1.1,Pharmaceutical products (ND),p24.i,Other Liquid Biofuels,1.0
+c06.1.2,Other medical products (ND),p15.j,Beverages,1.0
+c06.1.2,Other medical products (ND),p17,Textiles (17),1.0
+c06.1.2,Other medical products (ND),p24.d,Chemicals nec,1.0
+c06.1.2,Other medical products (ND),p24.e,Charcoal,1.0
+c06.1.2,Other medical products (ND),p24.f,Additives/Blending Components,1.0
+c06.1.2,Other medical products (ND),p24.g,Biogasoline,1.0
+c06.1.2,Other medical products (ND),p24.h,Biodiesels,1.0
+c06.1.2,Other medical products (ND),p24.i,Other Liquid Biofuels,1.0
+c06.1.2,Other medical products (ND),p25,Rubber and plastic products (25),1.0
+c06.1.2,Other medical products (ND),p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+c06.1.3,Therapeutic appliances and equipment (D),p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+c06.1.3,Therapeutic appliances and equipment (D),p35,Other transport equipment (35),1.0
+c06.2.1,Medical services (S),p85,Health and social work services (85),1.0
+c06.2.2,Dental services (S),p85,Health and social work services (85),1.0
+c06.2.3,Paramedical services (S),p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+c06.2.3,Paramedical services (S),p74,Other business services (74),1.0
+c06.2.3,Paramedical services (S),p85,Health and social work services (85),1.0
+c06.2.3,Paramedical services (S),p93,Other services (93),1.0
+c06.2.3,Paramedical services (S),p99,Extra-territorial organizations and bodies,1.0
+c06.3.0,Hospital services (S),p85,Health and social work services (85),1.0
+c07.1.1,Motor cars (D),p34,"Motor vehicles, trailers and semi-trailers (34)",1.0
+c07.1.2,Motor cycles (D),p34,"Motor vehicles, trailers and semi-trailers (34)",1.0
+c07.1.2,Motor cycles (D),p35,Other transport equipment (35),1.0
+c07.1.3,Bicycles (D),p35,Other transport equipment (35),1.0
+c07.1.4,Animal drawn vehicles (D),p01.i,Cattle,1.0
+c07.1.4,Animal drawn vehicles (D),p01.j,Pigs,1.0
+c07.1.4,Animal drawn vehicles (D),p01.k,Poultry,1.0
+c07.1.4,Animal drawn vehicles (D),p01.l,Meat animals nec,1.0
+c07.1.4,Animal drawn vehicles (D),p01.m,Animal products nec,1.0
+c07.1.4,Animal drawn vehicles (D),p01.n,Raw milk,1.0
+c07.1.4,Animal drawn vehicles (D),p01.o,"Wool, silk-worm cocoons",1.0
+c07.1.4,Animal drawn vehicles (D),p01.w.1,Manure (conventional treatment),1.0
+c07.1.4,Animal drawn vehicles (D),p01.w.2,Manure (biogas treatment),1.0
+c07.1.4,Animal drawn vehicles (D),p19,Leather and leather products (19),1.0
+c07.1.4,Animal drawn vehicles (D),p35,Other transport equipment (35),1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),p17,Textiles (17),1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),p24.d,Chemicals nec,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),p24.e,Charcoal,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),p24.f,Additives/Blending Components,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),p24.g,Biogasoline,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),p24.h,Biodiesels,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),p24.i,Other Liquid Biofuels,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),p25,Rubber and plastic products (25),1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),p26.a,Glass and glass products,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),p26.a.w,"Secondary glass for treatment, Re-processing of secondary glass into new glass",1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),p29,Machinery and equipment n.e.c. (29),1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),p31,Electrical machinery and apparatus n.e.c. (31),1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),p32,"Radio, television and communication equipment and apparatus (32)",1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),p34,"Motor vehicles, trailers and semi-trailers (34)",1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),p35,Other transport equipment (35),1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.1.b,Gas Coke,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.1.c,Coal Tar,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.20.a,Motor Gasoline,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.20.b,Aviation Gasoline,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.20.c,Gasoline Type Jet Fuel,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.20.d,Kerosene Type Jet Fuel,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.20.e,Kerosene,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.20.f,Gas/Diesel Oil,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.20.g,Heavy Fuel Oil,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.20.h,Refinery Gas,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.20.i,Liquefied Petroleum Gases (LPG),1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.20.j,Refinery Feedstocks,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.20.k,Ethane,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.20.l,Naphtha,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.20.m,White Spirit & SBP,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.20.n,Lubricants,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.20.o,Bitumen,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.20.p,Paraffin Waxes,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.20.q,Petroleum Coke,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p23.20.r,Non-specified Petroleum Products,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p24.d,Chemicals nec,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p24.e,Charcoal,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p24.f,Additives/Blending Components,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p24.g,Biogasoline,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p24.h,Biodiesels,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),p24.i,Other Liquid Biofuels,1.0
+c07.2.3,Maintenance and repair of personal transport equipment (S),p50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+c07.2.3,Maintenance and repair of personal transport equipment (S),p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+c07.2.4,Other services in respect of personal transport equipment (S),p61.2,Inland water transportation services,1.0
+c07.2.4,Other services in respect of personal transport equipment (S),p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+c07.2.4,Other services in respect of personal transport equipment (S),p70,Real estate services (70),1.0
+c07.2.4,Other services in respect of personal transport equipment (S),p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+c07.2.4,Other services in respect of personal transport equipment (S),p74,Other business services (74),1.0
+c07.2.4,Other services in respect of personal transport equipment (S),p80,Education services (80),1.0
+c07.3.1,Passenger transport by railway (S),p60.1,Railway transportation services,1.0
+c07.3.1,Passenger transport by railway (S),p60.2,Other land transportation services,1.0
+c07.3.2,Passenger transport by road (S),p60.2,Other land transportation services,1.0
+c07.3.3,Passenger transport by air (S),p62,Air transport services (62),1.0
+c07.3.3,Passenger transport by air (S),p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+c07.3.4,Passenger transport by sea and inland waterway (S),p61.1,Sea and coastal water transportation services,1.0
+c07.3.4,Passenger transport by sea and inland waterway (S),p61.2,Inland water transportation services,1.0
+c07.3.4,Passenger transport by sea and inland waterway (S),p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+c07.3.5,Combined passenger transport (S),p61.1,Sea and coastal water transportation services,1.0
+c07.3.5,Combined passenger transport (S),p61.2,Inland water transportation services,1.0
+c07.3.5,Combined passenger transport (S),p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+c07.3.6,Other purchased transport services (S),p60.2,Other land transportation services,1.0
+c07.3.6,Other purchased transport services (S),p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+c07.3.6,Other purchased transport services (S),p64,Post and telecommunication services (64),1.0
+c08.1.0,Postal services (S),p64,Post and telecommunication services (64),1.0
+c08.2.0,Telephone and telefax equipment (D),p32,"Radio, television and communication equipment and apparatus (32)",1.0
+c08.3.0,Telephone and telefax services (S),p64,Post and telecommunication services (64),1.0
+c08.3.0,Telephone and telefax services (S),p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+c08.3.0,Telephone and telefax services (S),p74,Other business services (74),1.0
+c09.1.1,"Equipment for the reception, recording and reproduction of sound and pictures (D)",p32,"Radio, television and communication equipment and apparatus (32)",1.0
+c09.1.1,"Equipment for the reception, recording and reproduction of sound and pictures (D)",p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+c09.1.2,Photographic and cinematographic equipment and optical instruments (D),p32,"Radio, television and communication equipment and apparatus (32)",1.0
+c09.1.2,Photographic and cinematographic equipment and optical instruments (D),p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+c09.1.3,Information processing equipment (D),p22,Printed matter and recorded media (22),1.0
+c09.1.3,Information processing equipment (D),p30,Office machinery and computers (30),1.0
+c09.1.3,Information processing equipment (D),p72,Computer and related services (72),1.0
+c09.1.4,Recording media (SD),p21.w.1,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",1.0
+c09.1.4,Recording media (SD),p21.2,Paper and paper products,1.0
+c09.1.4,Recording media (SD),p22,Printed matter and recorded media (22),1.0
+c09.1.4,Recording media (SD),p24.d,Chemicals nec,1.0
+c09.1.4,Recording media (SD),p24.e,Charcoal,1.0
+c09.1.4,Recording media (SD),p24.f,Additives/Blending Components,1.0
+c09.1.4,Recording media (SD),p24.g,Biogasoline,1.0
+c09.1.4,Recording media (SD),p24.h,Biodiesels,1.0
+c09.1.4,Recording media (SD),p24.i,Other Liquid Biofuels,1.0
+c09.1.4,Recording media (SD),p25,Rubber and plastic products (25),1.0
+c09.1.4,Recording media (SD),p31,Electrical machinery and apparatus n.e.c. (31),1.0
+c09.1.4,Recording media (SD),p72,Computer and related services (72),1.0
+c09.1.5,"Repair of audio-visual, photographic and information processing equipment (S)",p30,Office machinery and computers (30),1.0
+c09.1.5,"Repair of audio-visual, photographic and information processing equipment (S)",p45,Construction work (45),1.0
+c09.1.5,"Repair of audio-visual, photographic and information processing equipment (S)",p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+c09.1.5,"Repair of audio-visual, photographic and information processing equipment (S)",p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+c09.1.5,"Repair of audio-visual, photographic and information processing equipment (S)",p72,Computer and related services (72),1.0
+c09.2.1,Major durables for outdoor recreation (D),p01.i,Cattle,1.0
+c09.2.1,Major durables for outdoor recreation (D),p01.l,Meat animals nec,1.0
+c09.2.1,Major durables for outdoor recreation (D),p01.m,Animal products nec,1.0
+c09.2.1,Major durables for outdoor recreation (D),p01.n,Raw milk,1.0
+c09.2.1,Major durables for outdoor recreation (D),p01.o,"Wool, silk-worm cocoons",1.0
+c09.2.1,Major durables for outdoor recreation (D),p01.w.1,Manure (conventional treatment),1.0
+c09.2.1,Major durables for outdoor recreation (D),p01.w.2,Manure (biogas treatment),1.0
+c09.2.1,Major durables for outdoor recreation (D),p17,Textiles (17),1.0
+c09.2.1,Major durables for outdoor recreation (D),p19,Leather and leather products (19),1.0
+c09.2.1,Major durables for outdoor recreation (D),p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+c09.2.1,Major durables for outdoor recreation (D),p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+c09.2.1,Major durables for outdoor recreation (D),p29,Machinery and equipment n.e.c. (29),1.0
+c09.2.1,Major durables for outdoor recreation (D),p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+c09.2.1,Major durables for outdoor recreation (D),p34,"Motor vehicles, trailers and semi-trailers (34)",1.0
+c09.2.1,Major durables for outdoor recreation (D),p35,Other transport equipment (35),1.0
+c09.2.1,Major durables for outdoor recreation (D),p36,Furniture; other manufactured goods n.e.c. (36),1.0
+c09.2.2,Musical instruments and major durables for indoor recreation (D),p19,Leather and leather products (19),1.0
+c09.2.2,Musical instruments and major durables for indoor recreation (D),p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+c09.2.2,Musical instruments and major durables for indoor recreation (D),p36,Furniture; other manufactured goods n.e.c. (36),1.0
+c09.2.3,Maintenance and repair of other major durables for recreation and culture (S),p34,"Motor vehicles, trailers and semi-trailers (34)",1.0
+c09.2.3,Maintenance and repair of other major durables for recreation and culture (S),p35,Other transport equipment (35),1.0
+c09.2.3,Maintenance and repair of other major durables for recreation and culture (S),p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+c09.2.3,Maintenance and repair of other major durables for recreation and culture (S),p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+c09.2.3,Maintenance and repair of other major durables for recreation and culture (S),p85,Health and social work services (85),1.0
+c09.3.1,"Games, toys and hobbies (SD)",p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+c09.3.1,"Games, toys and hobbies (SD)",p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+c09.3.1,"Games, toys and hobbies (SD)",p22,Printed matter and recorded media (22),1.0
+c09.3.1,"Games, toys and hobbies (SD)",p24.d,Chemicals nec,1.0
+c09.3.1,"Games, toys and hobbies (SD)",p24.e,Charcoal,1.0
+c09.3.1,"Games, toys and hobbies (SD)",p24.f,Additives/Blending Components,1.0
+c09.3.1,"Games, toys and hobbies (SD)",p24.g,Biogasoline,1.0
+c09.3.1,"Games, toys and hobbies (SD)",p24.h,Biodiesels,1.0
+c09.3.1,"Games, toys and hobbies (SD)",p24.i,Other Liquid Biofuels,1.0
+c09.3.1,"Games, toys and hobbies (SD)",p26.a,Glass and glass products,1.0
+c09.3.1,"Games, toys and hobbies (SD)",p26.a.w,"Secondary glass for treatment, Re-processing of secondary glass into new glass",1.0
+c09.3.1,"Games, toys and hobbies (SD)",p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+c09.3.1,"Games, toys and hobbies (SD)",p29,Machinery and equipment n.e.c. (29),1.0
+c09.3.1,"Games, toys and hobbies (SD)",p31,Electrical machinery and apparatus n.e.c. (31),1.0
+c09.3.1,"Games, toys and hobbies (SD)",p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+c09.3.1,"Games, toys and hobbies (SD)",p36,Furniture; other manufactured goods n.e.c. (36),1.0
+c09.3.1,"Games, toys and hobbies (SD)",p72,Computer and related services (72),1.0
+c09.3.1,"Games, toys and hobbies (SD)",p92,"Recreational, cultural and sporting services (92)",1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",p14.1,Stone,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",p14.2,Sand and clay,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",p17,Textiles (17),1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",p19,Leather and leather products (19),1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",p25,Rubber and plastic products (25),1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",p29,Machinery and equipment n.e.c. (29),1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",p31,Electrical machinery and apparatus n.e.c. (31),1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",p35,Other transport equipment (35),1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",p36,Furniture; other manufactured goods n.e.c. (36),1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p01.a,Paddy rice,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p01.b,Wheat,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p01.c,Cereal grains nec,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p01.d,"Vegetables, fruit, nuts",1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p01.e,Oil seeds,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p01.f,"Sugar cane, sugar beet",1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p01.g,Plant-based fibers,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p01.h,Crops nec,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p02,"Products of forestry, logging and related services (02)",1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p10.a,Anthracite,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p10.b,Coking Coal,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p10.c,Other Bituminous Coal,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p10.d,Sub-Bituminous Coal,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p10.e,Patent Fuel,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p10.f,Lignite/Brown Coal,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p10.g,BKB/Peat Briquettes,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p10.h,Peat,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p14.3,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p24.b,N-fertiliser,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p24.c,P- and other fertiliser,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p24.d,Chemicals nec,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p24.e,Charcoal,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p24.f,Additives/Blending Components,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p24.g,Biogasoline,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p24.h,Biodiesels,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p24.i,Other Liquid Biofuels,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p25,Rubber and plastic products (25),1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p26.b,Ceramic goods,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+c09.3.3,"Gardens, plants and flowers (ND)",p36,Furniture; other manufactured goods n.e.c. (36),1.0
+c09.3.4,Pets and related products (ND),p01.j,Pigs,1.0
+c09.3.4,Pets and related products (ND),p01.k,Poultry,1.0
+c09.3.4,Pets and related products (ND),p01.l,Meat animals nec,1.0
+c09.3.4,Pets and related products (ND),p01.m,Animal products nec,1.0
+c09.3.4,Pets and related products (ND),p01.n,Raw milk,1.0
+c09.3.4,Pets and related products (ND),p01.o,"Wool, silk-worm cocoons",1.0
+c09.3.4,Pets and related products (ND),p01.w.1,Manure (conventional treatment),1.0
+c09.3.4,Pets and related products (ND),p01.w.2,Manure (biogas treatment),1.0
+c09.3.4,Pets and related products (ND),p05,Fish and other fishing products; services incidental of fishing (05),1.0
+c09.3.4,Pets and related products (ND),p14.1,Stone,1.0
+c09.3.4,Pets and related products (ND),p14.2,Sand and clay,1.0
+c09.3.4,Pets and related products (ND),p15.g,Processed rice,1.0
+c09.3.4,Pets and related products (ND),p15.i,Food products nec,1.0
+c09.3.4,Pets and related products (ND),p19,Leather and leather products (19),1.0
+c09.3.4,Pets and related products (ND),p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+c09.3.4,Pets and related products (ND),p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+c09.3.4,Pets and related products (ND),p24.d,Chemicals nec,1.0
+c09.3.4,Pets and related products (ND),p24.e,Charcoal,1.0
+c09.3.4,Pets and related products (ND),p24.f,Additives/Blending Components,1.0
+c09.3.4,Pets and related products (ND),p24.g,Biogasoline,1.0
+c09.3.4,Pets and related products (ND),p24.h,Biodiesels,1.0
+c09.3.4,Pets and related products (ND),p24.i,Other Liquid Biofuels,1.0
+c09.3.4,Pets and related products (ND),p25,Rubber and plastic products (25),1.0
+c09.3.4,Pets and related products (ND),p26.a,Glass and glass products,1.0
+c09.3.4,Pets and related products (ND),p26.a.w,"Secondary glass for treatment, Re-processing of secondary glass into new glass",1.0
+c09.3.4,Pets and related products (ND),p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+c09.3.4,Pets and related products (ND),p29,Machinery and equipment n.e.c. (29),1.0
+c09.3.4,Pets and related products (ND),p36,Furniture; other manufactured goods n.e.c. (36),1.0
+c09.3.5,Veterinary and other services for pets (S),p01.a,Paddy rice,1.0
+c09.3.5,Veterinary and other services for pets (S),p01.b,Wheat,1.0
+c09.3.5,Veterinary and other services for pets (S),p01.c,Cereal grains nec,1.0
+c09.3.5,Veterinary and other services for pets (S),p01.d,"Vegetables, fruit, nuts",1.0
+c09.3.5,Veterinary and other services for pets (S),p01.e,Oil seeds,1.0
+c09.3.5,Veterinary and other services for pets (S),p01.f,"Sugar cane, sugar beet",1.0
+c09.3.5,Veterinary and other services for pets (S),p01.g,Plant-based fibers,1.0
+c09.3.5,Veterinary and other services for pets (S),p01.h,Crops nec,1.0
+c09.3.5,Veterinary and other services for pets (S),p01.i,Cattle,1.0
+c09.3.5,Veterinary and other services for pets (S),p01.j,Pigs,1.0
+c09.3.5,Veterinary and other services for pets (S),p01.k,Poultry,1.0
+c09.3.5,Veterinary and other services for pets (S),p01.l,Meat animals nec,1.0
+c09.3.5,Veterinary and other services for pets (S),p01.m,Animal products nec,1.0
+c09.3.5,Veterinary and other services for pets (S),p01.n,Raw milk,1.0
+c09.3.5,Veterinary and other services for pets (S),p01.o,"Wool, silk-worm cocoons",1.0
+c09.3.5,Veterinary and other services for pets (S),p01.w.1,Manure (conventional treatment),1.0
+c09.3.5,Veterinary and other services for pets (S),p01.w.2,Manure (biogas treatment),1.0
+c09.3.5,Veterinary and other services for pets (S),p85,Health and social work services (85),1.0
+c09.3.5,Veterinary and other services for pets (S),p93,Other services (93),1.0
+c09.3.5,Veterinary and other services for pets (S),p99,Extra-territorial organizations and bodies,1.0
+c09.4.1,Recreational and sporting services (S),p60.2,Other land transportation services,1.0
+c09.4.1,Recreational and sporting services (S),p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+c09.4.1,Recreational and sporting services (S),p70,Real estate services (70),1.0
+c09.4.1,Recreational and sporting services (S),p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+c09.4.1,Recreational and sporting services (S),p80,Education services (80),1.0
+c09.4.1,Recreational and sporting services (S),p92,"Recreational, cultural and sporting services (92)",1.0
+c09.4.1,Recreational and sporting services (S),p93,Other services (93),1.0
+c09.4.1,Recreational and sporting services (S),p99,Extra-territorial organizations and bodies,1.0
+c09.4.2,Cultural services (S),p64,Post and telecommunication services (64),1.0
+c09.4.2,Cultural services (S),p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+c09.4.2,Cultural services (S),p72,Computer and related services (72),1.0
+c09.4.2,Cultural services (S),p74,Other business services (74),1.0
+c09.4.2,Cultural services (S),p92,"Recreational, cultural and sporting services (92)",1.0
+c09.4.3,Games of chance (S),p92,"Recreational, cultural and sporting services (92)",1.0
+c09.5.1,Books (SD),p22,Printed matter and recorded media (22),1.0
+c09.5.2,Newspapers and periodicals (ND),p22,Printed matter and recorded media (22),1.0
+c09.5.3,Miscellaneous printed matter (ND),p22,Printed matter and recorded media (22),1.0
+c09.5.4,Stationery and drawing materials (ND),p21.1,Pulp,1.0
+c09.5.4,Stationery and drawing materials (ND),p21.w.1,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",1.0
+c09.5.4,Stationery and drawing materials (ND),p21.2,Paper and paper products,1.0
+c09.5.4,Stationery and drawing materials (ND),p22,Printed matter and recorded media (22),1.0
+c09.5.4,Stationery and drawing materials (ND),p24.d,Chemicals nec,1.0
+c09.5.4,Stationery and drawing materials (ND),p24.e,Charcoal,1.0
+c09.5.4,Stationery and drawing materials (ND),p24.f,Additives/Blending Components,1.0
+c09.5.4,Stationery and drawing materials (ND),p24.g,Biogasoline,1.0
+c09.5.4,Stationery and drawing materials (ND),p24.h,Biodiesels,1.0
+c09.5.4,Stationery and drawing materials (ND),p24.i,Other Liquid Biofuels,1.0
+c09.5.4,Stationery and drawing materials (ND),p25,Rubber and plastic products (25),1.0
+c09.5.4,Stationery and drawing materials (ND),p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+c09.5.4,Stationery and drawing materials (ND),p29,Machinery and equipment n.e.c. (29),1.0
+c09.5.4,Stationery and drawing materials (ND),p30,Office machinery and computers (30),1.0
+c09.5.4,Stationery and drawing materials (ND),p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+c09.5.4,Stationery and drawing materials (ND),p36,Furniture; other manufactured goods n.e.c. (36),1.0
+c09.6.0,Package holidays (S),p60.2,Other land transportation services,1.0
+c09.6.0,Package holidays (S),p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+c10.1.0,Pre-primary and primary education (S),p80,Education services (80),1.0
+c10.2.0,Secondary education (S),p80,Education services (80),1.0
+c10.3.0,Post-secondary non-tertiary education (S),p80,Education services (80),1.0
+c10.4.0,Tertiary education (S),p80,Education services (80),1.0
+c10.5.0,Education not definable by level (S),p80,Education services (80),1.0
+c11.1.1,"Restaurants, cafés and the like (S)",p55,Hotel and restaurant services (55),1.0
+c11.1.2,Canteens (S),p55,Hotel and restaurant services (55),1.0
+c11.2.0,Accommodation services (S),p55,Hotel and restaurant services (55),1.0
+c12.1.1,Hairdressing salons and personal grooming establishments (S),p93,Other services (93),1.0
+c12.1.1,Hairdressing salons and personal grooming establishments (S),p99,Extra-territorial organizations and bodies,1.0
+c12.1.2,Electric appliances for personal care (SD),p29,Machinery and equipment n.e.c. (29),1.0
+c12.1.2,Electric appliances for personal care (SD),p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",p05,Fish and other fishing products; services incidental of fishing (05),1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",p17,Textiles (17),1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",p18,Wearing apparel; furs (18),1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",p21.w.1,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",p21.2,Paper and paper products,1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",p24.d,Chemicals nec,1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",p24.e,Charcoal,1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",p24.f,Additives/Blending Components,1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",p24.g,Biogasoline,1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",p24.h,Biodiesels,1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",p24.i,Other Liquid Biofuels,1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",p29,Machinery and equipment n.e.c. (29),1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",p36,Furniture; other manufactured goods n.e.c. (36),1.0
+c12.2.0,Prostitution (S),p93,Other services (93),1.0
+c12.2.0,Prostitution (S),p99,Extra-territorial organizations and bodies,1.0
+c12.3.1,"Jewellery, clocks and watches (D)",p05,Fish and other fishing products; services incidental of fishing (05),1.0
+c12.3.1,"Jewellery, clocks and watches (D)",p19,Leather and leather products (19),1.0
+c12.3.1,"Jewellery, clocks and watches (D)",p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+c12.3.1,"Jewellery, clocks and watches (D)",p36,Furniture; other manufactured goods n.e.c. (36),1.0
+c12.3.1,"Jewellery, clocks and watches (D)",p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+c12.3.2,Other personal effects  (SD),p19,Leather and leather products (19),1.0
+c12.3.2,Other personal effects  (SD),p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+c12.3.2,Other personal effects  (SD),p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+c12.3.2,Other personal effects  (SD),p25,Rubber and plastic products (25),1.0
+c12.3.2,Other personal effects  (SD),p26.a,Glass and glass products,1.0
+c12.3.2,Other personal effects  (SD),p26.a.w,"Secondary glass for treatment, Re-processing of secondary glass into new glass",1.0
+c12.3.2,Other personal effects  (SD),p26.b,Ceramic goods,1.0
+c12.3.2,Other personal effects  (SD),p26.e,Other non-metallic mineral products,1.0
+c12.3.2,Other personal effects  (SD),p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+c12.3.2,Other personal effects  (SD),p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+c12.3.2,Other personal effects  (SD),p36,Furniture; other manufactured goods n.e.c. (36),1.0
+c12.3.2,Other personal effects  (SD),p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+c12.4.0,Social protection (S),p85,Health and social work services (85),1.0
+c12.5.1,Life insurance (S),p66,"Insurance and pension funding services, except compulsory social security services (66)",1.0
+c12.5.2,Insurance connected with the dwelling (S),p66,"Insurance and pension funding services, except compulsory social security services (66)",1.0
+c12.5.3,Insurance connected with health (S),p66,"Insurance and pension funding services, except compulsory social security services (66)",1.0
+c12.5.4,Insurance connected with transport (S),p66,"Insurance and pension funding services, except compulsory social security services (66)",1.0
+c12.5.5,Other insurance (S),p66,"Insurance and pension funding services, except compulsory social security services (66)",1.0
+c12.6.1,FISIM (S),p65,"Financial intermediation services, except insurance and pension funding services (65)",1.0
+c12.6.2,Other financial services n.e.c. (S),p65,"Financial intermediation services, except insurance and pension funding services (65)",1.0
+c12.6.2,Other financial services n.e.c. (S),p67,Services auxiliary to financial intermediation (67),1.0
+c12.6.2,Other financial services n.e.c. (S),p74,Other business services (74),1.0
+c12.7.0,Other services n.e.c. (S),p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+c12.7.0,Other services n.e.c. (S),p67,Services auxiliary to financial intermediation (67),1.0
+c12.7.0,Other services n.e.c. (S),p70,Real estate services (70),1.0
+c12.7.0,Other services n.e.c. (S),p74,Other business services (74),1.0
+c12.7.0,Other services n.e.c. (S),p75,Public administration and defence services; compulsory social security services (75),1.0
+c12.7.0,Other services n.e.c. (S),p85,Health and social work services (85),1.0
+c12.7.0,Other services n.e.c. (S),p93,Other services (93),1.0
+c12.7.0,Other services n.e.c. (S),p99,Extra-territorial organizations and bodies,1.0

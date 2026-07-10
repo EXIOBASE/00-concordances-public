@@ -1,0 +1,201 @@
+source_code,source_name,target_code,target_name,weight
+p01.a,Paddy rice,,Food: Plant-based,1.0
+p01.b,Wheat,,Food: Plant-based,1.0
+p01.c,Cereal grains nec,,Food: Plant-based,1.0
+p01.d,"Vegetables, fruit, nuts",,Food: Plant-based,1.0
+p01.e,Oil seeds,,Food n.e.c.,1.0
+p01.f,"Sugar cane, sugar beet",,Food n.e.c.,1.0
+p01.g,Plant-based fibers,,Food: Plant-based,1.0
+p01.h,Crops nec,,Food: Plant-based,1.0
+p01.i,Cattle,,Food: Meat and fish,1.0
+p01.j,Pigs,,Food: Meat and fish,1.0
+p01.k,Poultry,,Food: Meat and fish,1.0
+p01.l,Meat animals nec,,Food: Meat and fish,1.0
+p01.m,Animal products nec,,Food: Meat and fish,1.0
+p01.n,Raw milk,,Food: Dairy and eggs,1.0
+p01.o,"Wool, silk-worm cocoons",,Clothing and Footware: Textiles and wool,1.0
+p01.w.1,Manure (conventional treatment),,Food n.e.c.,1.0
+p01.w.2,Manure (biogas treatment),,Food n.e.c.,1.0
+p02,"Products of forestry, logging and related services (02)",,Shelter: Wood products,1.0
+p05,Fish and other fishing products; services incidental of fishing (05),,Food: Meat and fish,1.0
+p10.a,Anthracite,,Shelter: Fuels and other shelter services,1.0
+p10.b,Coking Coal,,Shelter: Fuels and other shelter services,1.0
+p10.c,Other Bituminous Coal,,Shelter: Fuels and other shelter services,1.0
+p10.d,Sub-Bituminous Coal,,Shelter: Fuels and other shelter services,1.0
+p10.e,Patent Fuel,,Shelter: Fuels and other shelter services,1.0
+p10.f,Lignite/Brown Coal,,Shelter: Fuels and other shelter services,1.0
+p10.g,BKB/Peat Briquettes,,Shelter: Fuels and other shelter services,1.0
+p10.h,Peat,,Shelter: Fuels and other shelter services,1.0
+p11.a,"Crude petroleum and services related to crude oil extraction, excluding surveying",,Shelter: Fuels and other shelter services,1.0
+p11.b,"Natural gas and services related to natural gas extraction, excluding surveying",,Shelter: Fuels and other shelter services,1.0
+p11.b.1,Natural Gas Liquids,,Shelter: Fuels and other shelter services,1.0
+p11.c,Other Hydrocarbons,,Shelter: Fuels and other shelter services,1.0
+p12,Uranium and thorium ores (12),,Shelter: Fuels and other shelter services,1.0
+p13.1,Iron ores,,Shelter: Construction Materials,1.0
+p13.20.11,Copper ores and concentrates,,Shelter: Construction Materials,1.0
+p13.20.12,Nickel ores and concentrates,,Shelter: Construction Materials,1.0
+p13.20.13,Aluminium ores and concentrates,,Shelter: Construction Materials,1.0
+p13.20.14,Precious metal ores and concentrates,,Shelter: Construction Materials,1.0
+p13.20.15,"Lead, zinc and tin ores and concentrates",,Shelter: Construction Materials,1.0
+p13.20.16,Other non-ferrous metal ores and concentrates,,Shelter: Construction Materials,1.0
+p14.1,Stone,,Shelter: Construction Materials,1.0
+p14.2,Sand and clay,,Shelter: Construction Materials,1.0
+p14.3,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",,Food n.e.c.,1.0
+p15.a,Products of meat cattle,,Food: Meat and fish,1.0
+p15.b,Products of meat pigs,,Food: Meat and fish,1.0
+p15.c,Products of meat poultry,,Food: Meat and fish,1.0
+p15.d,Meat products nec,,Food: Meat and fish,1.0
+p15.e,products of Vegetable oils and fats,,Food: Plant-based,1.0
+p15.f,Dairy products,,Food: Dairy and eggs,1.0
+p15.g,Processed rice,,Food: Plant-based,1.0
+p15.h,Sugar,,Food n.e.c.,1.0
+p15.i,Food products nec,,Food n.e.c.,1.0
+p15.j,Beverages,,Food: Drinks and tobacco,1.0
+p15.k,Fish products,,Food: Meat and fish,1.0
+p16,Tobacco products (16),,Food: Drinks and tobacco,1.0
+p17,Textiles (17),,Clothing and Footware: Textiles and wool,1.0
+p18,Wearing apparel; furs (18),,Clothing and Footware: Fur and leather,1.0
+p19,Leather and leather products (19),,Clothing and Footware: Fur and leather,1.0
+p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),,Shelter: Wood products,1.0
+p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",,Shelter: Wood products,1.0
+p21.1,Pulp,,Manufactured products: Household interior,1.0
+p21.w.1,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",,Manufactured products: Household interior,1.0
+p21.2,Paper and paper products,,Manufactured products: Household interior,1.0
+p22,Printed matter and recorded media (22),,Manufactured products: Household interior,1.0
+p23.1.a,Coke Oven Coke,,Shelter: Fuels and other shelter services,1.0
+p23.1.b,Gas Coke,,Shelter: Fuels and other shelter services,1.0
+p23.1.c,Coal Tar,,Shelter: Fuels and other shelter services,1.0
+p23.20.a,Motor Gasoline,,Mobility by Land,1.0
+p23.20.b,Aviation Gasoline,,Mobility by Air,1.0
+p23.20.c,Gasoline Type Jet Fuel,,Mobility by Air,1.0
+p23.20.d,Kerosene Type Jet Fuel,,Mobility by Air,1.0
+p23.20.e,Kerosene,,Shelter: Fuels and other shelter services,1.0
+p23.20.f,Gas/Diesel Oil,,Mobility by Land,1.0
+p23.20.g,Heavy Fuel Oil,,Mobility by Land,1.0
+p23.20.h,Refinery Gas,,Shelter: Fuels and other shelter services,1.0
+p23.20.i,Liquefied Petroleum Gases (LPG),,Shelter: Fuels and other shelter services,1.0
+p23.20.j,Refinery Feedstocks,,Shelter: Fuels and other shelter services,1.0
+p23.20.k,Ethane,,Shelter: Fuels and other shelter services,1.0
+p23.20.l,Naphtha,,Shelter: Fuels and other shelter services,1.0
+p23.20.m,White Spirit & SBP,,Shelter: Construction Materials,1.0
+p23.20.n,Lubricants,,Shelter: Fuels and other shelter services,1.0
+p23.20.o,Bitumen,,Shelter: Construction Materials,1.0
+p23.20.p,Paraffin Waxes,,Manufactured products n.e.c.,1.0
+p23.20.q,Petroleum Coke,,Shelter: Fuels and other shelter services,1.0
+p23.20.r,Non-specified Petroleum Products,,Shelter: Fuels and other shelter services,1.0
+p23.3,Nuclear fuel,,Shelter: Fuels and other shelter services,1.0
+p24.a,"Plastics, basic",,Manufactured products n.e.c.,1.0
+p24.a.w,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",,Manufactured products n.e.c.,1.0
+p24.b,N-fertiliser,,Food n.e.c.,1.0
+p24.c,P- and other fertiliser,,Food n.e.c.,1.0
+p24.d,Chemicals nec,,Manufactured products n.e.c.,1.0
+p24.e,Charcoal,,Shelter: Fuels and other shelter services,1.0
+p24.f,Additives/Blending Components,,Mobility by Land,1.0
+p24.g,Biogasoline,,Mobility by Land,1.0
+p24.h,Biodiesels,,Mobility by Land,1.0
+p24.i,Other Liquid Biofuels,,Mobility by Land,1.0
+p25,Rubber and plastic products (25),,Manufactured products n.e.c.,1.0
+p26.a,Glass and glass products,,Shelter: Construction Materials,1.0
+p26.a.w,"Secondary glass for treatment, Re-processing of secondary glass into new glass",,Shelter: Construction Materials,1.0
+p26.b,Ceramic goods,,Shelter: Construction Materials,1.0
+p26.c,"Bricks, tiles and construction products, in baked clay",,Shelter: Construction Materials,1.0
+p26.d,"Cement, lime and plaster",,Shelter: Construction Materials,1.0
+p26.d.w,"Ash for treatment, Re-processing of ash into clinker",,Shelter: Construction Materials,1.0
+p26.e,Other non-metallic mineral products,,Shelter: Construction Materials,1.0
+p27.a,Basic iron and steel and of ferro-alloys and first products thereof,,Manufactured products n.e.c.,1.0
+p27.a.w,"Secondary steel for treatment, Re-processing of secondary steel into new steel",,Manufactured products n.e.c.,1.0
+p27.41,Precious metals,,Manufactured products n.e.c.,1.0
+p27.41.w,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",,Manufactured products n.e.c.,1.0
+p27.42,Aluminium and aluminium products,,Manufactured products n.e.c.,1.0
+p27.42.w,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",,Manufactured products n.e.c.,1.0
+p27.43,"Lead, zinc and tin and products thereof",,Manufactured products n.e.c.,1.0
+p27.43.w,"Secondary lead for treatment, Re-processing of secondary lead into new lead",,Manufactured products n.e.c.,1.0
+p27.44,Copper products,,Manufactured products n.e.c.,1.0
+p27.44.w,"Secondary copper for treatment, Re-processing of secondary copper into new copper",,Manufactured products n.e.c.,1.0
+p27.45,Other non-ferrous metal products,,Manufactured products n.e.c.,1.0
+p27.45.w,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",,Manufactured products n.e.c.,1.0
+p27.5,Foundry work services,,Manufactured products n.e.c.,1.0
+p28,"Fabricated metal products, except machinery and equipment (28)",,Manufactured products: Appliances	 machinery and electronics,1.0
+p29,Machinery and equipment n.e.c. (29),,Manufactured products: Appliances	 machinery and electronics,1.0
+p30,Office machinery and computers (30),,Manufactured products: Appliances	 machinery and electronics,1.0
+p31,Electrical machinery and apparatus n.e.c. (31),,Manufactured products: Appliances	 machinery and electronics,1.0
+p32,"Radio, television and communication equipment and apparatus (32)",,Manufactured products: Appliances	 machinery and electronics,1.0
+p33,"Medical, precision and optical instruments, watches and clocks (33)",,Manufactured products: Appliances	 machinery and electronics,1.0
+p34,"Motor vehicles, trailers and semi-trailers (34)",,Manufactured products: Vehicles and equipment,1.0
+p35,Other transport equipment (35),,Manufactured products: Vehicles and equipment,1.0
+p36,Furniture; other manufactured goods n.e.c. (36),,Manufactured products: Household interior,1.0
+p37,Secondary raw materials,,Manufactured products n.e.c.,1.0
+p37.w.1,"Bottles for treatment, Recycling of bottles by direct reuse",,Manufactured products n.e.c.,1.0
+p40.11.a,Electricity by coal,,Shelter: Electricity,1.0
+p40.11.b,Electricity by gas,,Shelter: Electricity,1.0
+p40.11.c,Electricity by nuclear,,Shelter: Electricity,1.0
+p40.11.d,Electricity by hydro,,Shelter: Electricity,1.0
+p40.11.e,Electricity by wind,,Shelter: Electricity,1.0
+p40.11.f,Electricity by petroleum and other oil derivatives,,Shelter: Electricity,1.0
+p40.11.g,Electricity by biomass and waste,,Shelter: Electricity,1.0
+p40.11.h,Electricity by solar photovoltaic,,Shelter: Electricity,1.0
+p40.11.i,Electricity by solar thermal,,Shelter: Electricity,1.0
+p40.11.j,"Electricity by tide, wave, ocean",,Shelter: Electricity,1.0
+p40.11.k,Electricity by Geothermal,,Shelter: Electricity,1.0
+p40.11.l,Electricity nec,,Shelter: Electricity,1.0
+p40.12,Transmission services of electricity,,Shelter: Electricity,1.0
+p40.13,Distribution and trade services of electricity,,Shelter: Electricity,1.0
+p40.2.a,Coke oven gas,,Shelter: Fuels and other shelter services,1.0
+p40.2.b,Blast Furnace Gas,,Shelter: Fuels and other shelter services,1.0
+p40.2.c,Oxygen Steel Furnace Gas,,Shelter: Fuels and other shelter services,1.0
+p40.2.d,Gas Works Gas,,Shelter: Fuels and other shelter services,1.0
+p40.2.e,Biogas,,Shelter: Fuels and other shelter services,1.0
+p40.2.1,Distribution services of gaseous fuels through mains,,Shelter: Fuels and other shelter services,1.0
+p40.3,Steam and hot water supply services,,Shelter: Fuels and other shelter services,1.0
+p41,"Collected and purified water, distribution services of water (41)",,Shelter: Fuels and other shelter services,1.0
+p45,Construction work (45),,Shelter: Construction Materials,1.0
+p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",,Shelter: Construction Materials,1.0
+p50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",,Services: Trade and retailing,1.0
+p50.b,Retail trade services of motor fuel,,Services: Trade and retailing,1.0
+p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",,Services: Trade and retailing,1.0
+p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",,Services: Trade and retailing,1.0
+p55,Hotel and restaurant services (55),,Services: Restaurant	 hotel and recreation,1.0
+p60.1,Railway transportation services,,Mobility by Land,1.0
+p60.2,Other land transportation services,,Mobility by Land,1.0
+p60.3,Transportation services via pipelines,,Mobility by Land,1.0
+p61.1,Sea and coastal water transportation services,,Mobility by Water,1.0
+p61.2,Inland water transportation services,,Mobility by Water,1.0
+p62,Air transport services (62),,Mobility by Air,1.0
+p63,Supporting and auxiliary transport services; travel agency services (63),,Services n.e.c.,1.0
+p64,Post and telecommunication services (64),,Services n.e.c.,1.0
+p65,"Financial intermediation services, except insurance and pension funding services (65)",,Services: Business and financial services,1.0
+p66,"Insurance and pension funding services, except compulsory social security services (66)",,Services: Business and financial services,1.0
+p67,Services auxiliary to financial intermediation (67),,Services: Business and financial services,1.0
+p70,Real estate services (70),,Shelter: Renting services and real estate,1.0
+p71,Renting services of machinery and equipment without operator and of personal and household goods (71),,Shelter: Renting services and real estate,1.0
+p72,Computer and related services (72),,Services: Health	 education and research,1.0
+p73,Research and development services (73),,Services: Health	 education and research,1.0
+p74,Other business services (74),,Services: Business and financial services,1.0
+p75,Public administration and defence services; compulsory social security services (75),,Services: Business and financial services,1.0
+p80,Education services (80),,Services: Health	 education and research,1.0
+p85,Health and social work services (85),,Services: Health	 education and research,1.0
+p90.1.a,Food waste for treatment: incineration,,Shelter: Waste,1.0
+p90.1.b,Paper waste for treatment: incineration,,Shelter: Waste,1.0
+p90.1.c,Plastic waste for treatment: incineration,,Shelter: Waste,1.0
+p90.1.d,Intert/metal waste for treatment: incineration,,Shelter: Waste,1.0
+p90.1.e,Textiles waste for treatment: incineration,,Shelter: Waste,1.0
+p90.1.f,Wood waste for treatment: incineration,,Shelter: Waste,1.0
+p90.1.g,Oil/hazardous waste for treatment: incineration,,Shelter: Waste,1.0
+p90.2.a,Food waste for treatment: biogasification and land application,,Shelter: Waste,1.0
+p90.2.b,Paper waste for treatment: biogasification and land application,,Shelter: Waste,1.0
+p90.2.c,Sewage sludge for treatment: biogasification and land application,,Shelter: Waste,1.0
+p90.3.a,Food waste for treatment: composting and land application,,Shelter: Waste,1.0
+p90.3.b,Paper and wood waste for treatment: composting and land application,,Shelter: Waste,1.0
+p90.4.a,Food waste for treatment: waste water treatment,,Shelter: Waste,1.0
+p90.4.b,Other waste for treatment: waste water treatment,,Shelter: Waste,1.0
+p90.5.a,Food waste for treatment: landfill,,Shelter: Waste,1.0
+p90.5.b,Paper for treatment: landfill,,Shelter: Waste,1.0
+p90.5.c,Plastic waste for treatment: landfill,,Shelter: Waste,1.0
+p90.5.d,Inert/metal/hazardous waste for treatment: landfill,,Shelter: Waste,1.0
+p90.5.e,Textiles waste for treatment: landfill,,Shelter: Waste,1.0
+p90.5.f,Wood waste for treatment: landfill,,Shelter: Waste,1.0
+p91,Membership organisation services n.e.c. (91),,Services: Restaurant	 hotel and recreation,1.0
+p92,"Recreational, cultural and sporting services (92)",,Services: Restaurant	 hotel and recreation,1.0
+p93,Other services (93),,Services n.e.c.,1.0
+p95,Private households with employed persons (95),,Services n.e.c.,1.0
+p99,Extra-territorial organizations and bodies,,Services: Business and financial services,1.0

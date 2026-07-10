@@ -1,0 +1,27 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "exiobase-concordances"
+version = "0.1.0"
+description = "Published concordance (correspondence) tables for EXIOBASE classifications"
+authors = [{name = "EXIOBASE Consortium"}]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.1",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/exiobase_concordances"]
+
+[project.urls]
+Homepage = "https://github.com/EXIOBASE/00-concordances-public"
+Issues = "https://github.com/EXIOBASE/00-concordances-public/issues"
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP"]

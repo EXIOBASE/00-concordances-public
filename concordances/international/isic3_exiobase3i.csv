@@ -1,0 +1,858 @@
+source_code,source_name,target_code,target_name,weight
+1,,i01.a,Cultivation of paddy rice,1.0
+1,,i01.b,Cultivation of wheat,1.0
+1,,i01.c,Cultivation of cereal grains nec,1.0
+1,,i01.d,"Cultivation of vegetables, fruit, nuts",1.0
+1,,i01.e,Cultivation of oil seeds,1.0
+1,,i01.f,"Cultivation of sugar cane, sugar beet",1.0
+1,,i01.g,Cultivation of plant-based fibers,1.0
+1,,i01.h,Cultivation of crops nec,1.0
+1,,i01.i,Cattle farming,1.0
+1,,i01.j,Pigs farming,1.0
+1,,i01.k,Poultry farming,1.0
+1,,i01.l,Meat animals nec,1.0
+1,,i01.m,Animal products nec,1.0
+1,,i01.n,Raw milk,1.0
+1,,i01.o,"Wool, silk-worm cocoons",1.0
+1,,i01.w.1,"Manure treatment (conventional), storage and land application",1.0
+1,,i01.w.2,"Manure treatment (biogas), storage and land application",1.0
+11,,i01.a,Cultivation of paddy rice,1.0
+11,,i01.b,Cultivation of wheat,1.0
+11,,i01.c,Cultivation of cereal grains nec,1.0
+11,,i01.d,"Cultivation of vegetables, fruit, nuts",1.0
+11,,i01.e,Cultivation of oil seeds,1.0
+11,,i01.f,"Cultivation of sugar cane, sugar beet",1.0
+11,,i01.g,Cultivation of plant-based fibers,1.0
+11,,i01.h,Cultivation of crops nec,1.0
+111,,i01.a,Cultivation of paddy rice,1.0
+111,,i01.b,Cultivation of wheat,1.0
+111,,i01.c,Cultivation of cereal grains nec,1.0
+111,,i01.e,Cultivation of oil seeds,1.0
+111,,i01.f,"Cultivation of sugar cane, sugar beet",1.0
+111,,i01.g,Cultivation of plant-based fibers,1.0
+111,,i01.h,Cultivation of crops nec,1.0
+112,,i01.d,"Cultivation of vegetables, fruit, nuts",1.0
+112,,i01.e,Cultivation of oil seeds,1.0
+112,,i01.h,Cultivation of crops nec,1.0
+113,,i01.d,"Cultivation of vegetables, fruit, nuts",1.0
+113,,i01.h,Cultivation of crops nec,1.0
+12,,i01.i,Cattle farming,1.0
+12,,i01.j,Pigs farming,1.0
+12,,i01.k,Poultry farming,1.0
+12,,i01.l,Meat animals nec,1.0
+12,,i01.m,Animal products nec,1.0
+12,,i01.n,Raw milk,1.0
+12,,i01.o,"Wool, silk-worm cocoons",1.0
+12,,i01.w.1,"Manure treatment (conventional), storage and land application",1.0
+12,,i01.w.2,"Manure treatment (biogas), storage and land application",1.0
+121,,i01.i,Cattle farming,1.0
+121,,i01.l,Meat animals nec,1.0
+121,,i01.m,Animal products nec,1.0
+121,,i01.n,Raw milk,1.0
+121,,i01.o,"Wool, silk-worm cocoons",1.0
+121,,i01.w.1,"Manure treatment (conventional), storage and land application",1.0
+121,,i01.w.2,"Manure treatment (biogas), storage and land application",1.0
+122,,i01.j,Pigs farming,1.0
+122,,i01.k,Poultry farming,1.0
+122,,i01.l,Meat animals nec,1.0
+122,,i01.m,Animal products nec,1.0
+122,,i01.n,Raw milk,1.0
+122,,i01.o,"Wool, silk-worm cocoons",1.0
+122,,i01.w.1,"Manure treatment (conventional), storage and land application",1.0
+122,,i01.w.2,"Manure treatment (biogas), storage and land application",1.0
+13,,i01.a,Cultivation of paddy rice,1.0
+13,,i01.b,Cultivation of wheat,1.0
+13,,i01.c,Cultivation of cereal grains nec,1.0
+13,,i01.d,"Cultivation of vegetables, fruit, nuts",1.0
+13,,i01.e,Cultivation of oil seeds,1.0
+13,,i01.f,"Cultivation of sugar cane, sugar beet",1.0
+13,,i01.g,Cultivation of plant-based fibers,1.0
+13,,i01.h,Cultivation of crops nec,1.0
+13,,i01.i,Cattle farming,1.0
+13,,i01.j,Pigs farming,1.0
+13,,i01.k,Poultry farming,1.0
+13,,i01.l,Meat animals nec,1.0
+13,,i01.m,Animal products nec,1.0
+13,,i01.n,Raw milk,1.0
+13,,i01.o,"Wool, silk-worm cocoons",1.0
+13,,i01.w.1,"Manure treatment (conventional), storage and land application",1.0
+13,,i01.w.2,"Manure treatment (biogas), storage and land application",1.0
+130,,i01.a,Cultivation of paddy rice,1.0
+130,,i01.b,Cultivation of wheat,1.0
+130,,i01.c,Cultivation of cereal grains nec,1.0
+130,,i01.d,"Cultivation of vegetables, fruit, nuts",1.0
+130,,i01.e,Cultivation of oil seeds,1.0
+130,,i01.f,"Cultivation of sugar cane, sugar beet",1.0
+130,,i01.g,Cultivation of plant-based fibers,1.0
+130,,i01.h,Cultivation of crops nec,1.0
+130,,i01.i,Cattle farming,1.0
+130,,i01.j,Pigs farming,1.0
+130,,i01.k,Poultry farming,1.0
+130,,i01.l,Meat animals nec,1.0
+130,,i01.m,Animal products nec,1.0
+130,,i01.n,Raw milk,1.0
+130,,i01.o,"Wool, silk-worm cocoons",1.0
+130,,i01.w.1,"Manure treatment (conventional), storage and land application",1.0
+130,,i01.w.2,"Manure treatment (biogas), storage and land application",1.0
+14,,i01.a,Cultivation of paddy rice,1.0
+14,,i01.b,Cultivation of wheat,1.0
+14,,i01.c,Cultivation of cereal grains nec,1.0
+14,,i01.d,"Cultivation of vegetables, fruit, nuts",1.0
+14,,i01.e,Cultivation of oil seeds,1.0
+14,,i01.f,"Cultivation of sugar cane, sugar beet",1.0
+14,,i01.g,Cultivation of plant-based fibers,1.0
+14,,i01.h,Cultivation of crops nec,1.0
+14,,i01.i,Cattle farming,1.0
+14,,i01.j,Pigs farming,1.0
+14,,i01.k,Poultry farming,1.0
+14,,i01.l,Meat animals nec,1.0
+14,,i01.m,Animal products nec,1.0
+14,,i01.n,Raw milk,1.0
+14,,i01.o,"Wool, silk-worm cocoons",1.0
+14,,i01.w.1,"Manure treatment (conventional), storage and land application",1.0
+14,,i01.w.2,"Manure treatment (biogas), storage and land application",1.0
+140,,i01.a,Cultivation of paddy rice,1.0
+140,,i01.b,Cultivation of wheat,1.0
+140,,i01.c,Cultivation of cereal grains nec,1.0
+140,,i01.d,"Cultivation of vegetables, fruit, nuts",1.0
+140,,i01.e,Cultivation of oil seeds,1.0
+140,,i01.f,"Cultivation of sugar cane, sugar beet",1.0
+140,,i01.g,Cultivation of plant-based fibers,1.0
+140,,i01.h,Cultivation of crops nec,1.0
+140,,i01.i,Cattle farming,1.0
+140,,i01.j,Pigs farming,1.0
+140,,i01.k,Poultry farming,1.0
+140,,i01.l,Meat animals nec,1.0
+140,,i01.m,Animal products nec,1.0
+140,,i01.n,Raw milk,1.0
+140,,i01.o,"Wool, silk-worm cocoons",1.0
+140,,i01.w.1,"Manure treatment (conventional), storage and land application",1.0
+140,,i01.w.2,"Manure treatment (biogas), storage and land application",1.0
+15,,i01.i,Cattle farming,1.0
+150,,i01.i,Cattle farming,1.0
+2,,i02,"Forestry, logging and related service activities (02)",1.0
+20,,i02,"Forestry, logging and related service activities (02)",1.0
+200,,i02,"Forestry, logging and related service activities (02)",1.0
+5,,i05,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing (05)",1.0
+50,,i05,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing (05)",1.0
+500,,i05,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing (05)",1.0
+10,,i10,Mining of coal and lignite; extraction of peat (10),1.0
+101,,i10,Mining of coal and lignite; extraction of peat (10),1.0
+1010,,i10,Mining of coal and lignite; extraction of peat (10),1.0
+102,,i10,Mining of coal and lignite; extraction of peat (10),1.0
+1020,,i10,Mining of coal and lignite; extraction of peat (10),1.0
+103,,i10,Mining of coal and lignite; extraction of peat (10),1.0
+1030,,i10,Mining of coal and lignite; extraction of peat (10),1.0
+11,,i11.a,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",1.0
+11,,i11.b,"Extraction of natural gas and services related to natural gas extraction, excluding surveying",1.0
+11,,i11.c,"Extraction, liquefaction, and regasification of other petroleum and gaseous materials",1.0
+1110,,i11.a,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",1.0
+1110,,i11.b,"Extraction of natural gas and services related to natural gas extraction, excluding surveying",1.0
+1110,,i11.c,"Extraction, liquefaction, and regasification of other petroleum and gaseous materials",1.0
+1120,,i11.a,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",1.0
+1120,,i11.b,"Extraction of natural gas and services related to natural gas extraction, excluding surveying",1.0
+1120,,i11.c,"Extraction, liquefaction, and regasification of other petroleum and gaseous materials",1.0
+12,,i12,Mining of uranium and thorium ores (12),1.0
+120,,i12,Mining of uranium and thorium ores (12),1.0
+1200,,i12,Mining of uranium and thorium ores (12),1.0
+131,,i13.1,Mining of iron ores,1.0
+1310,,i13.1,Mining of iron ores,1.0
+132,,i13.20.11,Mining of copper ores and concentrates,1.0
+132,,i13.20.12,Mining of nickel ores and concentrates,1.0
+132,,i13.20.13,Mining of aluminium ores and concentrates,1.0
+132,,i13.20.14,Mining of precious metal ores and concentrates,1.0
+132,,i13.20.15,"Mining of lead, zinc and tin ores and concentrates",1.0
+132,,i13.20.16,Mining of other non-ferrous metal ores and concentrates,1.0
+1320,,i13.20.11,Mining of copper ores and concentrates,1.0
+1320,,i13.20.12,Mining of nickel ores and concentrates,1.0
+1320,,i13.20.13,Mining of aluminium ores and concentrates,1.0
+1320,,i13.20.14,Mining of precious metal ores and concentrates,1.0
+1320,,i13.20.15,"Mining of lead, zinc and tin ores and concentrates",1.0
+1320,,i13.20.16,Mining of other non-ferrous metal ores and concentrates,1.0
+14,,i14.1,Quarrying of stone,1.0
+14,,i14.2,Quarrying of sand and clay,1.0
+14,,i14.3,"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",1.0
+141,,i14.1,Quarrying of stone,1.0
+141,,i14.2,Quarrying of sand and clay,1.0
+1410,,i14.1,Quarrying of stone,1.0
+1410,,i14.2,Quarrying of sand and clay,1.0
+142,,i14.3,"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",1.0
+1421,,i14.3,"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",1.0
+1422,,i14.3,"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",1.0
+1429,,i14.3,"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",1.0
+151,,i15.a,Processing of meat cattle,1.0
+151,,i15.b,Processing of meat pigs,1.0
+151,,i15.c,Processing of meat poultry,1.0
+151,,i15.d,Production of meat products nec,1.0
+151,,i15.e,Processing vegetable oils and fats,1.0
+151,,i15.f,Processing of dairy products,1.0
+151,,i15.g,Processed rice,1.0
+151,,i15.h,Sugar refining,1.0
+151,,i15.i,Processing of Food products nec,1.0
+151,,i15.j,Manufacture of beverages,1.0
+151,,i15.k,Manufacture of fish products,1.0
+1511,,i15.a,Processing of meat cattle,1.0
+1511,,i15.b,Processing of meat pigs,1.0
+1511,,i15.c,Processing of meat poultry,1.0
+1511,,i15.d,Production of meat products nec,1.0
+1512,,i15.k,Manufacture of fish products,1.0
+1513,,i15.g,Processed rice,1.0
+1513,,i15.i,Processing of Food products nec,1.0
+1514,,i15.e,Processing vegetable oils and fats,1.0
+152,,i15.f,Processing of dairy products,1.0
+1520,,i15.f,Processing of dairy products,1.0
+153,,i15.g,Processed rice,1.0
+153,,i15.i,Processing of Food products nec,1.0
+1531,,i15.g,Processed rice,1.0
+1531,,i15.i,Processing of Food products nec,1.0
+1532,,i15.g,Processed rice,1.0
+1532,,i15.i,Processing of Food products nec,1.0
+1533,,i15.g,Processed rice,1.0
+1533,,i15.i,Processing of Food products nec,1.0
+154,,i15.g,Processed rice,1.0
+154,,i15.i,Processing of Food products nec,1.0
+1541,,i15.g,Processed rice,1.0
+1541,,i15.i,Processing of Food products nec,1.0
+1542,,i15.h,Sugar refining,1.0
+1543,,i15.i,Processing of Food products nec,1.0
+1544,,i15.g,Processed rice,1.0
+1544,,i15.i,Processing of Food products nec,1.0
+1549,,i15.i,Processing of Food products nec,1.0
+155,,i15.j,Manufacture of beverages,1.0
+1551,,i15.j,Manufacture of beverages,1.0
+1552,,i15.j,Manufacture of beverages,1.0
+1553,,i15.j,Manufacture of beverages,1.0
+1554,,i15.j,Manufacture of beverages,1.0
+16,,i16,Manufacture of tobacco products (16),1.0
+160,,i16,Manufacture of tobacco products (16),1.0
+1600,,i16,Manufacture of tobacco products (16),1.0
+17,,i17,Manufacture of textiles (17),1.0
+171,,i17,Manufacture of textiles (17),1.0
+1711,,i17,Manufacture of textiles (17),1.0
+1712,,i17,Manufacture of textiles (17),1.0
+172,,i17,Manufacture of textiles (17),1.0
+1721,,i17,Manufacture of textiles (17),1.0
+1722,,i17,Manufacture of textiles (17),1.0
+1723,,i17,Manufacture of textiles (17),1.0
+1729,,i17,Manufacture of textiles (17),1.0
+173,,i17,Manufacture of textiles (17),1.0
+1730,,i17,Manufacture of textiles (17),1.0
+18,,i18,Manufacture of wearing apparel; dressing and dyeing of fur (18),1.0
+181,,i18,Manufacture of wearing apparel; dressing and dyeing of fur (18),1.0
+1810,,i18,Manufacture of wearing apparel; dressing and dyeing of fur (18),1.0
+182,,i18,Manufacture of wearing apparel; dressing and dyeing of fur (18),1.0
+1820,,i18,Manufacture of wearing apparel; dressing and dyeing of fur (18),1.0
+19,,i19,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear (19)",1.0
+191,,i19,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear (19)",1.0
+1911,,i19,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear (19)",1.0
+1912,,i19,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear (19)",1.0
+192,,i19,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear (19)",1.0
+1920,,i19,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear (19)",1.0
+20,,i20,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",1.0
+20,,i20.w,Re-processing of secondary wood material into new wood material,1.0
+201,,i20,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",1.0
+201,,i20.w,Re-processing of secondary wood material into new wood material,1.0
+2010,,i20,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",1.0
+2010,,i20.w,Re-processing of secondary wood material into new wood material,1.0
+202,,i20,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",1.0
+202,,i20.w,Re-processing of secondary wood material into new wood material,1.0
+2021,,i20,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",1.0
+2021,,i20.w,Re-processing of secondary wood material into new wood material,1.0
+2022,,i20,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",1.0
+2022,,i20.w,Re-processing of secondary wood material into new wood material,1.0
+2023,,i20,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",1.0
+2023,,i20.w,Re-processing of secondary wood material into new wood material,1.0
+2029,,i20,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",1.0
+2029,,i20.w,Re-processing of secondary wood material into new wood material,1.0
+21,,i21.1,Pulp,1.0
+21,,i21.w.1,Re-processing of secondary paper into new pulp,1.0
+21,,i21.2,Paper,1.0
+210,,i21.1,Pulp,1.0
+210,,i21.w.1,Re-processing of secondary paper into new pulp,1.0
+210,,i21.2,Paper,1.0
+2101,,i21.1,Pulp,1.0
+2101,,i21.w.1,Re-processing of secondary paper into new pulp,1.0
+2101,,i21.2,Paper,1.0
+2102,,i21.w.1,Re-processing of secondary paper into new pulp,1.0
+2102,,i21.2,Paper,1.0
+2109,,i21.w.1,Re-processing of secondary paper into new pulp,1.0
+2109,,i21.2,Paper,1.0
+22,,i22,"Publishing, printing and reproduction of recorded media (22)",1.0
+221,,i22,"Publishing, printing and reproduction of recorded media (22)",1.0
+2211,,i22,"Publishing, printing and reproduction of recorded media (22)",1.0
+2212,,i22,"Publishing, printing and reproduction of recorded media (22)",1.0
+2213,,i22,"Publishing, printing and reproduction of recorded media (22)",1.0
+2219,,i22,"Publishing, printing and reproduction of recorded media (22)",1.0
+222,,i22,"Publishing, printing and reproduction of recorded media (22)",1.0
+2221,,i22,"Publishing, printing and reproduction of recorded media (22)",1.0
+2222,,i22,"Publishing, printing and reproduction of recorded media (22)",1.0
+223,,i22,"Publishing, printing and reproduction of recorded media (22)",1.0
+2230,,i22,"Publishing, printing and reproduction of recorded media (22)",1.0
+23,,i23.1,Manufacture of coke oven products,1.0
+23,,i23.2,Petroleum Refinery,1.0
+23,,i23.3,Processing of nuclear fuel,1.0
+231,,i23.1,Manufacture of coke oven products,1.0
+2310,,i23.1,Manufacture of coke oven products,1.0
+232,,i23.2,Petroleum Refinery,1.0
+2320,,i23.2,Petroleum Refinery,1.0
+233,,i23.3,Processing of nuclear fuel,1.0
+2330,,i23.3,Processing of nuclear fuel,1.0
+24,,i24.a,"Plastics, basic",1.0
+24,,i24.a.w,Re-processing of secondary plastic into new plastic,1.0
+24,,i24.b,N-fertiliser,1.0
+24,,i24.c,P- and other fertiliser,1.0
+24,,i24.d,Chemicals nec,1.0
+241,,i24.a,"Plastics, basic",1.0
+241,,i24.a.w,Re-processing of secondary plastic into new plastic,1.0
+241,,i24.b,N-fertiliser,1.0
+241,,i24.c,P- and other fertiliser,1.0
+241,,i24.d,Chemicals nec,1.0
+2411,,i24.a,"Plastics, basic",1.0
+2411,,i24.a.w,Re-processing of secondary plastic into new plastic,1.0
+2411,,i24.d,Chemicals nec,1.0
+2412,,i24.b,N-fertiliser,1.0
+2412,,i24.c,P- and other fertiliser,1.0
+2412,,i24.d,Chemicals nec,1.0
+2413,,i24.a,"Plastics, basic",1.0
+2413,,i24.a.w,Re-processing of secondary plastic into new plastic,1.0
+2413,,i24.d,Chemicals nec,1.0
+242,,i24.d,Chemicals nec,1.0
+2421,,i24.d,Chemicals nec,1.0
+2422,,i24.d,Chemicals nec,1.0
+2423,,i24.d,Chemicals nec,1.0
+2424,,i24.d,Chemicals nec,1.0
+2429,,i24.d,Chemicals nec,1.0
+243,,i24.d,Chemicals nec,1.0
+2430,,i24.d,Chemicals nec,1.0
+25,,i25,Manufacture of rubber and plastic products (25),1.0
+251,,i25,Manufacture of rubber and plastic products (25),1.0
+2511,,i25,Manufacture of rubber and plastic products (25),1.0
+2519,,i25,Manufacture of rubber and plastic products (25),1.0
+252,,i25,Manufacture of rubber and plastic products (25),1.0
+2520,,i25,Manufacture of rubber and plastic products (25),1.0
+26,,i26.a,Manufacture of glass and glass products,1.0
+26,,i26.a.w,Re-processing of secondary glass into new glass,1.0
+26,,i26.b,Manufacture of ceramic goods,1.0
+26,,i26.c,"Manufacture of bricks, tiles and construction products, in baked clay",1.0
+26,,i26.d,"Manufacture of cement, lime and plaster",1.0
+26,,i26.d.w,Re-processing of ash into clinker,1.0
+26,,i26.e,Manufacture of other non-metallic mineral products n.e.c.,1.0
+261,,i26.a,Manufacture of glass and glass products,1.0
+261,,i26.a.w,Re-processing of secondary glass into new glass,1.0
+2610,,i26.a,Manufacture of glass and glass products,1.0
+2610,,i26.a.w,Re-processing of secondary glass into new glass,1.0
+269,,i26.b,Manufacture of ceramic goods,1.0
+269,,i26.c,"Manufacture of bricks, tiles and construction products, in baked clay",1.0
+269,,i26.d,"Manufacture of cement, lime and plaster",1.0
+269,,i26.d.w,Re-processing of ash into clinker,1.0
+269,,i26.e,Manufacture of other non-metallic mineral products n.e.c.,1.0
+2691,,i26.b,Manufacture of ceramic goods,1.0
+2692,,i26.b,Manufacture of ceramic goods,1.0
+2693,,i26.c,"Manufacture of bricks, tiles and construction products, in baked clay",1.0
+2694,,i26.d,"Manufacture of cement, lime and plaster",1.0
+2695,,i26.e,Manufacture of other non-metallic mineral products n.e.c.,1.0
+2696,,i26.e,Manufacture of other non-metallic mineral products n.e.c.,1.0
+2699,,i26.e,Manufacture of other non-metallic mineral products n.e.c.,1.0
+27,,i27.a,Manufacture of basic iron and steel and of ferro-alloys and first products thereof,1.0
+27,,i27.a.w,Re-processing of secondary steel into new steel,1.0
+27,,i27.41,Precious metals production,1.0
+27,,i27.41.w,Re-processing of secondary preciuos metals into new preciuos metals,1.0
+27,,i27.42,Aluminium production,1.0
+27,,i27.42.w,Re-processing of secondary aluminium into new aluminium,1.0
+27,,i27.43,"Lead, zinc and tin production",1.0
+27,,i27.43.w,"Re-processing of secondary lead into new lead, zinc and tin",1.0
+27,,i27.44,Copper production,1.0
+27,,i27.44.w,Re-processing of secondary copper into new copper,1.0
+27,,i27.45,Other non-ferrous metal production,1.0
+27,,i27.45.w,Re-processing of secondary other non-ferrous metals into new other non-ferrous metals,1.0
+27,,i27.5,Casting of metals,1.0
+271,,i27.a,Manufacture of basic iron and steel and of ferro-alloys and first products thereof,1.0
+271,,i27.a.w,Re-processing of secondary steel into new steel,1.0
+2710,,i27.a,Manufacture of basic iron and steel and of ferro-alloys and first products thereof,1.0
+2710,,i27.a.w,Re-processing of secondary steel into new steel,1.0
+272,,i27.41,Precious metals production,1.0
+272,,i27.41.w,Re-processing of secondary preciuos metals into new preciuos metals,1.0
+272,,i27.42,Aluminium production,1.0
+272,,i27.42.w,Re-processing of secondary aluminium into new aluminium,1.0
+272,,i27.43,"Lead, zinc and tin production",1.0
+272,,i27.43.w,"Re-processing of secondary lead into new lead, zinc and tin",1.0
+272,,i27.44,Copper production,1.0
+272,,i27.44.w,Re-processing of secondary copper into new copper,1.0
+272,,i27.45,Other non-ferrous metal production,1.0
+272,,i27.45.w,Re-processing of secondary other non-ferrous metals into new other non-ferrous metals,1.0
+2720,,i27.41,Precious metals production,1.0
+2720,,i27.41.w,Re-processing of secondary preciuos metals into new preciuos metals,1.0
+2720,,i27.42,Aluminium production,1.0
+2720,,i27.42.w,Re-processing of secondary aluminium into new aluminium,1.0
+2720,,i27.43,"Lead, zinc and tin production",1.0
+2720,,i27.43.w,"Re-processing of secondary lead into new lead, zinc and tin",1.0
+2720,,i27.44,Copper production,1.0
+2720,,i27.44.w,Re-processing of secondary copper into new copper,1.0
+2720,,i27.45,Other non-ferrous metal production,1.0
+2720,,i27.45.w,Re-processing of secondary other non-ferrous metals into new other non-ferrous metals,1.0
+273,,i27.5,Casting of metals,1.0
+2731,,i27.5,Casting of metals,1.0
+2732,,i27.5,Casting of metals,1.0
+28,,i28,"Manufacture of fabricated metal products, except machinery and equipment (28)",1.0
+281,,i28,"Manufacture of fabricated metal products, except machinery and equipment (28)",1.0
+2811,,i28,"Manufacture of fabricated metal products, except machinery and equipment (28)",1.0
+2812,,i28,"Manufacture of fabricated metal products, except machinery and equipment (28)",1.0
+2813,,i28,"Manufacture of fabricated metal products, except machinery and equipment (28)",1.0
+289,,i28,"Manufacture of fabricated metal products, except machinery and equipment (28)",1.0
+2891,,i28,"Manufacture of fabricated metal products, except machinery and equipment (28)",1.0
+2892,,i28,"Manufacture of fabricated metal products, except machinery and equipment (28)",1.0
+2893,,i28,"Manufacture of fabricated metal products, except machinery and equipment (28)",1.0
+2899,,i28,"Manufacture of fabricated metal products, except machinery and equipment (28)",1.0
+29,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+291,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+2911,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+2912,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+2913,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+2914,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+2915,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+2919,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+292,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+2921,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+2922,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+2923,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+2924,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+2925,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+2926,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+2927,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+2929,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+293,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+2930,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+30,,i30,Manufacture of office machinery and computers (30),1.0
+300,,i30,Manufacture of office machinery and computers (30),1.0
+3000,,i30,Manufacture of office machinery and computers (30),1.0
+31,,i31,Manufacture of electrical machinery and apparatus n.e.c. (31),1.0
+311,,i31,Manufacture of electrical machinery and apparatus n.e.c. (31),1.0
+3110,,i31,Manufacture of electrical machinery and apparatus n.e.c. (31),1.0
+312,,i31,Manufacture of electrical machinery and apparatus n.e.c. (31),1.0
+3120,,i31,Manufacture of electrical machinery and apparatus n.e.c. (31),1.0
+313,,i31,Manufacture of electrical machinery and apparatus n.e.c. (31),1.0
+3130,,i31,Manufacture of electrical machinery and apparatus n.e.c. (31),1.0
+314,,i31,Manufacture of electrical machinery and apparatus n.e.c. (31),1.0
+3140,,i31,Manufacture of electrical machinery and apparatus n.e.c. (31),1.0
+315,,i31,Manufacture of electrical machinery and apparatus n.e.c. (31),1.0
+3150,,i31,Manufacture of electrical machinery and apparatus n.e.c. (31),1.0
+319,,i31,Manufacture of electrical machinery and apparatus n.e.c. (31),1.0
+3190,,i31,Manufacture of electrical machinery and apparatus n.e.c. (31),1.0
+32,,i32,"Manufacture of radio, television and communication equipment and apparatus (32)",1.0
+321,,i32,"Manufacture of radio, television and communication equipment and apparatus (32)",1.0
+3210,,i32,"Manufacture of radio, television and communication equipment and apparatus (32)",1.0
+322,,i32,"Manufacture of radio, television and communication equipment and apparatus (32)",1.0
+3220,,i32,"Manufacture of radio, television and communication equipment and apparatus (32)",1.0
+323,,i32,"Manufacture of radio, television and communication equipment and apparatus (32)",1.0
+3230,,i32,"Manufacture of radio, television and communication equipment and apparatus (32)",1.0
+33,,i33,"Manufacture of medical, precision and optical instruments, watches and clocks (33)",1.0
+331,,i33,"Manufacture of medical, precision and optical instruments, watches and clocks (33)",1.0
+3311,,i33,"Manufacture of medical, precision and optical instruments, watches and clocks (33)",1.0
+3312,,i33,"Manufacture of medical, precision and optical instruments, watches and clocks (33)",1.0
+3313,,i33,"Manufacture of medical, precision and optical instruments, watches and clocks (33)",1.0
+332,,i33,"Manufacture of medical, precision and optical instruments, watches and clocks (33)",1.0
+3320,,i33,"Manufacture of medical, precision and optical instruments, watches and clocks (33)",1.0
+333,,i33,"Manufacture of medical, precision and optical instruments, watches and clocks (33)",1.0
+3330,,i33,"Manufacture of medical, precision and optical instruments, watches and clocks (33)",1.0
+34,,i34,"Manufacture of motor vehicles, trailers and semi-trailers (34)",1.0
+341,,i34,"Manufacture of motor vehicles, trailers and semi-trailers (34)",1.0
+3410,,i34,"Manufacture of motor vehicles, trailers and semi-trailers (34)",1.0
+342,,i34,"Manufacture of motor vehicles, trailers and semi-trailers (34)",1.0
+3420,,i34,"Manufacture of motor vehicles, trailers and semi-trailers (34)",1.0
+343,,i34,"Manufacture of motor vehicles, trailers and semi-trailers (34)",1.0
+3430,,i34,"Manufacture of motor vehicles, trailers and semi-trailers (34)",1.0
+35,,i35,Manufacture of other transport equipment (35),1.0
+351,,i35,Manufacture of other transport equipment (35),1.0
+3511,,i35,Manufacture of other transport equipment (35),1.0
+3512,,i35,Manufacture of other transport equipment (35),1.0
+352,,i35,Manufacture of other transport equipment (35),1.0
+3520,,i35,Manufacture of other transport equipment (35),1.0
+353,,i35,Manufacture of other transport equipment (35),1.0
+3530,,i35,Manufacture of other transport equipment (35),1.0
+359,,i35,Manufacture of other transport equipment (35),1.0
+3591,,i35,Manufacture of other transport equipment (35),1.0
+3592,,i35,Manufacture of other transport equipment (35),1.0
+3599,,i35,Manufacture of other transport equipment (35),1.0
+36,,i36,Manufacture of furniture; manufacturing n.e.c. (36),1.0
+361,,i36,Manufacture of furniture; manufacturing n.e.c. (36),1.0
+3610,,i36,Manufacture of furniture; manufacturing n.e.c. (36),1.0
+369,,i36,Manufacture of furniture; manufacturing n.e.c. (36),1.0
+3691,,i36,Manufacture of furniture; manufacturing n.e.c. (36),1.0
+3692,,i36,Manufacture of furniture; manufacturing n.e.c. (36),1.0
+3693,,i36,Manufacture of furniture; manufacturing n.e.c. (36),1.0
+3694,,i36,Manufacture of furniture; manufacturing n.e.c. (36),1.0
+3699,,i36,Manufacture of furniture; manufacturing n.e.c. (36),1.0
+37,,i37,Recycling of waste and scrap,1.0
+37,,i37.w.1,Recycling of bottles by direct reuse,1.0
+371,,i37,Recycling of waste and scrap,1.0
+3710,,i37,Recycling of waste and scrap,1.0
+372,,i37,Recycling of waste and scrap,1.0
+372,,i37.w.1,Recycling of bottles by direct reuse,1.0
+3720,,i37,Recycling of waste and scrap,1.0
+3720,,i37.w.1,Recycling of bottles by direct reuse,1.0
+40,,i40.11.a,Production of electricity by coal,1.0
+40,,i40.11.b,Production of electricity by gas,1.0
+40,,i40.11.c,Production of electricity by nuclear,1.0
+40,,i40.11.d,Production of electricity by hydro,1.0
+40,,i40.11.e,Production of electricity by wind,1.0
+40,,i40.11.f,Production of electricity by petroleum and other oil derivatives,1.0
+40,,i40.11.g,Production of electricity by biomass and waste,1.0
+40,,i40.11.h,Production of electricity by solar photovoltaic,1.0
+40,,i40.11.i,Production of electricity by solar thermal,1.0
+40,,i40.11.j,"Production of electricity by tide, wave, ocean",1.0
+40,,i40.11.k,Production of electricity by Geothermal,1.0
+40,,i40.11.l,Production of electricity nec,1.0
+40,,i40.12,Transmission of electricity,1.0
+40,,i40.13,Distribution and trade of electricity,1.0
+40,,i40.2,Manufacture of gas; distribution of gaseous fuels through mains,1.0
+40,,i40.3,Steam and hot water supply,1.0
+401,,i40.11.a,Production of electricity by coal,1.0
+401,,i40.11.b,Production of electricity by gas,1.0
+401,,i40.11.c,Production of electricity by nuclear,1.0
+401,,i40.11.d,Production of electricity by hydro,1.0
+401,,i40.11.e,Production of electricity by wind,1.0
+401,,i40.11.f,Production of electricity by petroleum and other oil derivatives,1.0
+401,,i40.11.g,Production of electricity by biomass and waste,1.0
+401,,i40.11.h,Production of electricity by solar photovoltaic,1.0
+401,,i40.11.i,Production of electricity by solar thermal,1.0
+401,,i40.11.j,"Production of electricity by tide, wave, ocean",1.0
+401,,i40.11.k,Production of electricity by Geothermal,1.0
+401,,i40.11.l,Production of electricity nec,1.0
+401,,i40.12,Transmission of electricity,1.0
+401,,i40.13,Distribution and trade of electricity,1.0
+4010,,i40.11.a,Production of electricity by coal,1.0
+4010,,i40.11.b,Production of electricity by gas,1.0
+4010,,i40.11.c,Production of electricity by nuclear,1.0
+4010,,i40.11.d,Production of electricity by hydro,1.0
+4010,,i40.11.e,Production of electricity by wind,1.0
+4010,,i40.11.f,Production of electricity by petroleum and other oil derivatives,1.0
+4010,,i40.11.g,Production of electricity by biomass and waste,1.0
+4010,,i40.11.h,Production of electricity by solar photovoltaic,1.0
+4010,,i40.11.i,Production of electricity by solar thermal,1.0
+4010,,i40.11.j,"Production of electricity by tide, wave, ocean",1.0
+4010,,i40.11.k,Production of electricity by Geothermal,1.0
+4010,,i40.11.l,Production of electricity nec,1.0
+4010,,i40.12,Transmission of electricity,1.0
+4010,,i40.13,Distribution and trade of electricity,1.0
+402,,i40.2,Manufacture of gas; distribution of gaseous fuels through mains,1.0
+4020,,i40.2,Manufacture of gas; distribution of gaseous fuels through mains,1.0
+403,,i40.3,Steam and hot water supply,1.0
+4030,,i40.3,Steam and hot water supply,1.0
+41,,i41,"Collection, purification and distribution of water (41)",1.0
+410,,i41,"Collection, purification and distribution of water (41)",1.0
+4100,,i41,"Collection, purification and distribution of water (41)",1.0
+45,,i45,Construction (45),1.0
+45,,i45.w,Re-processing of secondary construction material into aggregates,1.0
+451,,i45,Construction (45),1.0
+451,,i45.w,Re-processing of secondary construction material into aggregates,1.0
+4510,,i45,Construction (45),1.0
+4510,,i45.w,Re-processing of secondary construction material into aggregates,1.0
+452,,i45,Construction (45),1.0
+452,,i45.w,Re-processing of secondary construction material into aggregates,1.0
+4520,,i45,Construction (45),1.0
+4520,,i45.w,Re-processing of secondary construction material into aggregates,1.0
+453,,i45,Construction (45),1.0
+453,,i45.w,Re-processing of secondary construction material into aggregates,1.0
+4530,,i45,Construction (45),1.0
+4530,,i45.w,Re-processing of secondary construction material into aggregates,1.0
+454,,i45,Construction (45),1.0
+454,,i45.w,Re-processing of secondary construction material into aggregates,1.0
+4540,,i45,Construction (45),1.0
+4540,,i45.w,Re-processing of secondary construction material into aggregates,1.0
+455,,i45,Construction (45),1.0
+455,,i45.w,Re-processing of secondary construction material into aggregates,1.0
+4550,,i45,Construction (45),1.0
+4550,,i45.w,Re-processing of secondary construction material into aggregates,1.0
+50,,i50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+50,,i50.b,Retail sale of automotive fuel,1.0
+501,,i50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+5010,,i50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+502,,i50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+5020,,i50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+503,,i50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+5030,,i50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+504,,i50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+5040,,i50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+505,,i50.b,Retail sale of automotive fuel,1.0
+5050,,i50.b,Retail sale of automotive fuel,1.0
+51,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+511,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+5110,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+512,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+5121,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+5122,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+513,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+5131,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+5139,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+514,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+5141,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+5142,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+5143,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+5149,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+515,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+5150,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+519,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+5190,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+52,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+521,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+5211,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+5219,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+522,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+5220,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+523,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+5231,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+5232,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+5233,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+5234,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+5239,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+524,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+5240,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+525,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+5251,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+5252,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+5259,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+526,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+5260,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+55,,i55,Hotels and restaurants (55),1.0
+551,,i55,Hotels and restaurants (55),1.0
+5510,,i55,Hotels and restaurants (55),1.0
+552,,i55,Hotels and restaurants (55),1.0
+5520,,i55,Hotels and restaurants (55),1.0
+60,,i60.1,Transport via railways,1.0
+60,,i60.2,Other land transport,1.0
+60,,i60.3,Transport via pipelines,1.0
+601,,i60.1,Transport via railways,1.0
+6010,,i60.1,Transport via railways,1.0
+602,,i60.2,Other land transport,1.0
+6021,,i60.2,Other land transport,1.0
+6022,,i60.2,Other land transport,1.0
+6023,,i60.2,Other land transport,1.0
+603,,i60.3,Transport via pipelines,1.0
+6030,,i60.3,Transport via pipelines,1.0
+61,,i61.1,Sea and coastal water transport,1.0
+61,,i61.2,Inland water transport,1.0
+611,,i61.1,Sea and coastal water transport,1.0
+6110,,i61.1,Sea and coastal water transport,1.0
+612,,i61.2,Inland water transport,1.0
+6120,,i61.2,Inland water transport,1.0
+62,,i62,Air transport (62),1.0
+621,,i62,Air transport (62),1.0
+6210,,i62,Air transport (62),1.0
+622,,i62,Air transport (62),1.0
+6220,,i62,Air transport (62),1.0
+63,,i63,Supporting and auxiliary transport activities; activities of travel agencies (63),1.0
+630,,i63,Supporting and auxiliary transport activities; activities of travel agencies (63),1.0
+6301,,i63,Supporting and auxiliary transport activities; activities of travel agencies (63),1.0
+6302,,i63,Supporting and auxiliary transport activities; activities of travel agencies (63),1.0
+6303,,i63,Supporting and auxiliary transport activities; activities of travel agencies (63),1.0
+6304,,i63,Supporting and auxiliary transport activities; activities of travel agencies (63),1.0
+6309,,i63,Supporting and auxiliary transport activities; activities of travel agencies (63),1.0
+64,,i64,Post and telecommunications (64),1.0
+641,,i64,Post and telecommunications (64),1.0
+6411,,i64,Post and telecommunications (64),1.0
+6412,,i64,Post and telecommunications (64),1.0
+642,,i64,Post and telecommunications (64),1.0
+6420,,i64,Post and telecommunications (64),1.0
+65,,i65,"Financial intermediation, except insurance and pension funding (65)",1.0
+651,,i65,"Financial intermediation, except insurance and pension funding (65)",1.0
+6511,,i65,"Financial intermediation, except insurance and pension funding (65)",1.0
+6519,,i65,"Financial intermediation, except insurance and pension funding (65)",1.0
+659,,i65,"Financial intermediation, except insurance and pension funding (65)",1.0
+6591,,i65,"Financial intermediation, except insurance and pension funding (65)",1.0
+6592,,i65,"Financial intermediation, except insurance and pension funding (65)",1.0
+6599,,i65,"Financial intermediation, except insurance and pension funding (65)",1.0
+66,,i66,"Insurance and pension funding, except compulsory social security (66)",1.0
+660,,i66,"Insurance and pension funding, except compulsory social security (66)",1.0
+6601,,i66,"Insurance and pension funding, except compulsory social security (66)",1.0
+6602,,i66,"Insurance and pension funding, except compulsory social security (66)",1.0
+6603,,i66,"Insurance and pension funding, except compulsory social security (66)",1.0
+67,,i67,Activities auxiliary to financial intermediation (67),1.0
+671,,i67,Activities auxiliary to financial intermediation (67),1.0
+6711,,i67,Activities auxiliary to financial intermediation (67),1.0
+6712,,i67,Activities auxiliary to financial intermediation (67),1.0
+6719,,i67,Activities auxiliary to financial intermediation (67),1.0
+672,,i67,Activities auxiliary to financial intermediation (67),1.0
+6720,,i67,Activities auxiliary to financial intermediation (67),1.0
+70,,i70,Real estate activities (70),1.0
+701,,i70,Real estate activities (70),1.0
+7010,,i70,Real estate activities (70),1.0
+702,,i70,Real estate activities (70),1.0
+7020,,i70,Real estate activities (70),1.0
+71,,i71,Renting of machinery and equipment without operator and of personal and household goods (71),1.0
+711,,i71,Renting of machinery and equipment without operator and of personal and household goods (71),1.0
+7111,,i71,Renting of machinery and equipment without operator and of personal and household goods (71),1.0
+7112,,i71,Renting of machinery and equipment without operator and of personal and household goods (71),1.0
+7113,,i71,Renting of machinery and equipment without operator and of personal and household goods (71),1.0
+712,,i71,Renting of machinery and equipment without operator and of personal and household goods (71),1.0
+7121,,i71,Renting of machinery and equipment without operator and of personal and household goods (71),1.0
+7122,,i71,Renting of machinery and equipment without operator and of personal and household goods (71),1.0
+7123,,i71,Renting of machinery and equipment without operator and of personal and household goods (71),1.0
+7129,,i71,Renting of machinery and equipment without operator and of personal and household goods (71),1.0
+713,,i71,Renting of machinery and equipment without operator and of personal and household goods (71),1.0
+7130,,i71,Renting of machinery and equipment without operator and of personal and household goods (71),1.0
+72,,i72,Computer and related activities (72),1.0
+721,,i72,Computer and related activities (72),1.0
+7210,,i72,Computer and related activities (72),1.0
+722,,i72,Computer and related activities (72),1.0
+7220,,i72,Computer and related activities (72),1.0
+723,,i72,Computer and related activities (72),1.0
+7230,,i72,Computer and related activities (72),1.0
+724,,i72,Computer and related activities (72),1.0
+7240,,i72,Computer and related activities (72),1.0
+725,,i72,Computer and related activities (72),1.0
+7250,,i72,Computer and related activities (72),1.0
+729,,i72,Computer and related activities (72),1.0
+7290,,i72,Computer and related activities (72),1.0
+73,,i73,Research and development (73),1.0
+731,,i73,Research and development (73),1.0
+7310,,i73,Research and development (73),1.0
+732,,i73,Research and development (73),1.0
+7320,,i73,Research and development (73),1.0
+74,,i74,Other business activities (74),1.0
+741,,i74,Other business activities (74),1.0
+7411,,i74,Other business activities (74),1.0
+7412,,i74,Other business activities (74),1.0
+7413,,i74,Other business activities (74),1.0
+7414,,i74,Other business activities (74),1.0
+742,,i74,Other business activities (74),1.0
+7421,,i74,Other business activities (74),1.0
+7422,,i74,Other business activities (74),1.0
+743,,i74,Other business activities (74),1.0
+7430,,i74,Other business activities (74),1.0
+749,,i74,Other business activities (74),1.0
+7491,,i74,Other business activities (74),1.0
+7492,,i74,Other business activities (74),1.0
+7493,,i74,Other business activities (74),1.0
+7494,,i74,Other business activities (74),1.0
+7495,,i74,Other business activities (74),1.0
+7499,,i74,Other business activities (74),1.0
+75,,i75,Public administration and defence; compulsory social security (75),1.0
+751,,i75,Public administration and defence; compulsory social security (75),1.0
+7511,,i75,Public administration and defence; compulsory social security (75),1.0
+7512,,i75,Public administration and defence; compulsory social security (75),1.0
+7513,,i75,Public administration and defence; compulsory social security (75),1.0
+7514,,i75,Public administration and defence; compulsory social security (75),1.0
+752,,i75,Public administration and defence; compulsory social security (75),1.0
+7521,,i75,Public administration and defence; compulsory social security (75),1.0
+7522,,i75,Public administration and defence; compulsory social security (75),1.0
+7523,,i75,Public administration and defence; compulsory social security (75),1.0
+753,,i75,Public administration and defence; compulsory social security (75),1.0
+7530,,i75,Public administration and defence; compulsory social security (75),1.0
+80,,i80,Education (80),1.0
+801,,i80,Education (80),1.0
+8010,,i80,Education (80),1.0
+802,,i80,Education (80),1.0
+8021,,i80,Education (80),1.0
+8022,,i80,Education (80),1.0
+803,,i80,Education (80),1.0
+8030,,i80,Education (80),1.0
+809,,i80,Education (80),1.0
+8090,,i80,Education (80),1.0
+85,,i85,Health and social work (85),1.0
+851,,i85,Health and social work (85),1.0
+8511,,i85,Health and social work (85),1.0
+8512,,i85,Health and social work (85),1.0
+8519,,i85,Health and social work (85),1.0
+852,,i85,Health and social work (85),1.0
+8520,,i85,Health and social work (85),1.0
+853,,i85,Health and social work (85),1.0
+8531,,i85,Health and social work (85),1.0
+8532,,i85,Health and social work (85),1.0
+90,,i90.1.a,Incineration of waste: Food,1.0
+90,,i90.1.b,Incineration of waste: Paper,1.0
+90,,i90.1.c,Incineration of waste: Plastic,1.0
+90,,i90.1.d,Incineration of waste: Metals and Inert materials,1.0
+90,,i90.1.e,Incineration of waste: Textiles,1.0
+90,,i90.1.f,Incineration of waste: Wood,1.0
+90,,i90.1.g,Incineration of waste: Oil/Hazardous waste,1.0
+90,,i90.3.a,"Composting of food waste, incl. land application",1.0
+90,,i90.3.b,"Composting of paper and wood, incl. land application",1.0
+90,,i90.2.c,"Biogasification of sewage slugde, incl. land application",1.0
+90,,i90.4.a,"Waste water treatment, food",1.0
+90,,i90.4.b,"Waste water treatment, other",1.0
+90,,i90.5.a,Landfill of waste: Food,1.0
+90,,i90.5.b,Landfill of waste: Paper,1.0
+90,,i90.5.c,Landfill of waste: Plastic,1.0
+90,,i90.5.d,Landfill of waste: Inert/metal/hazardous,1.0
+90,,i90.5.e,Landfill of waste: Textiles,1.0
+90,,i90.5.f,Landfill of waste: Wood,1.0
+900,,i90.1.a,Incineration of waste: Food,1.0
+900,,i90.1.b,Incineration of waste: Paper,1.0
+900,,i90.1.c,Incineration of waste: Plastic,1.0
+900,,i90.1.d,Incineration of waste: Metals and Inert materials,1.0
+900,,i90.1.e,Incineration of waste: Textiles,1.0
+900,,i90.1.f,Incineration of waste: Wood,1.0
+900,,i90.1.g,Incineration of waste: Oil/Hazardous waste,1.0
+900,,i90.3.a,"Composting of food waste, incl. land application",1.0
+900,,i90.3.b,"Composting of paper and wood, incl. land application",1.0
+900,,i90.2.c,"Biogasification of sewage slugde, incl. land application",1.0
+900,,i90.4.a,"Waste water treatment, food",1.0
+900,,i90.4.b,"Waste water treatment, other",1.0
+900,,i90.5.a,Landfill of waste: Food,1.0
+900,,i90.5.b,Landfill of waste: Paper,1.0
+900,,i90.5.c,Landfill of waste: Plastic,1.0
+900,,i90.5.d,Landfill of waste: Inert/metal/hazardous,1.0
+900,,i90.5.e,Landfill of waste: Textiles,1.0
+900,,i90.5.f,Landfill of waste: Wood,1.0
+9000,,i90.1.a,Incineration of waste: Food,1.0
+9000,,i90.1.b,Incineration of waste: Paper,1.0
+9000,,i90.1.c,Incineration of waste: Plastic,1.0
+9000,,i90.1.d,Incineration of waste: Metals and Inert materials,1.0
+9000,,i90.1.e,Incineration of waste: Textiles,1.0
+9000,,i90.1.f,Incineration of waste: Wood,1.0
+9000,,i90.1.g,Incineration of waste: Oil/Hazardous waste,1.0
+9000,,i90.3.a,"Composting of food waste, incl. land application",1.0
+9000,,i90.3.b,"Composting of paper and wood, incl. land application",1.0
+9000,,i90.2.c,"Biogasification of sewage slugde, incl. land application",1.0
+9000,,i90.4.a,"Waste water treatment, food",1.0
+9000,,i90.4.b,"Waste water treatment, other",1.0
+9000,,i90.5.a,Landfill of waste: Food,1.0
+9000,,i90.5.b,Landfill of waste: Paper,1.0
+9000,,i90.5.c,Landfill of waste: Plastic,1.0
+9000,,i90.5.d,Landfill of waste: Inert/metal/hazardous,1.0
+9000,,i90.5.e,Landfill of waste: Textiles,1.0
+9000,,i90.5.f,Landfill of waste: Wood,1.0
+91,,i91,Activities of membership organisation n.e.c. (91),1.0
+911,,i91,Activities of membership organisation n.e.c. (91),1.0
+9111,,i91,Activities of membership organisation n.e.c. (91),1.0
+9112,,i91,Activities of membership organisation n.e.c. (91),1.0
+912,,i91,Activities of membership organisation n.e.c. (91),1.0
+9120,,i91,Activities of membership organisation n.e.c. (91),1.0
+919,,i91,Activities of membership organisation n.e.c. (91),1.0
+9191,,i91,Activities of membership organisation n.e.c. (91),1.0
+9192,,i91,Activities of membership organisation n.e.c. (91),1.0
+9199,,i91,Activities of membership organisation n.e.c. (91),1.0
+92,,i92,"Recreational, cultural and sporting activities (92)",1.0
+921,,i92,"Recreational, cultural and sporting activities (92)",1.0
+9211,,i92,"Recreational, cultural and sporting activities (92)",1.0
+9212,,i92,"Recreational, cultural and sporting activities (92)",1.0
+9213,,i92,"Recreational, cultural and sporting activities (92)",1.0
+9214,,i92,"Recreational, cultural and sporting activities (92)",1.0
+9219,,i92,"Recreational, cultural and sporting activities (92)",1.0
+922,,i92,"Recreational, cultural and sporting activities (92)",1.0
+9220,,i92,"Recreational, cultural and sporting activities (92)",1.0
+923,,i92,"Recreational, cultural and sporting activities (92)",1.0
+9231,,i92,"Recreational, cultural and sporting activities (92)",1.0
+9232,,i92,"Recreational, cultural and sporting activities (92)",1.0
+9233,,i92,"Recreational, cultural and sporting activities (92)",1.0
+924,,i92,"Recreational, cultural and sporting activities (92)",1.0
+9241,,i92,"Recreational, cultural and sporting activities (92)",1.0
+9249,,i92,"Recreational, cultural and sporting activities (92)",1.0
+93,,i93,Other service activities (93),1.0
+93,,i99,Extra-territorial organizations and bodies,1.0
+930,,i93,Other service activities (93),1.0
+930,,i99,Extra-territorial organizations and bodies,1.0
+9301,,i93,Other service activities (93),1.0
+9301,,i99,Extra-territorial organizations and bodies,1.0
+9302,,i93,Other service activities (93),1.0
+9302,,i99,Extra-territorial organizations and bodies,1.0
+9303,,i93,Other service activities (93),1.0
+9303,,i99,Extra-territorial organizations and bodies,1.0
+9309,,i93,Other service activities (93),1.0
+9309,,i99,Extra-territorial organizations and bodies,1.0
+95,,i95,Private households with employed persons (95),1.0
+950,,i95,Private households with employed persons (95),1.0
+9500,,i95,Private households with employed persons (95),1.0
+99,,i99,Extra-territorial organizations and bodies,1.0
+990,,i99,Extra-territorial organizations and bodies,1.0
+9900,,i99,Extra-territorial organizations and bodies,1.0

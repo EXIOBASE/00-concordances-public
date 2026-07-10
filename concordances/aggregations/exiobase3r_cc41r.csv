@@ -1,0 +1,49 @@
+source_code,source_name,target_code,target_name,weight
+,Austria,,Austria,1.0
+,Belgium,,Belgium,1.0
+,Bulgaria,,Bulgaria,1.0
+,Cyprus,,Cyprus,1.0
+,Czech Republic,,Czech Republic,1.0
+,Germany,,Germany,1.0
+,Denmark,,Denmark,1.0
+,Estonia,,Estonia,1.0
+,Spain,,Spain,1.0
+,Finland,,Finland,1.0
+,France,,France,1.0
+,Greece,,Greece,1.0
+,Hungary,,Hungary,1.0
+,Ireland,,Ireland,1.0
+,Italy,,Italy,1.0
+,Lithuania,,Lithuania,1.0
+,Luxembourg,,Luxembourg,1.0
+,Latvia,,Latvia,1.0
+,Malta,,Malta,1.0
+,Netherlands,,Netherlands,1.0
+,Poland,,Poland,1.0
+,Portugal,,Portugal,1.0
+,Romania,,Romania,1.0
+,Sweden,,Sweden,1.0
+,Slovenia,,Slovenia,1.0
+,Slovakia,,Slovakia,1.0
+,United Kingdom,,Great Britain and N.I.,1.0
+,United States,,USA,1.0
+,Japan,,Japan,1.0
+,China,,China,1.0
+,Canada,,Canada,1.0
+,South Korea,,Korea,1.0
+,Brazil,,Brazil,1.0
+,India,,India,1.0
+,Mexico,,Mexico,1.0
+,Russia,,Russia,1.0
+,Australia,,Australia,1.0
+,Switzerland,,Rest of World,1.0
+,Turkey,,Turkey,1.0
+,Taiwan,,Taiwan,1.0
+,Norway,,Rest of World,1.0
+,Indonesia,,Indonesia,1.0
+,South Africa,,Rest of World,1.0
+,RoW Asia and Pacific,,Rest of World,1.0
+,RoW America,,Rest of World,1.0
+,RoW Europe,,Rest of World,1.0
+,RoW Africa,,Rest of World,1.0
+,RoW Middle East,,Rest of World,1.0

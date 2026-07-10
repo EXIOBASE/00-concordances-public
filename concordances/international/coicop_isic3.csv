@@ -1,0 +1,618 @@
+source_code,source_name,target_code,target_name,weight
+c01.1.1,Bread and cereals (ND),111,,1.0
+c01.1.1,Bread and cereals (ND),1531,,1.0
+c01.1.1,Bread and cereals (ND),1532,,1.0
+c01.1.1,Bread and cereals (ND),1541,,1.0
+c01.1.1,Bread and cereals (ND),1544,,1.0
+c01.1.1,Bread and cereals (ND),1549,,1.0
+c01.1.1,Bread and cereals (ND),1553,,1.0
+c01.1.2,Meat (ND),121,,1.0
+c01.1.2,Meat (ND),122,,1.0
+c01.1.2,Meat (ND),1511,,1.0
+c01.1.3,Fish and seafood (ND),122,,1.0
+c01.1.3,Fish and seafood (ND),500,,1.0
+c01.1.3,Fish and seafood (ND),1512,,1.0
+c01.1.4,"Milk, cheese and eggs (ND)",121,,1.0
+c01.1.4,"Milk, cheese and eggs (ND)",122,,1.0
+c01.1.4,"Milk, cheese and eggs (ND)",1520,,1.0
+c01.1.4,"Milk, cheese and eggs (ND)",1549,,1.0
+c01.1.5,Oils and fats (ND),1511,,1.0
+c01.1.5,Oils and fats (ND),1514,,1.0
+c01.1.5,Oils and fats (ND),1520,,1.0
+c01.1.5,Oils and fats (ND),1532,,1.0
+c01.1.6,Fruit (ND),111,,1.0
+c01.1.6,Fruit (ND),112,,1.0
+c01.1.6,Fruit (ND),113,,1.0
+c01.1.6,Fruit (ND),1513,,1.0
+c01.1.7,Vegetables (ND),111,,1.0
+c01.1.7,Vegetables (ND),112,,1.0
+c01.1.7,Vegetables (ND),500,,1.0
+c01.1.7,Vegetables (ND),1513,,1.0
+c01.1.7,Vegetables (ND),1531,,1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",122,,1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",1513,,1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",1520,,1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",1532,,1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",1542,,1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",1543,,1.0
+c01.1.8,"Sugar, jam, honey, chocolate and confectionery (ND)",1549,,1.0
+c01.1.9,Food products n.e.c. (ND),112,,1.0
+c01.1.9,Food products n.e.c. (ND),113,,1.0
+c01.1.9,Food products n.e.c. (ND),122,,1.0
+c01.1.9,Food products n.e.c. (ND),1422,,1.0
+c01.1.9,Food products n.e.c. (ND),1513,,1.0
+c01.1.9,Food products n.e.c. (ND),1549,,1.0
+c01.1.9,Food products n.e.c. (ND),2429,,1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",111,,1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",113,,1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",140,,1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",1543,,1.0
+c01.2.1,"Coffee, tea and cocoa (ND)",1549,,1.0
+c01.2.2,"Mineral waters, soft drinks, fruit and vegetable juices (ND)",1513,,1.0
+c01.2.2,"Mineral waters, soft drinks, fruit and vegetable juices (ND)",1549,,1.0
+c01.2.2,"Mineral waters, soft drinks, fruit and vegetable juices (ND)",1554,,1.0
+c02.1.1,Spirits (ND),1551,,1.0
+c02.1.1,Spirits (ND),1552,,1.0
+c02.1.2,Wine (ND),1552,,1.0
+c02.1.2,Wine (ND),1554,,1.0
+c02.1.3,Beer (ND),1552,,1.0
+c02.1.3,Beer (ND),1553,,1.0
+c02.1.3,Beer (ND),1554,,1.0
+c02.2.0,Tobacco (ND),1600,,1.0
+c02.2.0,Tobacco (ND),2109,,1.0
+c02.3.0,Narcotics (ND),111,,1.0
+c02.3.0,Narcotics (ND),200,,1.0
+c02.3.0,Narcotics (ND),1549,,1.0
+c02.3.0,Narcotics (ND),2411,,1.0
+c02.3.0,Narcotics (ND),2423,,1.0
+c03.1.1,Clothing materials (SD),1711,,1.0
+c03.1.1,Clothing materials (SD),1729,,1.0
+c03.1.1,Clothing materials (SD),1730,,1.0
+c03.1.2,Garments (SD),1730,,1.0
+c03.1.2,Garments (SD),1810,,1.0
+c03.1.2,Garments (SD),1820,,1.0
+c03.1.2,Garments (SD),2109,,1.0
+c03.1.2,Garments (SD),2519,,1.0
+c03.1.2,Garments (SD),2520,,1.0
+c03.1.3,Other articles of clothing and clothing accessories (SD),1711,,1.0
+c03.1.3,Other articles of clothing and clothing accessories (SD),1721,,1.0
+c03.1.3,Other articles of clothing and clothing accessories (SD),1729,,1.0
+c03.1.3,Other articles of clothing and clothing accessories (SD),1810,,1.0
+c03.1.3,Other articles of clothing and clothing accessories (SD),1820,,1.0
+c03.1.3,Other articles of clothing and clothing accessories (SD),2519,,1.0
+c03.1.3,Other articles of clothing and clothing accessories (SD),2520,,1.0
+c03.1.3,Other articles of clothing and clothing accessories (SD),2899,,1.0
+c03.1.3,Other articles of clothing and clothing accessories (SD),3699,,1.0
+c03.1.4,"Cleaning, repair and hire of clothing (S)",5260,,1.0
+c03.1.4,"Cleaning, repair and hire of clothing (S)",7130,,1.0
+c03.1.4,"Cleaning, repair and hire of clothing (S)",9301,,1.0
+c03.2.1,Shoes and other footwear (SD),1721,,1.0
+c03.2.1,Shoes and other footwear (SD),1920,,1.0
+c03.2.2,Repair and hire of footwear (S),5260,,1.0
+c03.2.2,Repair and hire of footwear (S),7130,,1.0
+c03.2.2,Repair and hire of footwear (S),9309,,1.0
+c04.1.1,Actual rentals paid by tenants (S),5510,,1.0
+c04.1.1,Actual rentals paid by tenants (S),6303,,1.0
+c04.1.1,Actual rentals paid by tenants (S),7010,,1.0
+c04.1.2,Other actual rentals (S),7010,,1.0
+c04.2.1,Imputed rentals of owner-occupiers (S),7010,,1.0
+c04.2.2,Other imputed rentals (S),7010,,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),2010,,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),2021,,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),2022,,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),2029,,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),2109,,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),2422,,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),2429,,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),2519,,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),2520,,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),2610,,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),2693,,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),2694,,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),2695,,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),2699,,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),2899,,1.0
+c04.3.1,Materials for the maintenance and repair of the dwelling (ND),3699,,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),4530,,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),4540,,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),7499,,1.0
+c04.3.2,Services for the maintenance and repair of the dwelling (S),9000,,1.0
+c04.4.1,Water supply (ND),4100,,1.0
+c04.4.2,Refuse collection (S),9000,,1.0
+c04.4.3,Sewage collection (S),9000,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),140,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),2911,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),2912,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),2913,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),2914,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),2915,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),2919,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),2921,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),2922,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),2923,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),2924,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),2925,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),2926,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),2927,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),2929,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),5260,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),7020,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),7492,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),7493,,1.0
+c04.4.4,Other services relating to the dwelling n.e.c. (S),9000,,1.0
+c04.5.1,Electricity (ND),4010,,1.0
+c04.5.2,Gas (ND),2320,,1.0
+c04.5.2,Gas (ND),2812,,1.0
+c04.5.2,Gas (ND),4020,,1.0
+c04.5.3,Liquid fuels (ND),2320,,1.0
+c04.5.4,Solid fuels (ND),200,,1.0
+c04.5.4,Solid fuels (ND),1010,,1.0
+c04.5.4,Solid fuels (ND),1020,,1.0
+c04.5.4,Solid fuels (ND),1030,,1.0
+c04.5.4,Solid fuels (ND),2310,,1.0
+c04.5.4,Solid fuels (ND),2411,,1.0
+c04.5.5,Heat energy (ND),4030,,1.0
+c05.1.1,Furniture and furnishings (D),500,,1.0
+c05.1.1,Furniture and furnishings (D),1721,,1.0
+c05.1.1,Furniture and furnishings (D),1820,,1.0
+c05.1.1,Furniture and furnishings (D),1911,,1.0
+c05.1.1,Furniture and furnishings (D),2029,,1.0
+c05.1.1,Furniture and furnishings (D),2520,,1.0
+c05.1.1,Furniture and furnishings (D),2610,,1.0
+c05.1.1,Furniture and furnishings (D),2691,,1.0
+c05.1.1,Furniture and furnishings (D),2695,,1.0
+c05.1.1,Furniture and furnishings (D),2899,,1.0
+c05.1.1,Furniture and furnishings (D),3150,,1.0
+c05.1.1,Furniture and furnishings (D),3610,,1.0
+c05.1.1,Furniture and furnishings (D),3699,,1.0
+c05.1.1,Furniture and furnishings (D),4530,,1.0
+c05.1.1,Furniture and furnishings (D),9214,,1.0
+c05.1.2,Carpets and other floor coverings (D),1721,,1.0
+c05.1.2,Carpets and other floor coverings (D),1722,,1.0
+c05.1.2,Carpets and other floor coverings (D),1820,,1.0
+c05.1.2,Carpets and other floor coverings (D),2029,,1.0
+c05.1.2,Carpets and other floor coverings (D),2109,,1.0
+c05.1.2,Carpets and other floor coverings (D),2519,,1.0
+c05.1.2,Carpets and other floor coverings (D),2520,,1.0
+c05.1.2,Carpets and other floor coverings (D),3699,,1.0
+c05.1.2,Carpets and other floor coverings (D),4540,,1.0
+c05.1.3,"Repair of furniture, furnishings and floor coverings (S)",5260,,1.0
+c05.1.3,"Repair of furniture, furnishings and floor coverings (S)",9214,,1.0
+c05.2.0,Household textiles (SD),1721,,1.0
+c05.2.0,Household textiles (SD),1722,,1.0
+c05.2.0,Household textiles (SD),1723,,1.0
+c05.2.0,Household textiles (SD),1729,,1.0
+c05.2.0,Household textiles (SD),1730,,1.0
+c05.2.0,Household textiles (SD),2029,,1.0
+c05.2.0,Household textiles (SD),2519,,1.0
+c05.2.0,Household textiles (SD),2520,,1.0
+c05.2.0,Household textiles (SD),3699,,1.0
+c05.2.0,Household textiles (SD),5260,,1.0
+c05.3.1,Major household appliances whether electric or not (D),2899,,1.0
+c05.3.1,Major household appliances whether electric or not (D),2919,,1.0
+c05.3.1,Major household appliances whether electric or not (D),2926,,1.0
+c05.3.1,Major household appliances whether electric or not (D),2929,,1.0
+c05.3.1,Major household appliances whether electric or not (D),2930,,1.0
+c05.3.2,Small electric household appliances (SD),1721,,1.0
+c05.3.2,Small electric household appliances (SD),2930,,1.0
+c05.3.3,Repair of household appliances (S),4530,,1.0
+c05.3.3,Repair of household appliances (S),5260,,1.0
+c05.3.3,Repair of household appliances (S),7130,,1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",1912,,1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",2023,,1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",2029,,1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",2519,,1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",2520,,1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",2610,,1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",2691,,1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",2893,,1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",2899,,1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",2919,,1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",2930,,1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",3691,,1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",3699,,1.0
+c05.4.0,"Glassware, tableware and household utensils (SD)",5260,,1.0
+c05.5.1,Major tools and equipment (D),2911,,1.0
+c05.5.1,Major tools and equipment (D),2912,,1.0
+c05.5.1,Major tools and equipment (D),2913,,1.0
+c05.5.1,Major tools and equipment (D),2914,,1.0
+c05.5.1,Major tools and equipment (D),2915,,1.0
+c05.5.1,Major tools and equipment (D),2919,,1.0
+c05.5.1,Major tools and equipment (D),2921,,1.0
+c05.5.1,Major tools and equipment (D),2922,,1.0
+c05.5.1,Major tools and equipment (D),2923,,1.0
+c05.5.1,Major tools and equipment (D),2924,,1.0
+c05.5.1,Major tools and equipment (D),2925,,1.0
+c05.5.1,Major tools and equipment (D),2926,,1.0
+c05.5.1,Major tools and equipment (D),2927,,1.0
+c05.5.1,Major tools and equipment (D),2929,,1.0
+c05.5.1,Major tools and equipment (D),5260,,1.0
+c05.5.1,Major tools and equipment (D),7130,,1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),200,,1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),2029,,1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),2519,,1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),2520,,1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),2893,,1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),2899,,1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),2921,,1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),3110,,1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),3120,,1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),3130,,1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),3140,,1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),3150,,1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),3190,,1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),3312,,1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),3599,,1.0
+c05.5.2,Small tools and miscellaneous accessories (SD),5260,,1.0
+c05.6.1,Non-durable household goods (ND),111,,1.0
+c05.6.1,Non-durable household goods (ND),1551,,1.0
+c05.6.1,Non-durable household goods (ND),1721,,1.0
+c05.6.1,Non-durable household goods (ND),1723,,1.0
+c05.6.1,Non-durable household goods (ND),1729,,1.0
+c05.6.1,Non-durable household goods (ND),1911,,1.0
+c05.6.1,Non-durable household goods (ND),2029,,1.0
+c05.6.1,Non-durable household goods (ND),2101,,1.0
+c05.6.1,Non-durable household goods (ND),2102,,1.0
+c05.6.1,Non-durable household goods (ND),2109,,1.0
+c05.6.1,Non-durable household goods (ND),2320,,1.0
+c05.6.1,Non-durable household goods (ND),2411,,1.0
+c05.6.1,Non-durable household goods (ND),2412,,1.0
+c05.6.1,Non-durable household goods (ND),2421,,1.0
+c05.6.1,Non-durable household goods (ND),2424,,1.0
+c05.6.1,Non-durable household goods (ND),2429,,1.0
+c05.6.1,Non-durable household goods (ND),2519,,1.0
+c05.6.1,Non-durable household goods (ND),2520,,1.0
+c05.6.1,Non-durable household goods (ND),2720,,1.0
+c05.6.1,Non-durable household goods (ND),2893,,1.0
+c05.6.1,Non-durable household goods (ND),2899,,1.0
+c05.6.1,Non-durable household goods (ND),2919,,1.0
+c05.6.1,Non-durable household goods (ND),2926,,1.0
+c05.6.1,Non-durable household goods (ND),3699,,1.0
+c05.6.2,Domestic services and household services (S),140,,1.0
+c05.6.2,Domestic services and household services (S),7130,,1.0
+c05.6.2,Domestic services and household services (S),7491,,1.0
+c05.6.2,Domestic services and household services (S),7493,,1.0
+c05.6.2,Domestic services and household services (S),9301,,1.0
+c05.6.2,Domestic services and household services (S),9500,,1.0
+c06.1.1,Pharmaceutical products (ND),111,,1.0
+c06.1.1,Pharmaceutical products (ND),1551,,1.0
+c06.1.1,Pharmaceutical products (ND),2423,,1.0
+c06.1.2,Other medical products (ND),1551,,1.0
+c06.1.2,Other medical products (ND),1730,,1.0
+c06.1.2,Other medical products (ND),2423,,1.0
+c06.1.2,Other medical products (ND),2519,,1.0
+c06.1.2,Other medical products (ND),3311,,1.0
+c06.1.2,Other medical products (ND),3312,,1.0
+c06.1.3,Therapeutic appliances and equipment (D),3311,,1.0
+c06.1.3,Therapeutic appliances and equipment (D),3312,,1.0
+c06.1.3,Therapeutic appliances and equipment (D),3313,,1.0
+c06.1.3,Therapeutic appliances and equipment (D),3320,,1.0
+c06.1.3,Therapeutic appliances and equipment (D),3592,,1.0
+c06.2.1,Medical services (S),8512,,1.0
+c06.2.2,Dental services (S),8512,,1.0
+c06.2.3,Paramedical services (S),7130,,1.0
+c06.2.3,Paramedical services (S),7491,,1.0
+c06.2.3,Paramedical services (S),8512,,1.0
+c06.2.3,Paramedical services (S),8519,,1.0
+c06.2.3,Paramedical services (S),9309,,1.0
+c06.3.0,Hospital services (S),8511,,1.0
+c07.1.1,Motor cars (D),3410,,1.0
+c07.1.2,Motor cycles (D),3410,,1.0
+c07.1.2,Motor cycles (D),3591,,1.0
+c07.1.3,Bicycles (D),3592,,1.0
+c07.1.3,Bicycles (D),3599,,1.0
+c07.1.4,Animal drawn vehicles (D),121,,1.0
+c07.1.4,Animal drawn vehicles (D),122,,1.0
+c07.1.4,Animal drawn vehicles (D),1912,,1.0
+c07.1.4,Animal drawn vehicles (D),3599,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),1721,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),2422,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),2424,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),2429,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),2511,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),2519,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),2520,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),2610,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),2893,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),2899,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),2912,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),2913,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),2915,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),2919,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),3120,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),3140,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),3150,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),3190,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),3220,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),3230,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),3312,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),3330,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),3410,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),3420,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),3430,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),3591,,1.0
+c07.2.1,Spare parts and accessories for personal transport equipment (SD),3592,,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),2320,,1.0
+c07.2.2,Fuels and lubricants for personal transport equipment (ND),2429,,1.0
+c07.2.3,Maintenance and repair of personal transport equipment (S),5020,,1.0
+c07.2.3,Maintenance and repair of personal transport equipment (S),5040,,1.0
+c07.2.3,Maintenance and repair of personal transport equipment (S),5260,,1.0
+c07.2.4,Other services in respect of personal transport equipment (S),6120,,1.0
+c07.2.4,Other services in respect of personal transport equipment (S),6303,,1.0
+c07.2.4,Other services in respect of personal transport equipment (S),7010,,1.0
+c07.2.4,Other services in respect of personal transport equipment (S),7111,,1.0
+c07.2.4,Other services in respect of personal transport equipment (S),7422,,1.0
+c07.2.4,Other services in respect of personal transport equipment (S),8090,,1.0
+c07.3.1,Passenger transport by railway (S),6010,,1.0
+c07.3.1,Passenger transport by railway (S),6021,,1.0
+c07.3.2,Passenger transport by road (S),6021,,1.0
+c07.3.2,Passenger transport by road (S),6022,,1.0
+c07.3.3,Passenger transport by air (S),6210,,1.0
+c07.3.3,Passenger transport by air (S),6220,,1.0
+c07.3.3,Passenger transport by air (S),6303,,1.0
+c07.3.4,Passenger transport by sea and inland waterway (S),6110,,1.0
+c07.3.4,Passenger transport by sea and inland waterway (S),6120,,1.0
+c07.3.4,Passenger transport by sea and inland waterway (S),6303,,1.0
+c07.3.6,Other purchased transport services (S),6021,,1.0
+c07.3.6,Other purchased transport services (S),6023,,1.0
+c07.3.6,Other purchased transport services (S),6302,,1.0
+c07.3.6,Other purchased transport services (S),6303,,1.0
+c07.3.6,Other purchased transport services (S),6304,,1.0
+c07.3.6,Other purchased transport services (S),6412,,1.0
+c08.1.0,Postal services (S),6411,,1.0
+c08.1.0,Postal services (S),6412,,1.0
+c08.2.0,Telephone and telefax equipment (D),3220,,1.0
+c08.2.0,Telephone and telefax equipment (D),3230,,1.0
+c08.3.0,Telephone and telefax services (S),6420,,1.0
+c08.3.0,Telephone and telefax services (S),7129,,1.0
+c08.3.0,Telephone and telefax services (S),7499,,1.0
+c09.1.1,"Equipment for the reception, recording and reproduction of sound and pictures (D)",3220,,1.0
+c09.1.1,"Equipment for the reception, recording and reproduction of sound and pictures (D)",3230,,1.0
+c09.1.1,"Equipment for the reception, recording and reproduction of sound and pictures (D)",3312,,1.0
+c09.1.2,Photographic and cinematographic equipment and optical instruments (D),3230,,1.0
+c09.1.2,Photographic and cinematographic equipment and optical instruments (D),3312,,1.0
+c09.1.2,Photographic and cinematographic equipment and optical instruments (D),3320,,1.0
+c09.1.3,Information processing equipment (D),2213,,1.0
+c09.1.3,Information processing equipment (D),2230,,1.0
+c09.1.3,Information processing equipment (D),3000,,1.0
+c09.1.3,Information processing equipment (D),7220,,1.0
+c09.1.4,Recording media (SD),2109,,1.0
+c09.1.4,Recording media (SD),2213,,1.0
+c09.1.4,Recording media (SD),2230,,1.0
+c09.1.4,Recording media (SD),2429,,1.0
+c09.1.4,Recording media (SD),2520,,1.0
+c09.1.4,Recording media (SD),3150,,1.0
+c09.1.4,Recording media (SD),7220,,1.0
+c09.1.5,"Repair of audio-visual, photographic and information processing equipment (S)",3000,,1.0
+c09.1.5,"Repair of audio-visual, photographic and information processing equipment (S)",4530,,1.0
+c09.1.5,"Repair of audio-visual, photographic and information processing equipment (S)",5260,,1.0
+c09.1.5,"Repair of audio-visual, photographic and information processing equipment (S)",7250,,1.0
+c09.2.1,Major durables for outdoor recreation (D),121,,1.0
+c09.2.1,Major durables for outdoor recreation (D),1721,,1.0
+c09.2.1,Major durables for outdoor recreation (D),1912,,1.0
+c09.2.1,Major durables for outdoor recreation (D),2029,,1.0
+c09.2.1,Major durables for outdoor recreation (D),2911,,1.0
+c09.2.1,Major durables for outdoor recreation (D),3311,,1.0
+c09.2.1,Major durables for outdoor recreation (D),3312,,1.0
+c09.2.1,Major durables for outdoor recreation (D),3410,,1.0
+c09.2.1,Major durables for outdoor recreation (D),3420,,1.0
+c09.2.1,Major durables for outdoor recreation (D),3512,,1.0
+c09.2.1,Major durables for outdoor recreation (D),3530,,1.0
+c09.2.1,Major durables for outdoor recreation (D),3599,,1.0
+c09.2.1,Major durables for outdoor recreation (D),3693,,1.0
+c09.2.2,Musical instruments and major durables for indoor recreation (D),1912,,1.0
+c09.2.2,Musical instruments and major durables for indoor recreation (D),2899,,1.0
+c09.2.2,Musical instruments and major durables for indoor recreation (D),3692,,1.0
+c09.2.2,Musical instruments and major durables for indoor recreation (D),3693,,1.0
+c09.2.2,Musical instruments and major durables for indoor recreation (D),3694,,1.0
+c09.2.3,Maintenance and repair of other major durables for recreation and culture (S),3410,,1.0
+c09.2.3,Maintenance and repair of other major durables for recreation and culture (S),3420,,1.0
+c09.2.3,Maintenance and repair of other major durables for recreation and culture (S),3511,,1.0
+c09.2.3,Maintenance and repair of other major durables for recreation and culture (S),3512,,1.0
+c09.2.3,Maintenance and repair of other major durables for recreation and culture (S),3520,,1.0
+c09.2.3,Maintenance and repair of other major durables for recreation and culture (S),3530,,1.0
+c09.2.3,Maintenance and repair of other major durables for recreation and culture (S),3592,,1.0
+c09.2.3,Maintenance and repair of other major durables for recreation and culture (S),3599,,1.0
+c09.2.3,Maintenance and repair of other major durables for recreation and culture (S),5260,,1.0
+c09.2.3,Maintenance and repair of other major durables for recreation and culture (S),6303,,1.0
+c09.2.3,Maintenance and repair of other major durables for recreation and culture (S),8520,,1.0
+c09.3.1,"Games, toys and hobbies (SD)",2029,,1.0
+c09.3.1,"Games, toys and hobbies (SD)",2213,,1.0
+c09.3.1,"Games, toys and hobbies (SD)",2221,,1.0
+c09.3.1,"Games, toys and hobbies (SD)",2230,,1.0
+c09.3.1,"Games, toys and hobbies (SD)",2429,,1.0
+c09.3.1,"Games, toys and hobbies (SD)",2610,,1.0
+c09.3.1,"Games, toys and hobbies (SD)",2893,,1.0
+c09.3.1,"Games, toys and hobbies (SD)",2926,,1.0
+c09.3.1,"Games, toys and hobbies (SD)",3150,,1.0
+c09.3.1,"Games, toys and hobbies (SD)",3312,,1.0
+c09.3.1,"Games, toys and hobbies (SD)",3691,,1.0
+c09.3.1,"Games, toys and hobbies (SD)",3694,,1.0
+c09.3.1,"Games, toys and hobbies (SD)",3699,,1.0
+c09.3.1,"Games, toys and hobbies (SD)",7220,,1.0
+c09.3.1,"Games, toys and hobbies (SD)",9214,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",1410,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",1721,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",1912,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",1920,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",2519,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",2520,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",2899,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",2911,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",2912,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",2913,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",2914,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",2915,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",2919,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",2921,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",2922,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",2923,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",2924,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",2925,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",2926,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",2927,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",2929,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",2930,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",3150,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",3320,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",3512,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",3692,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",3693,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",3699,,1.0
+c09.3.2,"Equipment for sport, camping and open-air recreation (SD)",5260,,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",111,,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",112,,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",200,,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",1030,,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",1421,,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",2029,,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",2412,,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",2421,,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",2429,,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",2520,,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",2691,,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",2899,,1.0
+c09.3.3,"Gardens, plants and flowers (ND)",3699,,1.0
+c09.3.4,Pets and related products (ND),122,,1.0
+c09.3.4,Pets and related products (ND),500,,1.0
+c09.3.4,Pets and related products (ND),1410,,1.0
+c09.3.4,Pets and related products (ND),1533,,1.0
+c09.3.4,Pets and related products (ND),1912,,1.0
+c09.3.4,Pets and related products (ND),2029,,1.0
+c09.3.4,Pets and related products (ND),2423,,1.0
+c09.3.4,Pets and related products (ND),2429,,1.0
+c09.3.4,Pets and related products (ND),2520,,1.0
+c09.3.4,Pets and related products (ND),2610,,1.0
+c09.3.4,Pets and related products (ND),2899,,1.0
+c09.3.4,Pets and related products (ND),2919,,1.0
+c09.3.4,Pets and related products (ND),2930,,1.0
+c09.3.4,Pets and related products (ND),3692,,1.0
+c09.3.4,Pets and related products (ND),3699,,1.0
+c09.3.5,Veterinary and other services for pets (S),140,,1.0
+c09.3.5,Veterinary and other services for pets (S),8520,,1.0
+c09.3.5,Veterinary and other services for pets (S),9309,,1.0
+c09.4.1,Recreational and sporting services (S),6021,,1.0
+c09.4.1,Recreational and sporting services (S),6303,,1.0
+c09.4.1,Recreational and sporting services (S),6304,,1.0
+c09.4.1,Recreational and sporting services (S),7010,,1.0
+c09.4.1,Recreational and sporting services (S),7111,,1.0
+c09.4.1,Recreational and sporting services (S),7112,,1.0
+c09.4.1,Recreational and sporting services (S),7113,,1.0
+c09.4.1,Recreational and sporting services (S),7123,,1.0
+c09.4.1,Recreational and sporting services (S),7130,,1.0
+c09.4.1,Recreational and sporting services (S),8090,,1.0
+c09.4.1,Recreational and sporting services (S),9219,,1.0
+c09.4.1,Recreational and sporting services (S),9241,,1.0
+c09.4.1,Recreational and sporting services (S),9249,,1.0
+c09.4.1,Recreational and sporting services (S),9309,,1.0
+c09.4.2,Cultural services (S),6420,,1.0
+c09.4.2,Cultural services (S),7130,,1.0
+c09.4.2,Cultural services (S),7240,,1.0
+c09.4.2,Cultural services (S),7494,,1.0
+c09.4.2,Cultural services (S),9212,,1.0
+c09.4.2,Cultural services (S),9213,,1.0
+c09.4.2,Cultural services (S),9214,,1.0
+c09.4.2,Cultural services (S),9231,,1.0
+c09.4.2,Cultural services (S),9232,,1.0
+c09.4.2,Cultural services (S),9233,,1.0
+c09.4.3,Games of chance (S),9249,,1.0
+c09.5.1,Books (SD),2211,,1.0
+c09.5.1,Books (SD),2221,,1.0
+c09.5.1,Books (SD),2222,,1.0
+c09.5.2,Newspapers and periodicals (ND),2212,,1.0
+c09.5.3,Miscellaneous printed matter (ND),2211,,1.0
+c09.5.3,Miscellaneous printed matter (ND),2219,,1.0
+c09.5.3,Miscellaneous printed matter (ND),2221,,1.0
+c09.5.4,Stationery and drawing materials (ND),2101,,1.0
+c09.5.4,Stationery and drawing materials (ND),2102,,1.0
+c09.5.4,Stationery and drawing materials (ND),2109,,1.0
+c09.5.4,Stationery and drawing materials (ND),2221,,1.0
+c09.5.4,Stationery and drawing materials (ND),2422,,1.0
+c09.5.4,Stationery and drawing materials (ND),2429,,1.0
+c09.5.4,Stationery and drawing materials (ND),2519,,1.0
+c09.5.4,Stationery and drawing materials (ND),2520,,1.0
+c09.5.4,Stationery and drawing materials (ND),2893,,1.0
+c09.5.4,Stationery and drawing materials (ND),2899,,1.0
+c09.5.4,Stationery and drawing materials (ND),2919,,1.0
+c09.5.4,Stationery and drawing materials (ND),3000,,1.0
+c09.5.4,Stationery and drawing materials (ND),3312,,1.0
+c09.5.4,Stationery and drawing materials (ND),3699,,1.0
+c09.6.0,Package holidays (S),6022,,1.0
+c09.6.0,Package holidays (S),6304,,1.0
+c10.1.0,Pre-primary and primary education (S),8010,,1.0
+c10.2.0,Secondary education (S),8021,,1.0
+c10.2.0,Secondary education (S),8022,,1.0
+c10.3.0,Post-secondary non-tertiary education (S),8030,,1.0
+c10.4.0,Tertiary education (S),8030,,1.0
+c10.5.0,Education not definable by level (S),8090,,1.0
+c11.1.1,"Restaurants, cafés and the like (S)",5520,,1.0
+c11.1.2,Canteens (S),5520,,1.0
+c11.2.0,Accommodation services (S),5510,,1.0
+c12.1.1,Hairdressing salons and personal grooming establishments (S),9302,,1.0
+c12.1.1,Hairdressing salons and personal grooming establishments (S),9309,,1.0
+c12.1.2,Electric appliances for personal care (SD),2930,,1.0
+c12.1.2,Electric appliances for personal care (SD),5260,,1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",500,,1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",1721,,1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",1729,,1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",1810,,1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",2109,,1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",2424,,1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",2893,,1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",2919,,1.0
+c12.1.3,"Other appliances, articles and products for personal care (ND)",3699,,1.0
+c12.2.0,Prostitution (S),9309,,1.0
+c12.3.1,"Jewellery, clocks and watches (D)",500,,1.0
+c12.3.1,"Jewellery, clocks and watches (D)",1912,,1.0
+c12.3.1,"Jewellery, clocks and watches (D)",3330,,1.0
+c12.3.1,"Jewellery, clocks and watches (D)",3691,,1.0
+c12.3.1,"Jewellery, clocks and watches (D)",3699,,1.0
+c12.3.1,"Jewellery, clocks and watches (D)",5260,,1.0
+c12.3.2,Other personal effects  (SD),1912,,1.0
+c12.3.2,Other personal effects  (SD),2029,,1.0
+c12.3.2,Other personal effects  (SD),2520,,1.0
+c12.3.2,Other personal effects  (SD),2610,,1.0
+c12.3.2,Other personal effects  (SD),2691,,1.0
+c12.3.2,Other personal effects  (SD),2696,,1.0
+c12.3.2,Other personal effects  (SD),2893,,1.0
+c12.3.2,Other personal effects  (SD),2899,,1.0
+c12.3.2,Other personal effects  (SD),3312,,1.0
+c12.3.2,Other personal effects  (SD),3320,,1.0
+c12.3.2,Other personal effects  (SD),3610,,1.0
+c12.3.2,Other personal effects  (SD),3699,,1.0
+c12.3.2,Other personal effects  (SD),5260,,1.0
+c12.4.0,Social protection (S),8531,,1.0
+c12.4.0,Social protection (S),8532,,1.0
+c12.5.1,Life insurance (S),6601,,1.0
+c12.5.1,Life insurance (S),6602,,1.0
+c12.5.2,Insurance connected with the dwelling (S),6603,,1.0
+c12.5.3,Insurance connected with health (S),6603,,1.0
+c12.5.4,Insurance connected with transport (S),6603,,1.0
+c12.5.5,Other insurance (S),6603,,1.0
+c12.6.1,FISIM (S),6511,,1.0
+c12.6.1,FISIM (S),6519,,1.0
+c12.6.1,FISIM (S),6591,,1.0
+c12.6.1,FISIM (S),6592,,1.0
+c12.6.1,FISIM (S),6599,,1.0
+c12.6.2,Other financial services n.e.c. (S),6511,,1.0
+c12.6.2,Other financial services n.e.c. (S),6519,,1.0
+c12.6.2,Other financial services n.e.c. (S),6591,,1.0
+c12.6.2,Other financial services n.e.c. (S),6592,,1.0
+c12.6.2,Other financial services n.e.c. (S),6599,,1.0
+c12.6.2,Other financial services n.e.c. (S),6712,,1.0
+c12.6.2,Other financial services n.e.c. (S),6719,,1.0
+c12.6.2,Other financial services n.e.c. (S),6720,,1.0
+c12.6.2,Other financial services n.e.c. (S),7412,,1.0
+c12.7.0,Other services n.e.c. (S),5260,,1.0
+c12.7.0,Other services n.e.c. (S),6720,,1.0
+c12.7.0,Other services n.e.c. (S),7020,,1.0
+c12.7.0,Other services n.e.c. (S),7411,,1.0
+c12.7.0,Other services n.e.c. (S),7414,,1.0
+c12.7.0,Other services n.e.c. (S),7491,,1.0
+c12.7.0,Other services n.e.c. (S),7492,,1.0
+c12.7.0,Other services n.e.c. (S),7499,,1.0
+c12.7.0,Other services n.e.c. (S),7511,,1.0
+c12.7.0,Other services n.e.c. (S),8532,,1.0
+c12.7.0,Other services n.e.c. (S),9303,,1.0
+c12.7.0,Other services n.e.c. (S),9309,,1.0
+c12.7.0,Other services n.e.c. (S),9900,,1.0

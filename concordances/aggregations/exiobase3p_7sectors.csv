@@ -1,0 +1,201 @@
+source_code,source_name,target_code,target_name,weight
+p01.a,Paddy rice,,Agric,1.0
+p01.b,Wheat,,Agric,1.0
+p01.c,Cereal grains nec,,Agric,1.0
+p01.d,"Vegetables, fruit, nuts",,Agric,1.0
+p01.e,Oil seeds,,Agric,1.0
+p01.f,"Sugar cane, sugar beet",,Agric,1.0
+p01.g,Plant-based fibers,,Agric,1.0
+p01.h,Crops nec,,Agric,1.0
+p01.i,Cattle,,Agric,1.0
+p01.j,Pigs,,Agric,1.0
+p01.k,Poultry,,Agric,1.0
+p01.l,Meat animals nec,,Agric,1.0
+p01.m,Animal products nec,,Agric,1.0
+p01.n,Raw milk,,Agric,1.0
+p01.o,"Wool, silk-worm cocoons",,Agric,1.0
+p01.w.1,Manure (conventional treatment),,Agric,1.0
+p01.w.2,Manure (biogas treatment),,Agric,1.0
+p02,"Products of forestry, logging and related services (02)",,Agric,1.0
+p05,Fish and other fishing products; services incidental of fishing (05),,Agric,1.0
+p10.a,Anthracite,,Mining,1.0
+p10.b,Coking Coal,,Mining,1.0
+p10.c,Other Bituminous Coal,,Mining,1.0
+p10.d,Sub-Bituminous Coal,,Mining,1.0
+p10.e,Patent Fuel,,Mining,1.0
+p10.f,Lignite/Brown Coal,,Mining,1.0
+p10.g,BKB/Peat Briquettes,,Mining,1.0
+p10.h,Peat,,Mining,1.0
+p11.a,"Crude petroleum and services related to crude oil extraction, excluding surveying",,Mining,1.0
+p11.b,"Natural gas and services related to natural gas extraction, excluding surveying",,Mining,1.0
+p11.b.1,Natural Gas Liquids,,Mining,1.0
+p11.c,Other Hydrocarbons,,Mining,1.0
+p12,Uranium and thorium ores (12),,Mining,1.0
+p13.1,Iron ores,,Mining,1.0
+p13.20.11,Copper ores and concentrates,,Mining,1.0
+p13.20.12,Nickel ores and concentrates,,Mining,1.0
+p13.20.13,Aluminium ores and concentrates,,Mining,1.0
+p13.20.14,Precious metal ores and concentrates,,Mining,1.0
+p13.20.15,"Lead, zinc and tin ores and concentrates",,Mining,1.0
+p13.20.16,Other non-ferrous metal ores and concentrates,,Mining,1.0
+p14.1,Stone,,Mining,1.0
+p14.2,Sand and clay,,Mining,1.0
+p14.3,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",,Mining,1.0
+p15.a,Products of meat cattle,,Manufacturing,1.0
+p15.b,Products of meat pigs,,Manufacturing,1.0
+p15.c,Products of meat poultry,,Manufacturing,1.0
+p15.d,Meat products nec,,Manufacturing,1.0
+p15.e,products of Vegetable oils and fats,,Manufacturing,1.0
+p15.f,Dairy products,,Manufacturing,1.0
+p15.g,Processed rice,,Manufacturing,1.0
+p15.h,Sugar,,Manufacturing,1.0
+p15.i,Food products nec,,Manufacturing,1.0
+p15.j,Beverages,,Manufacturing,1.0
+p15.k,Fish products,,Manufacturing,1.0
+p16,Tobacco products (16),,Manufacturing,1.0
+p17,Textiles (17),,Manufacturing,1.0
+p18,Wearing apparel; furs (18),,Manufacturing,1.0
+p19,Leather and leather products (19),,Manufacturing,1.0
+p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),,Manufacturing,1.0
+p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",,Manufacturing,1.0
+p21.1,Pulp,,Manufacturing,1.0
+p21.w.1,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",,Manufacturing,1.0
+p21.2,Paper and paper products,,Manufacturing,1.0
+p22,Printed matter and recorded media (22),,Manufacturing,1.0
+p23.1.a,Coke Oven Coke,,Manufacturing,1.0
+p23.1.b,Gas Coke,,Manufacturing,1.0
+p23.1.c,Coal Tar,,Manufacturing,1.0
+p23.20.a,Motor Gasoline,,Manufacturing,1.0
+p23.20.b,Aviation Gasoline,,Manufacturing,1.0
+p23.20.c,Gasoline Type Jet Fuel,,Manufacturing,1.0
+p23.20.d,Kerosene Type Jet Fuel,,Manufacturing,1.0
+p23.20.e,Kerosene,,Manufacturing,1.0
+p23.20.f,Gas/Diesel Oil,,Manufacturing,1.0
+p23.20.g,Heavy Fuel Oil,,Manufacturing,1.0
+p23.20.h,Refinery Gas,,Manufacturing,1.0
+p23.20.i,Liquefied Petroleum Gases (LPG),,Manufacturing,1.0
+p23.20.j,Refinery Feedstocks,,Manufacturing,1.0
+p23.20.k,Ethane,,Manufacturing,1.0
+p23.20.l,Naphtha,,Manufacturing,1.0
+p23.20.m,White Spirit & SBP,,Manufacturing,1.0
+p23.20.n,Lubricants,,Manufacturing,1.0
+p23.20.o,Bitumen,,Manufacturing,1.0
+p23.20.p,Paraffin Waxes,,Manufacturing,1.0
+p23.20.q,Petroleum Coke,,Manufacturing,1.0
+p23.20.r,Non-specified Petroleum Products,,Manufacturing,1.0
+p23.3,Nuclear fuel,,Manufacturing,1.0
+p24.a,"Plastics, basic",,Manufacturing,1.0
+p24.a.w,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",,Manufacturing,1.0
+p24.b,N-fertiliser,,Manufacturing,1.0
+p24.c,P- and other fertiliser,,Manufacturing,1.0
+p24.d,Chemicals nec,,Manufacturing,1.0
+p24.e,Charcoal,,Manufacturing,1.0
+p24.f,Additives/Blending Components,,Manufacturing,1.0
+p24.g,Biogasoline,,Manufacturing,1.0
+p24.h,Biodiesels,,Manufacturing,1.0
+p24.i,Other Liquid Biofuels,,Manufacturing,1.0
+p25,Rubber and plastic products (25),,Manufacturing,1.0
+p26.a,Glass and glass products,,Manufacturing,1.0
+p26.a.w,"Secondary glass for treatment, Re-processing of secondary glass into new glass",,Manufacturing,1.0
+p26.b,Ceramic goods,,Manufacturing,1.0
+p26.c,"Bricks, tiles and construction products, in baked clay",,Manufacturing,1.0
+p26.d,"Cement, lime and plaster",,Manufacturing,1.0
+p26.d.w,"Ash for treatment, Re-processing of ash into clinker",,Manufacturing,1.0
+p26.e,Other non-metallic mineral products,,Manufacturing,1.0
+p27.a,Basic iron and steel and of ferro-alloys and first products thereof,,Manufacturing,1.0
+p27.a.w,"Secondary steel for treatment, Re-processing of secondary steel into new steel",,Manufacturing,1.0
+p27.41,Precious metals,,Manufacturing,1.0
+p27.41.w,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",,Manufacturing,1.0
+p27.42,Aluminium and aluminium products,,Manufacturing,1.0
+p27.42.w,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",,Manufacturing,1.0
+p27.43,"Lead, zinc and tin and products thereof",,Manufacturing,1.0
+p27.43.w,"Secondary lead for treatment, Re-processing of secondary lead into new lead",,Manufacturing,1.0
+p27.44,Copper products,,Manufacturing,1.0
+p27.44.w,"Secondary copper for treatment, Re-processing of secondary copper into new copper",,Manufacturing,1.0
+p27.45,Other non-ferrous metal products,,Manufacturing,1.0
+p27.45.w,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",,Manufacturing,1.0
+p27.5,Foundry work services,,Manufacturing,1.0
+p28,"Fabricated metal products, except machinery and equipment (28)",,Manufacturing,1.0
+p29,Machinery and equipment n.e.c. (29),,Manufacturing,1.0
+p30,Office machinery and computers (30),,Manufacturing,1.0
+p31,Electrical machinery and apparatus n.e.c. (31),,Manufacturing,1.0
+p32,"Radio, television and communication equipment and apparatus (32)",,Manufacturing,1.0
+p33,"Medical, precision and optical instruments, watches and clocks (33)",,Manufacturing,1.0
+p34,"Motor vehicles, trailers and semi-trailers (34)",,Manufacturing,1.0
+p35,Other transport equipment (35),,Manufacturing,1.0
+p36,Furniture; other manufactured goods n.e.c. (36),,Manufacturing,1.0
+p37,Secondary raw materials,,Manufacturing,1.0
+p37.w.1,"Bottles for treatment, Recycling of bottles by direct reuse",,Manufacturing,1.0
+p40.11.a,Electricity by coal,,Electricity and utilities,1.0
+p40.11.b,Electricity by gas,,Electricity and utilities,1.0
+p40.11.c,Electricity by nuclear,,Electricity and utilities,1.0
+p40.11.d,Electricity by hydro,,Electricity and utilities,1.0
+p40.11.e,Electricity by wind,,Electricity and utilities,1.0
+p40.11.f,Electricity by petroleum and other oil derivatives,,Electricity and utilities,1.0
+p40.11.g,Electricity by biomass and waste,,Electricity and utilities,1.0
+p40.11.h,Electricity by solar photovoltaic,,Electricity and utilities,1.0
+p40.11.i,Electricity by solar thermal,,Electricity and utilities,1.0
+p40.11.j,"Electricity by tide, wave, ocean",,Electricity and utilities,1.0
+p40.11.k,Electricity by Geothermal,,Electricity and utilities,1.0
+p40.11.l,Electricity nec,,Electricity and utilities,1.0
+p40.12,Transmission services of electricity,,Electricity and utilities,1.0
+p40.13,Distribution and trade services of electricity,,Electricity and utilities,1.0
+p40.2.a,Coke oven gas,,Electricity and utilities,1.0
+p40.2.b,Blast Furnace Gas,,Electricity and utilities,1.0
+p40.2.c,Oxygen Steel Furnace Gas,,Electricity and utilities,1.0
+p40.2.d,Gas Works Gas,,Electricity and utilities,1.0
+p40.2.e,Biogas,,Electricity and utilities,1.0
+p40.2.1,Distribution services of gaseous fuels through mains,,Electricity and utilities,1.0
+p40.3,Steam and hot water supply services,,Electricity and utilities,1.0
+p41,"Collected and purified water, distribution services of water (41)",,Electricity and utilities,1.0
+p45,Construction work (45),,Construction,1.0
+p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",,Construction,1.0
+p50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",,Services,1.0
+p50.b,Retail trade services of motor fuel,,Services,1.0
+p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",,Services,1.0
+p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",,Services,1.0
+p55,Hotel and restaurant services (55),,Services,1.0
+p60.1,Railway transportation services,,Transport,1.0
+p60.2,Other land transportation services,,Transport,1.0
+p60.3,Transportation services via pipelines,,Transport,1.0
+p61.1,Sea and coastal water transportation services,,Transport,1.0
+p61.2,Inland water transportation services,,Transport,1.0
+p62,Air transport services (62),,Transport,1.0
+p63,Supporting and auxiliary transport services; travel agency services (63),,Services,1.0
+p64,Post and telecommunication services (64),,Services,1.0
+p65,"Financial intermediation services, except insurance and pension funding services (65)",,Services,1.0
+p66,"Insurance and pension funding services, except compulsory social security services (66)",,Services,1.0
+p67,Services auxiliary to financial intermediation (67),,Services,1.0
+p70,Real estate services (70),,Services,1.0
+p71,Renting services of machinery and equipment without operator and of personal and household goods (71),,Services,1.0
+p72,Computer and related services (72),,Services,1.0
+p73,Research and development services (73),,Services,1.0
+p74,Other business services (74),,Services,1.0
+p75,Public administration and defence services; compulsory social security services (75),,Services,1.0
+p80,Education services (80),,Services,1.0
+p85,Health and social work services (85),,Services,1.0
+p90.1.a,Food waste for treatment: incineration,,Services,1.0
+p90.1.b,Paper waste for treatment: incineration,,Services,1.0
+p90.1.c,Plastic waste for treatment: incineration,,Services,1.0
+p90.1.d,Intert/metal waste for treatment: incineration,,Services,1.0
+p90.1.e,Textiles waste for treatment: incineration,,Services,1.0
+p90.1.f,Wood waste for treatment: incineration,,Services,1.0
+p90.1.g,Oil/hazardous waste for treatment: incineration,,Services,1.0
+p90.2.a,Food waste for treatment: biogasification and land application,,Services,1.0
+p90.2.b,Paper waste for treatment: biogasification and land application,,Services,1.0
+p90.2.c,Sewage sludge for treatment: biogasification and land application,,Services,1.0
+p90.3.a,Food waste for treatment: composting and land application,,Services,1.0
+p90.3.b,Paper and wood waste for treatment: composting and land application,,Services,1.0
+p90.4.a,Food waste for treatment: waste water treatment,,Services,1.0
+p90.4.b,Other waste for treatment: waste water treatment,,Services,1.0
+p90.5.a,Food waste for treatment: landfill,,Services,1.0
+p90.5.b,Paper for treatment: landfill,,Services,1.0
+p90.5.c,Plastic waste for treatment: landfill,,Services,1.0
+p90.5.d,Inert/metal/hazardous waste for treatment: landfill,,Services,1.0
+p90.5.e,Textiles waste for treatment: landfill,,Services,1.0
+p90.5.f,Wood waste for treatment: landfill,,Services,1.0
+p91,Membership organisation services n.e.c. (91),,Services,1.0
+p92,"Recreational, cultural and sporting services (92)",,Services,1.0
+p93,Other services (93),,Services,1.0
+p95,Private households with employed persons (95),,Services,1.0
+p99,Extra-territorial organizations and bodies,,Services,1.0

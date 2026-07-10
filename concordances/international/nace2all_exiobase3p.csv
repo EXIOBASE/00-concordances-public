@@ -1,0 +1,1931 @@
+source_code,source_name,target_code,target_name,weight
+A,,p01.a,Paddy rice,1.0
+A,,p01.b,Wheat,1.0
+A,,p01.c,Cereal grains nec,1.0
+A,,p01.d,"Vegetables, fruit, nuts",1.0
+A,,p01.e,Oil seeds,1.0
+A,,p01.f,"Sugar cane, sugar beet",1.0
+A,,p01.g,Plant-based fibers,1.0
+A,,p01.h,Crops nec,1.0
+A,,p01.i,Cattle,1.0
+A,,p01.j,Pigs,1.0
+A,,p01.k,Poultry,1.0
+A,,p01.l,Meat animals nec,1.0
+A,,p01.m,Animal products nec,1.0
+A,,p01.n,Raw milk,1.0
+A,,p01.o,"Wool, silk-worm cocoons",1.0
+A,,p01.w.1,Manure (conventional treatment),1.0
+A,,p01.w.2,Manure (biogas treatment),1.0
+A,,p02,"Products of forestry, logging and related services (02)",1.0
+A,,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+01,,p01.a,Paddy rice,1.0
+01,,p01.b,Wheat,1.0
+01,,p01.c,Cereal grains nec,1.0
+01,,p01.d,"Vegetables, fruit, nuts",1.0
+01,,p01.e,Oil seeds,1.0
+01,,p01.f,"Sugar cane, sugar beet",1.0
+01,,p01.g,Plant-based fibers,1.0
+01,,p01.h,Crops nec,1.0
+01,,p01.i,Cattle,1.0
+01,,p01.j,Pigs,1.0
+01,,p01.k,Poultry,1.0
+01,,p01.l,Meat animals nec,1.0
+01,,p01.m,Animal products nec,1.0
+01,,p01.n,Raw milk,1.0
+01,,p01.o,"Wool, silk-worm cocoons",1.0
+01,,p01.w.1,Manure (conventional treatment),1.0
+01,,p01.w.2,Manure (biogas treatment),1.0
+01.1,,p01.a,Paddy rice,1.0
+01.1,,p01.b,Wheat,1.0
+01.1,,p01.c,Cereal grains nec,1.0
+01.1,,p01.d,"Vegetables, fruit, nuts",1.0
+01.1,,p01.e,Oil seeds,1.0
+01.1,,p01.f,"Sugar cane, sugar beet",1.0
+01.1,,p01.g,Plant-based fibers,1.0
+01.1,,p01.h,Crops nec,1.0
+01.11,,p01.b,Wheat,1.0
+01.11,,p01.c,Cereal grains nec,1.0
+01.11,,p01.d,"Vegetables, fruit, nuts",1.0
+01.11,,p01.e,Oil seeds,1.0
+01.12,,p01.a,Paddy rice,1.0
+01.13,,p01.d,"Vegetables, fruit, nuts",1.0
+01.13,,p01.h,Crops nec,1.0
+01.14,,p01.f,"Sugar cane, sugar beet",1.0
+01.15,,p01.h,Crops nec,1.0
+01.16,,p01.g,Plant-based fibers,1.0
+01.19,,p01.h,Crops nec,1.0
+01.2,,p01.d,"Vegetables, fruit, nuts",1.0
+01.2,,p01.h,Crops nec,1.0
+01.21,,p01.d,"Vegetables, fruit, nuts",1.0
+01.22,,p01.d,"Vegetables, fruit, nuts",1.0
+01.23,,p01.d,"Vegetables, fruit, nuts",1.0
+01.24,,p01.d,"Vegetables, fruit, nuts",1.0
+01.25,,p01.d,"Vegetables, fruit, nuts",1.0
+01.26,,p01.d,"Vegetables, fruit, nuts",1.0
+01.27,,p01.h,Crops nec,1.0
+01.28,,p01.h,Crops nec,1.0
+01.29,,p01.h,Crops nec,1.0
+01.3,,p01.h,Crops nec,1.0
+01.30,,p01.h,Crops nec,1.0
+01.4,,p01.i,Cattle,1.0
+01.4,,p01.j,Pigs,1.0
+01.4,,p01.k,Poultry,1.0
+01.4,,p01.l,Meat animals nec,1.0
+01.4,,p01.m,Animal products nec,1.0
+01.4,,p01.n,Raw milk,1.0
+01.4,,p01.o,"Wool, silk-worm cocoons",1.0
+01.41,,p01.n,Raw milk,1.0
+01.42,,p01.i,Cattle,1.0
+01.43,,p01.l,Meat animals nec,1.0
+01.44,,p01.l,Meat animals nec,1.0
+01.45,,p01.l,Meat animals nec,1.0
+01.45,,p01.o,"Wool, silk-worm cocoons",1.0
+01.46,,p01.j,Pigs,1.0
+01.47,,p01.k,Poultry,1.0
+01.49,,p01.l,Meat animals nec,1.0
+01.49,,p01.m,Animal products nec,1.0
+01.5,,p01.a,Paddy rice,1.0
+01.5,,p01.b,Wheat,1.0
+01.5,,p01.c,Cereal grains nec,1.0
+01.5,,p01.d,"Vegetables, fruit, nuts",1.0
+01.5,,p01.e,Oil seeds,1.0
+01.5,,p01.f,"Sugar cane, sugar beet",1.0
+01.5,,p01.g,Plant-based fibers,1.0
+01.5,,p01.h,Crops nec,1.0
+01.5,,p01.i,Cattle,1.0
+01.5,,p01.j,Pigs,1.0
+01.5,,p01.k,Poultry,1.0
+01.5,,p01.l,Meat animals nec,1.0
+01.5,,p01.m,Animal products nec,1.0
+01.5,,p01.n,Raw milk,1.0
+01.5,,p01.o,"Wool, silk-worm cocoons",1.0
+01.5,,p01.w.1,Manure (conventional treatment),1.0
+01.5,,p01.w.2,Manure (biogas treatment),1.0
+01.50,,p01.a,Paddy rice,1.0
+01.50,,p01.b,Wheat,1.0
+01.50,,p01.c,Cereal grains nec,1.0
+01.50,,p01.d,"Vegetables, fruit, nuts",1.0
+01.50,,p01.e,Oil seeds,1.0
+01.50,,p01.f,"Sugar cane, sugar beet",1.0
+01.50,,p01.g,Plant-based fibers,1.0
+01.50,,p01.h,Crops nec,1.0
+01.50,,p01.i,Cattle,1.0
+01.50,,p01.j,Pigs,1.0
+01.50,,p01.k,Poultry,1.0
+01.50,,p01.l,Meat animals nec,1.0
+01.50,,p01.m,Animal products nec,1.0
+01.50,,p01.n,Raw milk,1.0
+01.50,,p01.o,"Wool, silk-worm cocoons",1.0
+01.50,,p01.w.1,Manure (conventional treatment),1.0
+01.50,,p01.w.2,Manure (biogas treatment),1.0
+01.6,,p01.a,Paddy rice,1.0
+01.6,,p01.b,Wheat,1.0
+01.6,,p01.c,Cereal grains nec,1.0
+01.6,,p01.d,"Vegetables, fruit, nuts",1.0
+01.6,,p01.e,Oil seeds,1.0
+01.6,,p01.f,"Sugar cane, sugar beet",1.0
+01.6,,p01.g,Plant-based fibers,1.0
+01.6,,p01.h,Crops nec,1.0
+01.6,,p01.i,Cattle,1.0
+01.6,,p01.j,Pigs,1.0
+01.6,,p01.k,Poultry,1.0
+01.6,,p01.l,Meat animals nec,1.0
+01.6,,p01.m,Animal products nec,1.0
+01.6,,p01.n,Raw milk,1.0
+01.6,,p01.o,"Wool, silk-worm cocoons",1.0
+01.6,,p01.w.1,Manure (conventional treatment),1.0
+01.6,,p01.w.2,Manure (biogas treatment),1.0
+01.61,,p01.a,Paddy rice,1.0
+01.61,,p01.b,Wheat,1.0
+01.61,,p01.c,Cereal grains nec,1.0
+01.61,,p01.d,"Vegetables, fruit, nuts",1.0
+01.61,,p01.e,Oil seeds,1.0
+01.61,,p01.f,"Sugar cane, sugar beet",1.0
+01.61,,p01.g,Plant-based fibers,1.0
+01.61,,p01.h,Crops nec,1.0
+01.62,,p01.i,Cattle,1.0
+01.62,,p01.j,Pigs,1.0
+01.62,,p01.k,Poultry,1.0
+01.62,,p01.l,Meat animals nec,1.0
+01.62,,p01.m,Animal products nec,1.0
+01.62,,p01.n,Raw milk,1.0
+01.62,,p01.o,"Wool, silk-worm cocoons",1.0
+01.62,,p01.w.1,Manure (conventional treatment),1.0
+01.62,,p01.w.2,Manure (biogas treatment),1.0
+01.63,,p01.a,Paddy rice,1.0
+01.63,,p01.b,Wheat,1.0
+01.63,,p01.c,Cereal grains nec,1.0
+01.63,,p01.d,"Vegetables, fruit, nuts",1.0
+01.63,,p01.e,Oil seeds,1.0
+01.63,,p01.f,"Sugar cane, sugar beet",1.0
+01.63,,p01.g,Plant-based fibers,1.0
+01.63,,p01.h,Crops nec,1.0
+01.64,,p01.a,Paddy rice,1.0
+01.64,,p01.b,Wheat,1.0
+01.64,,p01.c,Cereal grains nec,1.0
+01.64,,p01.d,"Vegetables, fruit, nuts",1.0
+01.64,,p01.e,Oil seeds,1.0
+01.64,,p01.f,"Sugar cane, sugar beet",1.0
+01.64,,p01.g,Plant-based fibers,1.0
+01.64,,p01.h,Crops nec,1.0
+01.7,,p01.l,Meat animals nec,1.0
+01.7,,p01.m,Animal products nec,1.0
+01.70,,p01.l,Meat animals nec,1.0
+01.70,,p01.m,Animal products nec,1.0
+02,,p02,"Products of forestry, logging and related services (02)",1.0
+02.1,,p02,"Products of forestry, logging and related services (02)",1.0
+02.10,,p02,"Products of forestry, logging and related services (02)",1.0
+02.2,,p02,"Products of forestry, logging and related services (02)",1.0
+02.20,,p02,"Products of forestry, logging and related services (02)",1.0
+02.3,,p02,"Products of forestry, logging and related services (02)",1.0
+02.30,,p02,"Products of forestry, logging and related services (02)",1.0
+02.4,,p02,"Products of forestry, logging and related services (02)",1.0
+02.40,,p02,"Products of forestry, logging and related services (02)",1.0
+03,,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+03.1,,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+03.11,,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+03.12,,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+03.2,,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+03.21,,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+03.22,,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+B,,p10.a,Anthracite,1.0
+B,,p10.b,Coking Coal,1.0
+B,,p10.c,Other Bituminous Coal,1.0
+B,,p10.d,Sub-Bituminous Coal,1.0
+B,,p10.e,Patent Fuel,1.0
+B,,p10.f,Lignite/Brown Coal,1.0
+B,,p10.h,Peat,1.0
+B,,p11.a,"Crude petroleum and services related to crude oil extraction, excluding surveying",1.0
+B,,p11.b,"Natural gas and services related to natural gas extraction, excluding surveying",1.0
+B,,p11.b.1,Natural Gas Liquids,1.0
+B,,p11.c,Other Hydrocarbons,1.0
+B,,p12,Uranium and thorium ores (12),1.0
+B,,p13.1,Iron ores,1.0
+B,,p13.20.11,Copper ores and concentrates,1.0
+B,,p13.20.12,Nickel ores and concentrates,1.0
+B,,p13.20.13,Aluminium ores and concentrates,1.0
+B,,p13.20.14,Precious metal ores and concentrates,1.0
+B,,p13.20.15,"Lead, zinc and tin ores and concentrates",1.0
+B,,p13.20.16,Other non-ferrous metal ores and concentrates,1.0
+B,,p14.1,Stone,1.0
+B,,p14.2,Sand and clay,1.0
+B,,p14.3,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",1.0
+05,,p10.a,Anthracite,1.0
+05,,p10.b,Coking Coal,1.0
+05,,p10.c,Other Bituminous Coal,1.0
+05,,p10.d,Sub-Bituminous Coal,1.0
+05,,p10.e,Patent Fuel,1.0
+05,,p10.f,Lignite/Brown Coal,1.0
+05.1,,p10.a,Anthracite,1.0
+05.1,,p10.b,Coking Coal,1.0
+05.1,,p10.c,Other Bituminous Coal,1.0
+05.1,,p10.d,Sub-Bituminous Coal,1.0
+05.1,,p10.e,Patent Fuel,1.0
+05.10,,p10.a,Anthracite,1.0
+05.10,,p10.b,Coking Coal,1.0
+05.10,,p10.c,Other Bituminous Coal,1.0
+05.10,,p10.d,Sub-Bituminous Coal,1.0
+05.10,,p10.e,Patent Fuel,1.0
+05.2,,p10.f,Lignite/Brown Coal,1.0
+05.20,,p10.f,Lignite/Brown Coal,1.0
+06,,p11.a,"Crude petroleum and services related to crude oil extraction, excluding surveying",1.0
+06,,p11.b,"Natural gas and services related to natural gas extraction, excluding surveying",1.0
+06,,p11.b.1,Natural Gas Liquids,1.0
+06,,p11.c,Other Hydrocarbons,1.0
+06.1,,p11.a,"Crude petroleum and services related to crude oil extraction, excluding surveying",1.0
+06.10,,p11.a,"Crude petroleum and services related to crude oil extraction, excluding surveying",1.0
+06.2,,p11.b,"Natural gas and services related to natural gas extraction, excluding surveying",1.0
+06.2,,p11.b.1,Natural Gas Liquids,1.0
+06.2,,p11.c,Other Hydrocarbons,1.0
+06.20,,p11.b,"Natural gas and services related to natural gas extraction, excluding surveying",1.0
+06.20,,p11.b.1,Natural Gas Liquids,1.0
+06.20,,p11.c,Other Hydrocarbons,1.0
+07,,p12,Uranium and thorium ores (12),1.0
+07,,p13.1,Iron ores,1.0
+07,,p13.20.11,Copper ores and concentrates,1.0
+07,,p13.20.12,Nickel ores and concentrates,1.0
+07,,p13.20.13,Aluminium ores and concentrates,1.0
+07,,p13.20.14,Precious metal ores and concentrates,1.0
+07,,p13.20.15,"Lead, zinc and tin ores and concentrates",1.0
+07,,p13.20.16,Other non-ferrous metal ores and concentrates,1.0
+07.1,,p13.1,Iron ores,1.0
+07.10,,p13.1,Iron ores,1.0
+07.2,,p12,Uranium and thorium ores (12),1.0
+07.2,,p13.20.11,Copper ores and concentrates,1.0
+07.2,,p13.20.12,Nickel ores and concentrates,1.0
+07.2,,p13.20.13,Aluminium ores and concentrates,1.0
+07.2,,p13.20.14,Precious metal ores and concentrates,1.0
+07.2,,p13.20.15,"Lead, zinc and tin ores and concentrates",1.0
+07.2,,p13.20.16,Other non-ferrous metal ores and concentrates,1.0
+07.21,,p12,Uranium and thorium ores (12),1.0
+07.29,,p13.20.11,Copper ores and concentrates,1.0
+07.29,,p13.20.12,Nickel ores and concentrates,1.0
+07.29,,p13.20.13,Aluminium ores and concentrates,1.0
+07.29,,p13.20.14,Precious metal ores and concentrates,1.0
+07.29,,p13.20.15,"Lead, zinc and tin ores and concentrates",1.0
+07.29,,p13.20.16,Other non-ferrous metal ores and concentrates,1.0
+08,,p10.h,Peat,1.0
+08,,p14.1,Stone,1.0
+08,,p14.2,Sand and clay,1.0
+08,,p14.3,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",1.0
+08.1,,p14.1,Stone,1.0
+08.1,,p14.2,Sand and clay,1.0
+08.11,,p14.1,Stone,1.0
+08.12,,p14.2,Sand and clay,1.0
+08.9,,p10.h,Peat,1.0
+08.9,,p14.3,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",1.0
+08.91,,p14.3,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",1.0
+08.92,,p10.h,Peat,1.0
+08.93,,p14.3,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",1.0
+08.99,,p14.3,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",1.0
+09,,p10.a,Anthracite,1.0
+09,,p10.b,Coking Coal,1.0
+09,,p10.c,Other Bituminous Coal,1.0
+09,,p10.d,Sub-Bituminous Coal,1.0
+09,,p10.e,Patent Fuel,1.0
+09,,p10.f,Lignite/Brown Coal,1.0
+09,,p10.h,Peat,1.0
+09,,p11.a,"Crude petroleum and services related to crude oil extraction, excluding surveying",1.0
+09,,p11.b,"Natural gas and services related to natural gas extraction, excluding surveying",1.0
+09,,p11.b.1,Natural Gas Liquids,1.0
+09,,p11.c,Other Hydrocarbons,1.0
+09,,p12,Uranium and thorium ores (12),1.0
+09,,p13.1,Iron ores,1.0
+09,,p13.20.11,Copper ores and concentrates,1.0
+09,,p13.20.12,Nickel ores and concentrates,1.0
+09,,p13.20.13,Aluminium ores and concentrates,1.0
+09,,p13.20.14,Precious metal ores and concentrates,1.0
+09,,p13.20.15,"Lead, zinc and tin ores and concentrates",1.0
+09,,p13.20.16,Other non-ferrous metal ores and concentrates,1.0
+09,,p14.1,Stone,1.0
+09,,p14.2,Sand and clay,1.0
+09,,p14.3,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",1.0
+09.1,,p11.a,"Crude petroleum and services related to crude oil extraction, excluding surveying",1.0
+09.1,,p11.b,"Natural gas and services related to natural gas extraction, excluding surveying",1.0
+09.1,,p11.b.1,Natural Gas Liquids,1.0
+09.1,,p11.c,Other Hydrocarbons,1.0
+09.10,,p11.a,"Crude petroleum and services related to crude oil extraction, excluding surveying",1.0
+09.10,,p11.b,"Natural gas and services related to natural gas extraction, excluding surveying",1.0
+09.10,,p11.b.1,Natural Gas Liquids,1.0
+09.10,,p11.c,Other Hydrocarbons,1.0
+09.9,,p10.a,Anthracite,1.0
+09.9,,p10.b,Coking Coal,1.0
+09.9,,p10.c,Other Bituminous Coal,1.0
+09.9,,p10.d,Sub-Bituminous Coal,1.0
+09.9,,p10.e,Patent Fuel,1.0
+09.9,,p10.f,Lignite/Brown Coal,1.0
+09.9,,p10.h,Peat,1.0
+09.9,,p12,Uranium and thorium ores (12),1.0
+09.9,,p13.1,Iron ores,1.0
+09.9,,p13.20.11,Copper ores and concentrates,1.0
+09.9,,p13.20.12,Nickel ores and concentrates,1.0
+09.9,,p13.20.13,Aluminium ores and concentrates,1.0
+09.9,,p13.20.14,Precious metal ores and concentrates,1.0
+09.9,,p13.20.15,"Lead, zinc and tin ores and concentrates",1.0
+09.9,,p13.20.16,Other non-ferrous metal ores and concentrates,1.0
+09.9,,p14.1,Stone,1.0
+09.9,,p14.2,Sand and clay,1.0
+09.9,,p14.3,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",1.0
+09.90,,p10.a,Anthracite,1.0
+09.90,,p10.b,Coking Coal,1.0
+09.90,,p10.c,Other Bituminous Coal,1.0
+09.90,,p10.d,Sub-Bituminous Coal,1.0
+09.90,,p10.e,Patent Fuel,1.0
+09.90,,p10.f,Lignite/Brown Coal,1.0
+09.90,,p10.h,Peat,1.0
+09.90,,p12,Uranium and thorium ores (12),1.0
+09.90,,p13.1,Iron ores,1.0
+09.90,,p13.20.11,Copper ores and concentrates,1.0
+09.90,,p13.20.12,Nickel ores and concentrates,1.0
+09.90,,p13.20.13,Aluminium ores and concentrates,1.0
+09.90,,p13.20.14,Precious metal ores and concentrates,1.0
+09.90,,p13.20.15,"Lead, zinc and tin ores and concentrates",1.0
+09.90,,p13.20.16,Other non-ferrous metal ores and concentrates,1.0
+09.90,,p14.1,Stone,1.0
+09.90,,p14.2,Sand and clay,1.0
+09.90,,p14.3,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",1.0
+C,,p15.a,Products of meat cattle,1.0
+C,,p15.b,Products of meat pigs,1.0
+C,,p15.c,Products of meat poultry,1.0
+C,,p15.d,Meat products nec,1.0
+C,,p15.e,products of Vegetable oils and fats,1.0
+C,,p15.f,Dairy products,1.0
+C,,p15.g,Processed rice,1.0
+C,,p15.h,Sugar,1.0
+C,,p15.i,Food products nec,1.0
+C,,p15.j,Beverages,1.0
+C,,p15.k,Fish products,1.0
+C,,p16,Tobacco products (16),1.0
+C,,p17,Textiles (17),1.0
+C,,p18,Wearing apparel; furs (18),1.0
+C,,p19,Leather and leather products (19),1.0
+C,,p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+C,,p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+C,,p21.1,Pulp,1.0
+C,,p21.w.1,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",1.0
+C,,p21.2,Paper and paper products,1.0
+C,,p22,Printed matter and recorded media (22),1.0
+C,,p23.1.a,Coke Oven Coke,1.0
+C,,p23.1.b,Gas Coke,1.0
+C,,p23.1.c,Coal Tar,1.0
+C,,p23.20.a,Motor Gasoline,1.0
+C,,p23.20.b,Aviation Gasoline,1.0
+C,,p23.20.c,Gasoline Type Jet Fuel,1.0
+C,,p23.20.d,Kerosene Type Jet Fuel,1.0
+C,,p23.20.e,Kerosene,1.0
+C,,p23.20.f,Gas/Diesel Oil,1.0
+C,,p23.20.g,Heavy Fuel Oil,1.0
+C,,p23.20.h,Refinery Gas,1.0
+C,,p23.20.i,Liquefied Petroleum Gases (LPG),1.0
+C,,p23.20.j,Refinery Feedstocks,1.0
+C,,p23.20.k,Ethane,1.0
+C,,p23.20.l,Naphtha,1.0
+C,,p23.20.m,White Spirit & SBP,1.0
+C,,p23.20.n,Lubricants,1.0
+C,,p23.20.o,Bitumen,1.0
+C,,p23.20.p,Paraffin Waxes,1.0
+C,,p23.20.q,Petroleum Coke,1.0
+C,,p23.20.r,Non-specified Petroleum Products,1.0
+C,,p23.3,Nuclear fuel,1.0
+C,,p24.a,"Plastics, basic",1.0
+C,,p24.a.w,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",1.0
+C,,p24.b,N-fertiliser,1.0
+C,,p24.c,P- and other fertiliser,1.0
+C,,p24.d,Chemicals nec,1.0
+C,,p24.e,Charcoal,1.0
+C,,p24.f,Additives/Blending Components,1.0
+C,,p24.g,Biogasoline,1.0
+C,,p24.h,Biodiesels,1.0
+C,,p24.i,Other Liquid Biofuels,1.0
+C,,p25,Rubber and plastic products (25),1.0
+C,,p26.a,Glass and glass products,1.0
+C,,p26.a.w,"Secondary glass for treatment, Re-processing of secondary glass into new glass",1.0
+C,,p26.b,Ceramic goods,1.0
+C,,p26.c,"Bricks, tiles and construction products, in baked clay",1.0
+C,,p26.d,"Cement, lime and plaster",1.0
+C,,p26.d.w,"Ash for treatment, Re-processing of ash into clinker",1.0
+C,,p26.e,Other non-metallic mineral products,1.0
+C,,p27.a,Basic iron and steel and of ferro-alloys and first products thereof,1.0
+C,,p27.a.w,"Secondary steel for treatment, Re-processing of secondary steel into new steel",1.0
+C,,p27.41,Precious metals,1.0
+C,,p27.41.w,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",1.0
+C,,p27.42,Aluminium and aluminium products,1.0
+C,,p27.42.w,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",1.0
+C,,p27.43,"Lead, zinc and tin and products thereof",1.0
+C,,p27.43.w,"Secondary lead for treatment, Re-processing of secondary lead into new lead",1.0
+C,,p27.44,Copper products,1.0
+C,,p27.44.w,"Secondary copper for treatment, Re-processing of secondary copper into new copper",1.0
+C,,p27.45,Other non-ferrous metal products,1.0
+C,,p27.45.w,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",1.0
+C,,p27.5,Foundry work services,1.0
+C,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+C,,p29,Machinery and equipment n.e.c. (29),1.0
+C,,p30,Office machinery and computers (30),1.0
+C,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+C,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+10,,p15.a,Products of meat cattle,1.0
+10,,p15.b,Products of meat pigs,1.0
+10,,p15.c,Products of meat poultry,1.0
+10,,p15.d,Meat products nec,1.0
+10,,p15.e,products of Vegetable oils and fats,1.0
+10,,p15.f,Dairy products,1.0
+10,,p15.g,Processed rice,1.0
+10,,p15.h,Sugar,1.0
+10,,p15.i,Food products nec,1.0
+10,,p15.k,Fish products,1.0
+10.1,,p15.a,Products of meat cattle,1.0
+10.1,,p15.b,Products of meat pigs,1.0
+10.1,,p15.c,Products of meat poultry,1.0
+10.1,,p15.d,Meat products nec,1.0
+10.11,,p15.a,Products of meat cattle,1.0
+10.11,,p15.b,Products of meat pigs,1.0
+10.11,,p15.d,Meat products nec,1.0
+10.12,,p15.c,Products of meat poultry,1.0
+10.13,,p15.a,Products of meat cattle,1.0
+10.13,,p15.b,Products of meat pigs,1.0
+10.13,,p15.c,Products of meat poultry,1.0
+10.13,,p15.d,Meat products nec,1.0
+10.2,,p15.k,Fish products,1.0
+10.20,,p15.k,Fish products,1.0
+10.3,,p15.i,Food products nec,1.0
+10.31,,p15.i,Food products nec,1.0
+10.32,,p15.i,Food products nec,1.0
+10.39,,p15.i,Food products nec,1.0
+10.4,,p15.e,products of Vegetable oils and fats,1.0
+10.41,,p15.e,products of Vegetable oils and fats,1.0
+10.42,,p15.e,products of Vegetable oils and fats,1.0
+10.5,,p15.f,Dairy products,1.0
+10.51,,p15.f,Dairy products,1.0
+10.52,,p15.f,Dairy products,1.0
+10.6,,p15.g,Processed rice,1.0
+10.6,,p15.i,Food products nec,1.0
+10.61,,p15.g,Processed rice,1.0
+10.61,,p15.i,Food products nec,1.0
+10.62,,p15.g,Processed rice,1.0
+10.62,,p15.i,Food products nec,1.0
+10.7,,p15.i,Food products nec,1.0
+10.71,,p15.i,Food products nec,1.0
+10.72,,p15.i,Food products nec,1.0
+10.73,,p15.i,Food products nec,1.0
+10.8,,p15.h,Sugar,1.0
+10.8,,p15.i,Food products nec,1.0
+10.81,,p15.h,Sugar,1.0
+10.82,,p15.i,Food products nec,1.0
+10.83,,p15.i,Food products nec,1.0
+10.84,,p15.i,Food products nec,1.0
+10.85,,p15.i,Food products nec,1.0
+10.86,,p15.i,Food products nec,1.0
+10.89,,p15.i,Food products nec,1.0
+10.9,,p15.i,Food products nec,1.0
+10.91,,p15.i,Food products nec,1.0
+10.92,,p15.i,Food products nec,1.0
+11,,p15.j,Beverages,1.0
+11.0,,p15.j,Beverages,1.0
+11.01,,p15.j,Beverages,1.0
+11.02,,p15.j,Beverages,1.0
+11.03,,p15.j,Beverages,1.0
+11.04,,p15.j,Beverages,1.0
+11.05,,p15.j,Beverages,1.0
+11.06,,p15.j,Beverages,1.0
+11.07,,p15.j,Beverages,1.0
+12,,p16,Tobacco products (16),1.0
+12.0,,p16,Tobacco products (16),1.0
+12.00,,p16,Tobacco products (16),1.0
+13,,p17,Textiles (17),1.0
+13.1,,p17,Textiles (17),1.0
+13.10,,p17,Textiles (17),1.0
+13.2,,p17,Textiles (17),1.0
+13.20,,p17,Textiles (17),1.0
+13.3,,p17,Textiles (17),1.0
+13.30,,p17,Textiles (17),1.0
+13.9,,p17,Textiles (17),1.0
+13.91,,p17,Textiles (17),1.0
+13.92,,p17,Textiles (17),1.0
+13.93,,p17,Textiles (17),1.0
+13.94,,p17,Textiles (17),1.0
+13.95,,p17,Textiles (17),1.0
+13.96,,p17,Textiles (17),1.0
+13.99,,p17,Textiles (17),1.0
+14,,p17,Textiles (17),1.0
+14,,p18,Wearing apparel; furs (18),1.0
+14.1,,p18,Wearing apparel; furs (18),1.0
+14.11,,p18,Wearing apparel; furs (18),1.0
+14.12,,p18,Wearing apparel; furs (18),1.0
+14.13,,p18,Wearing apparel; furs (18),1.0
+14.14,,p18,Wearing apparel; furs (18),1.0
+14.19,,p18,Wearing apparel; furs (18),1.0
+14.2,,p18,Wearing apparel; furs (18),1.0
+14.20,,p18,Wearing apparel; furs (18),1.0
+14.3,,p17,Textiles (17),1.0
+14.31,,p17,Textiles (17),1.0
+14.39,,p17,Textiles (17),1.0
+15,,p19,Leather and leather products (19),1.0
+15.1,,p19,Leather and leather products (19),1.0
+15.11,,p19,Leather and leather products (19),1.0
+15.12,,p19,Leather and leather products (19),1.0
+15.2,,p19,Leather and leather products (19),1.0
+15.20,,p19,Leather and leather products (19),1.0
+16,,p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+16,,p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+16.1,,p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+16.1,,p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+16.10,,p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+16.10,,p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+16.2,,p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+16.2,,p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+16.21,,p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+16.21,,p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+16.22,,p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+16.22,,p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+16.23,,p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+16.23,,p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+16.24,,p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+16.24,,p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+16.29,,p20,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1.0
+16.29,,p20.w,"Wood material for treatment, Re-processing of secondary wood material into new wood material",1.0
+17,,p21.1,Pulp,1.0
+17,,p21.w.1,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",1.0
+17,,p21.2,Paper and paper products,1.0
+17.1,,p21.1,Pulp,1.0
+17.1,,p21.w.1,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",1.0
+17.11,,p21.1,Pulp,1.0
+17.11,,p21.w.1,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",1.0
+17.12,,p21.1,Pulp,1.0
+17.12,,p21.w.1,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",1.0
+17.2,,p21.2,Paper and paper products,1.0
+17.21,,p21.2,Paper and paper products,1.0
+17.22,,p21.2,Paper and paper products,1.0
+17.23,,p21.2,Paper and paper products,1.0
+17.24,,p21.2,Paper and paper products,1.0
+17.29,,p21.2,Paper and paper products,1.0
+18,,p22,Printed matter and recorded media (22),1.0
+18.1,,p22,Printed matter and recorded media (22),1.0
+18.11,,p22,Printed matter and recorded media (22),1.0
+18.12,,p22,Printed matter and recorded media (22),1.0
+18.13,,p22,Printed matter and recorded media (22),1.0
+18.14,,p22,Printed matter and recorded media (22),1.0
+18.2,,p22,Printed matter and recorded media (22),1.0
+18.20,,p22,Printed matter and recorded media (22),1.0
+19,,p23.1.a,Coke Oven Coke,1.0
+19,,p23.1.b,Gas Coke,1.0
+19,,p23.1.c,Coal Tar,1.0
+19,,p23.20.a,Motor Gasoline,1.0
+19,,p23.20.b,Aviation Gasoline,1.0
+19,,p23.20.c,Gasoline Type Jet Fuel,1.0
+19,,p23.20.d,Kerosene Type Jet Fuel,1.0
+19,,p23.20.e,Kerosene,1.0
+19,,p23.20.f,Gas/Diesel Oil,1.0
+19,,p23.20.g,Heavy Fuel Oil,1.0
+19,,p23.20.h,Refinery Gas,1.0
+19,,p23.20.i,Liquefied Petroleum Gases (LPG),1.0
+19,,p23.20.j,Refinery Feedstocks,1.0
+19,,p23.20.k,Ethane,1.0
+19,,p23.20.l,Naphtha,1.0
+19,,p23.20.m,White Spirit & SBP,1.0
+19,,p23.20.n,Lubricants,1.0
+19,,p23.20.o,Bitumen,1.0
+19,,p23.20.p,Paraffin Waxes,1.0
+19,,p23.20.q,Petroleum Coke,1.0
+19,,p23.20.r,Non-specified Petroleum Products,1.0
+19,,p10.g,BKB/Peat Briquettes,1.0
+19.1,,p23.1.a,Coke Oven Coke,1.0
+19.10,,p23.1.a,Coke Oven Coke,1.0
+19.2,,p23.1.b,Gas Coke,1.0
+19.2,,p23.1.c,Coal Tar,1.0
+19.2,,p23.20.a,Motor Gasoline,1.0
+19.2,,p23.20.b,Aviation Gasoline,1.0
+19.2,,p23.20.c,Gasoline Type Jet Fuel,1.0
+19.2,,p23.20.d,Kerosene Type Jet Fuel,1.0
+19.2,,p23.20.e,Kerosene,1.0
+19.2,,p23.20.f,Gas/Diesel Oil,1.0
+19.2,,p23.20.g,Heavy Fuel Oil,1.0
+19.2,,p23.20.h,Refinery Gas,1.0
+19.2,,p23.20.i,Liquefied Petroleum Gases (LPG),1.0
+19.2,,p23.20.j,Refinery Feedstocks,1.0
+19.2,,p23.20.k,Ethane,1.0
+19.2,,p23.20.l,Naphtha,1.0
+19.2,,p23.20.m,White Spirit & SBP,1.0
+19.2,,p23.20.n,Lubricants,1.0
+19.2,,p23.20.o,Bitumen,1.0
+19.2,,p23.20.p,Paraffin Waxes,1.0
+19.2,,p23.20.q,Petroleum Coke,1.0
+19.2,,p23.20.r,Non-specified Petroleum Products,1.0
+19.2,,p10.g,BKB/Peat Briquettes,1.0
+19.20,,p23.1.b,Gas Coke,1.0
+19.20,,p23.1.c,Coal Tar,1.0
+19.20,,p23.20.a,Motor Gasoline,1.0
+19.20,,p23.20.b,Aviation Gasoline,1.0
+19.20,,p23.20.c,Gasoline Type Jet Fuel,1.0
+19.20,,p23.20.d,Kerosene Type Jet Fuel,1.0
+19.20,,p23.20.e,Kerosene,1.0
+19.20,,p23.20.f,Gas/Diesel Oil,1.0
+19.20,,p23.20.g,Heavy Fuel Oil,1.0
+19.20,,p23.20.h,Refinery Gas,1.0
+19.20,,p23.20.i,Liquefied Petroleum Gases (LPG),1.0
+19.20,,p23.20.j,Refinery Feedstocks,1.0
+19.20,,p23.20.k,Ethane,1.0
+19.20,,p23.20.l,Naphtha,1.0
+19.20,,p23.20.m,White Spirit & SBP,1.0
+19.20,,p23.20.n,Lubricants,1.0
+19.20,,p23.20.o,Bitumen,1.0
+19.20,,p23.20.p,Paraffin Waxes,1.0
+19.20,,p23.20.q,Petroleum Coke,1.0
+19.20,,p23.20.r,Non-specified Petroleum Products,1.0
+19.20,,p10.g,BKB/Peat Briquettes,1.0
+20,,p24.a,"Plastics, basic",1.0
+20,,p24.a.w,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",1.0
+20,,p24.b,N-fertiliser,1.0
+20,,p24.c,P- and other fertiliser,1.0
+20,,p24.d,Chemicals nec,1.0
+20,,p24.e,Charcoal,1.0
+20,,p24.f,Additives/Blending Components,1.0
+20,,p24.g,Biogasoline,1.0
+20,,p24.h,Biodiesels,1.0
+20,,p24.i,Other Liquid Biofuels,1.0
+20.1,,p24.a,"Plastics, basic",1.0
+20.1,,p24.a.w,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",1.0
+20.1,,p24.b,N-fertiliser,1.0
+20.1,,p24.c,P- and other fertiliser,1.0
+20.1,,p24.d,Chemicals nec,1.0
+20.1,,p24.e,Charcoal,1.0
+20.1,,p24.f,Additives/Blending Components,1.0
+20.1,,p24.g,Biogasoline,1.0
+20.1,,p24.h,Biodiesels,1.0
+20.1,,p24.i,Other Liquid Biofuels,1.0
+20.11,,p24.d,Chemicals nec,1.0
+20.12,,p24.d,Chemicals nec,1.0
+20.13,,p24.d,Chemicals nec,1.0
+20.14,,p24.d,Chemicals nec,1.0
+20.14,,p24.e,Charcoal,1.0
+20.14,,p24.f,Additives/Blending Components,1.0
+20.14,,p24.g,Biogasoline,1.0
+20.14,,p24.h,Biodiesels,1.0
+20.14,,p24.i,Other Liquid Biofuels,1.0
+20.15,,p24.b,N-fertiliser,1.0
+20.15,,p24.c,P- and other fertiliser,1.0
+20.15,,p24.d,Chemicals nec,1.0
+20.16,,p24.a,"Plastics, basic",1.0
+20.16,,p24.a.w,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",1.0
+20.17,,p24.a,"Plastics, basic",1.0
+20.17,,p24.a.w,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",1.0
+20.2,,p24.d,Chemicals nec,1.0
+20.20,,p24.d,Chemicals nec,1.0
+20.3,,p24.d,Chemicals nec,1.0
+20.30,,p24.d,Chemicals nec,1.0
+20.4,,p24.d,Chemicals nec,1.0
+20.41,,p24.d,Chemicals nec,1.0
+20.42,,p24.d,Chemicals nec,1.0
+20.5,,p24.d,Chemicals nec,1.0
+20.51,,p24.d,Chemicals nec,1.0
+20.52,,p24.d,Chemicals nec,1.0
+20.53,,p24.d,Chemicals nec,1.0
+20.59,,p24.d,Chemicals nec,1.0
+20.59,,p24.f,Additives/Blending Components,1.0
+20.59,,p24.g,Biogasoline,1.0
+20.59,,p24.h,Biodiesels,1.0
+20.59,,p24.i,Other Liquid Biofuels,1.0
+20.6,,p24.d,Chemicals nec,1.0
+20.60,,p24.d,Chemicals nec,1.0
+21,,p24.d,Chemicals nec,1.0
+21.1,,p24.d,Chemicals nec,1.0
+21.10,,p24.d,Chemicals nec,1.0
+21.2,,p24.d,Chemicals nec,1.0
+21.20,,p24.d,Chemicals nec,1.0
+22,,p25,Rubber and plastic products (25),1.0
+22.1,,p25,Rubber and plastic products (25),1.0
+22.11,,p25,Rubber and plastic products (25),1.0
+22.19,,p25,Rubber and plastic products (25),1.0
+22.2,,p25,Rubber and plastic products (25),1.0
+22.21,,p25,Rubber and plastic products (25),1.0
+22.22,,p25,Rubber and plastic products (25),1.0
+22.23,,p25,Rubber and plastic products (25),1.0
+22.29,,p25,Rubber and plastic products (25),1.0
+23,,p26.a,Glass and glass products,1.0
+23,,p26.a.w,"Secondary glass for treatment, Re-processing of secondary glass into new glass",1.0
+23,,p26.b,Ceramic goods,1.0
+23,,p26.c,"Bricks, tiles and construction products, in baked clay",1.0
+23,,p26.d,"Cement, lime and plaster",1.0
+23,,p26.d.w,"Ash for treatment, Re-processing of ash into clinker",1.0
+23,,p26.e,Other non-metallic mineral products,1.0
+23.1,,p26.a,Glass and glass products,1.0
+23.1,,p26.a.w,"Secondary glass for treatment, Re-processing of secondary glass into new glass",1.0
+23.11,,p26.a,Glass and glass products,1.0
+23.11,,p26.a.w,"Secondary glass for treatment, Re-processing of secondary glass into new glass",1.0
+23.12,,p26.a,Glass and glass products,1.0
+23.12,,p26.a.w,"Secondary glass for treatment, Re-processing of secondary glass into new glass",1.0
+23.13,,p26.a,Glass and glass products,1.0
+23.13,,p26.a.w,"Secondary glass for treatment, Re-processing of secondary glass into new glass",1.0
+23.14,,p26.a,Glass and glass products,1.0
+23.14,,p26.a.w,"Secondary glass for treatment, Re-processing of secondary glass into new glass",1.0
+23.19,,p26.a,Glass and glass products,1.0
+23.19,,p26.a.w,"Secondary glass for treatment, Re-processing of secondary glass into new glass",1.0
+23.2,,p26.b,Ceramic goods,1.0
+23.20,,p26.b,Ceramic goods,1.0
+23.3,,p26.b,Ceramic goods,1.0
+23.3,,p26.c,"Bricks, tiles and construction products, in baked clay",1.0
+23.31,,p26.b,Ceramic goods,1.0
+23.32,,p26.c,"Bricks, tiles and construction products, in baked clay",1.0
+23.4,,p26.b,Ceramic goods,1.0
+23.41,,p26.b,Ceramic goods,1.0
+23.42,,p26.b,Ceramic goods,1.0
+23.43,,p26.b,Ceramic goods,1.0
+23.44,,p26.b,Ceramic goods,1.0
+23.49,,p26.b,Ceramic goods,1.0
+23.5,,p26.d,"Cement, lime and plaster",1.0
+23.5,,p26.d.w,"Ash for treatment, Re-processing of ash into clinker",1.0
+23.51,,p26.d,"Cement, lime and plaster",1.0
+23.51,,p26.d.w,"Ash for treatment, Re-processing of ash into clinker",1.0
+23.52,,p26.d,"Cement, lime and plaster",1.0
+23.52,,p26.d.w,"Ash for treatment, Re-processing of ash into clinker",1.0
+23.6,,p26.e,Other non-metallic mineral products,1.0
+23.61,,p26.e,Other non-metallic mineral products,1.0
+23.62,,p26.e,Other non-metallic mineral products,1.0
+23.63,,p26.e,Other non-metallic mineral products,1.0
+23.64,,p26.e,Other non-metallic mineral products,1.0
+23.65,,p26.e,Other non-metallic mineral products,1.0
+23.69,,p26.e,Other non-metallic mineral products,1.0
+23.7,,p26.e,Other non-metallic mineral products,1.0
+23.70,,p26.e,Other non-metallic mineral products,1.0
+23.9,,p26.e,Other non-metallic mineral products,1.0
+23.91,,p26.e,Other non-metallic mineral products,1.0
+23.99,,p26.e,Other non-metallic mineral products,1.0
+24,,p23.3,Nuclear fuel,1.0
+24,,p27.a,Basic iron and steel and of ferro-alloys and first products thereof,1.0
+24,,p27.a.w,"Secondary steel for treatment, Re-processing of secondary steel into new steel",1.0
+24,,p27.41,Precious metals,1.0
+24,,p27.41.w,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",1.0
+24,,p27.42,Aluminium and aluminium products,1.0
+24,,p27.42.w,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",1.0
+24,,p27.43,"Lead, zinc and tin and products thereof",1.0
+24,,p27.43.w,"Secondary lead for treatment, Re-processing of secondary lead into new lead",1.0
+24,,p27.44,Copper products,1.0
+24,,p27.44.w,"Secondary copper for treatment, Re-processing of secondary copper into new copper",1.0
+24,,p27.45,Other non-ferrous metal products,1.0
+24,,p27.45.w,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",1.0
+24,,p27.5,Foundry work services,1.0
+24.1,,p27.a,Basic iron and steel and of ferro-alloys and first products thereof,1.0
+24.1,,p27.a.w,"Secondary steel for treatment, Re-processing of secondary steel into new steel",1.0
+24.10,,p27.a,Basic iron and steel and of ferro-alloys and first products thereof,1.0
+24.10,,p27.a.w,"Secondary steel for treatment, Re-processing of secondary steel into new steel",1.0
+24.2,,p27.a,Basic iron and steel and of ferro-alloys and first products thereof,1.0
+24.2,,p27.a.w,"Secondary steel for treatment, Re-processing of secondary steel into new steel",1.0
+24.20,,p27.a,Basic iron and steel and of ferro-alloys and first products thereof,1.0
+24.20,,p27.a.w,"Secondary steel for treatment, Re-processing of secondary steel into new steel",1.0
+24.3,,p27.a,Basic iron and steel and of ferro-alloys and first products thereof,1.0
+24.3,,p27.a.w,"Secondary steel for treatment, Re-processing of secondary steel into new steel",1.0
+24.31,,p27.a,Basic iron and steel and of ferro-alloys and first products thereof,1.0
+24.31,,p27.a.w,"Secondary steel for treatment, Re-processing of secondary steel into new steel",1.0
+24.32,,p27.a,Basic iron and steel and of ferro-alloys and first products thereof,1.0
+24.32,,p27.a.w,"Secondary steel for treatment, Re-processing of secondary steel into new steel",1.0
+24.33,,p27.a,Basic iron and steel and of ferro-alloys and first products thereof,1.0
+24.33,,p27.a.w,"Secondary steel for treatment, Re-processing of secondary steel into new steel",1.0
+24.34,,p27.a,Basic iron and steel and of ferro-alloys and first products thereof,1.0
+24.34,,p27.a.w,"Secondary steel for treatment, Re-processing of secondary steel into new steel",1.0
+24.4,,p23.3,Nuclear fuel,1.0
+24.4,,p27.41,Precious metals,1.0
+24.4,,p27.41.w,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",1.0
+24.4,,p27.42,Aluminium and aluminium products,1.0
+24.4,,p27.42.w,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",1.0
+24.4,,p27.43,"Lead, zinc and tin and products thereof",1.0
+24.4,,p27.43.w,"Secondary lead for treatment, Re-processing of secondary lead into new lead",1.0
+24.4,,p27.44,Copper products,1.0
+24.4,,p27.44.w,"Secondary copper for treatment, Re-processing of secondary copper into new copper",1.0
+24.4,,p27.45,Other non-ferrous metal products,1.0
+24.4,,p27.45.w,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",1.0
+24.41,,p27.41,Precious metals,1.0
+24.41,,p27.41.w,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",1.0
+24.42,,p27.42,Aluminium and aluminium products,1.0
+24.42,,p27.42.w,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",1.0
+24.43,,p27.43,"Lead, zinc and tin and products thereof",1.0
+24.43,,p27.43.w,"Secondary lead for treatment, Re-processing of secondary lead into new lead",1.0
+24.44,,p27.44,Copper products,1.0
+24.44,,p27.44.w,"Secondary copper for treatment, Re-processing of secondary copper into new copper",1.0
+24.45,,p27.45,Other non-ferrous metal products,1.0
+24.45,,p27.45.w,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",1.0
+24.46,,p23.3,Nuclear fuel,1.0
+24.5,,p27.5,Foundry work services,1.0
+24.51,,p27.5,Foundry work services,1.0
+24.52,,p27.5,Foundry work services,1.0
+24.53,,p27.5,Foundry work services,1.0
+24.54,,p27.5,Foundry work services,1.0
+25,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25,,p29,Machinery and equipment n.e.c. (29),1.0
+25.1,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.11,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.12,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.2,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.21,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.29,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.3,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.30,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.4,,p29,Machinery and equipment n.e.c. (29),1.0
+25.40,,p29,Machinery and equipment n.e.c. (29),1.0
+25.5,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.50,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.6,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.61,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.62,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.7,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.7,,p29,Machinery and equipment n.e.c. (29),1.0
+25.71,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.72,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.73,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.73,,p29,Machinery and equipment n.e.c. (29),1.0
+25.9,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.91,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.92,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.93,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.94,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+25.99,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+26,,p30,Office machinery and computers (30),1.0
+26,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+26,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+26,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+26,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+26.1,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+26.1,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+26.11,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+26.11,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+26.12,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+26.2,,p30,Office machinery and computers (30),1.0
+26.2,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+26.20,,p30,Office machinery and computers (30),1.0
+26.20,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+26.3,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+26.3,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+26.30,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+26.30,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+26.4,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+26.4,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+26.40,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+26.40,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+26.5,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+26.51,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+26.52,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+26.6,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+26.60,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+26.7,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+26.70,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+26.8,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+26.80,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+27,,p29,Machinery and equipment n.e.c. (29),1.0
+27,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+27,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+27.1,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+27.11,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+27.12,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+27.2,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+27.20,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+27.3,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+27.31,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+27.32,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+27.33,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+27.4,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+27.40,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+27.5,,p29,Machinery and equipment n.e.c. (29),1.0
+27.51,,p29,Machinery and equipment n.e.c. (29),1.0
+27.52,,p29,Machinery and equipment n.e.c. (29),1.0
+27.9,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+27.9,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+27.90,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+27.90,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+28,,p29,Machinery and equipment n.e.c. (29),1.0
+28,,p30,Office machinery and computers (30),1.0
+28,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+28,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+28,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+28,,p35,Other transport equipment (35),1.0
+28.1,,p29,Machinery and equipment n.e.c. (29),1.0
+28.11,,p29,Machinery and equipment n.e.c. (29),1.0
+28.12,,p29,Machinery and equipment n.e.c. (29),1.0
+28.13,,p29,Machinery and equipment n.e.c. (29),1.0
+28.14,,p29,Machinery and equipment n.e.c. (29),1.0
+28.15,,p29,Machinery and equipment n.e.c. (29),1.0
+28.2,,p29,Machinery and equipment n.e.c. (29),1.0
+28.2,,p30,Office machinery and computers (30),1.0
+28.2,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+28.2,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+28.2,,p35,Other transport equipment (35),1.0
+28.21,,p29,Machinery and equipment n.e.c. (29),1.0
+28.22,,p29,Machinery and equipment n.e.c. (29),1.0
+28.22,,p35,Other transport equipment (35),1.0
+28.23,,p30,Office machinery and computers (30),1.0
+28.23,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+28.24,,p29,Machinery and equipment n.e.c. (29),1.0
+28.25,,p29,Machinery and equipment n.e.c. (29),1.0
+28.29,,p29,Machinery and equipment n.e.c. (29),1.0
+28.29,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+28.3,,p29,Machinery and equipment n.e.c. (29),1.0
+28.30,,p29,Machinery and equipment n.e.c. (29),1.0
+28.4,,p29,Machinery and equipment n.e.c. (29),1.0
+28.41,,p29,Machinery and equipment n.e.c. (29),1.0
+28.49,,p29,Machinery and equipment n.e.c. (29),1.0
+28.9,,p29,Machinery and equipment n.e.c. (29),1.0
+28.9,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+28.91,,p29,Machinery and equipment n.e.c. (29),1.0
+28.92,,p29,Machinery and equipment n.e.c. (29),1.0
+28.93,,p29,Machinery and equipment n.e.c. (29),1.0
+28.94,,p29,Machinery and equipment n.e.c. (29),1.0
+28.95,,p29,Machinery and equipment n.e.c. (29),1.0
+28.96,,p29,Machinery and equipment n.e.c. (29),1.0
+28.99,,p29,Machinery and equipment n.e.c. (29),1.0
+28.99,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+29,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+29,,p34,"Motor vehicles, trailers and semi-trailers (34)",1.0
+29.1,,p34,"Motor vehicles, trailers and semi-trailers (34)",1.0
+29.10,,p34,"Motor vehicles, trailers and semi-trailers (34)",1.0
+29.2,,p34,"Motor vehicles, trailers and semi-trailers (34)",1.0
+29.20,,p34,"Motor vehicles, trailers and semi-trailers (34)",1.0
+29.3,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+29.3,,p34,"Motor vehicles, trailers and semi-trailers (34)",1.0
+29.31,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+29.32,,p34,"Motor vehicles, trailers and semi-trailers (34)",1.0
+30,,p34,"Motor vehicles, trailers and semi-trailers (34)",1.0
+30,,p35,Other transport equipment (35),1.0
+30.1,,p35,Other transport equipment (35),1.0
+30.11,,p35,Other transport equipment (35),1.0
+30.12,,p35,Other transport equipment (35),1.0
+30.2,,p35,Other transport equipment (35),1.0
+30.20,,p35,Other transport equipment (35),1.0
+30.3,,p35,Other transport equipment (35),1.0
+30.30,,p35,Other transport equipment (35),1.0
+30.4,,p35,Other transport equipment (35),1.0
+30.40,,p35,Other transport equipment (35),1.0
+30.9,,p34,"Motor vehicles, trailers and semi-trailers (34)",1.0
+30.9,,p35,Other transport equipment (35),1.0
+30.91,,p34,"Motor vehicles, trailers and semi-trailers (34)",1.0
+30.92,,p35,Other transport equipment (35),1.0
+30.99,,p35,Other transport equipment (35),1.0
+31,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+31.0,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+31.01,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+31.02,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+31.03,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+31.09,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+32,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+32,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+32.1,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+32.11,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+32.12,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+32.13,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+32.2,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+32.20,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+32.3,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+32.30,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+32.4,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+32.40,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+32.5,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+32.50,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+32.9,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+32.91,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+32.99,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+33,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+33,,p29,Machinery and equipment n.e.c. (29),1.0
+33,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+33,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+33,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+33,,p35,Other transport equipment (35),1.0
+33,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+33.1,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+33.1,,p29,Machinery and equipment n.e.c. (29),1.0
+33.1,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+33.1,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+33.1,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+33.1,,p35,Other transport equipment (35),1.0
+33.1,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+33.11,,p28,"Fabricated metal products, except machinery and equipment (28)",1.0
+33.12,,p29,Machinery and equipment n.e.c. (29),1.0
+33.13,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+33.13,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+33.13,,p33,"Medical, precision and optical instruments, watches and clocks (33)",1.0
+33.14,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+33.15,,p35,Other transport equipment (35),1.0
+33.16,,p35,Other transport equipment (35),1.0
+33.17,,p35,Other transport equipment (35),1.0
+33.19,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+33.2,,p29,Machinery and equipment n.e.c. (29),1.0
+33.2,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+33.20,,p29,Machinery and equipment n.e.c. (29),1.0
+33.20,,p31,Electrical machinery and apparatus n.e.c. (31),1.0
+D,,p40.11.a,Electricity by coal,1.0
+D,,p40.11.b,Electricity by gas,1.0
+D,,p40.11.c,Electricity by nuclear,1.0
+D,,p40.11.d,Electricity by hydro,1.0
+D,,p40.11.e,Electricity by wind,1.0
+D,,p40.11.f,Electricity by petroleum and other oil derivatives,1.0
+D,,p40.11.g,Electricity by biomass and waste,1.0
+D,,p40.11.h,Electricity by solar photovoltaic,1.0
+D,,p40.11.i,Electricity by solar thermal,1.0
+D,,p40.11.j,"Electricity by tide, wave, ocean",1.0
+D,,p40.11.k,Electricity by Geothermal,1.0
+D,,p40.11.l,Electricity nec,1.0
+D,,p40.12,Transmission services of electricity,1.0
+D,,p40.13,Distribution and trade services of electricity,1.0
+D,,p40.2.a,Coke oven gas,1.0
+D,,p40.2.b,Blast Furnace Gas,1.0
+D,,p40.2.c,Oxygen Steel Furnace Gas,1.0
+D,,p40.2.d,Gas Works Gas,1.0
+D,,p40.2.e,Biogas,1.0
+D,,p40.2.1,Distribution services of gaseous fuels through mains,1.0
+D,,p40.3,Steam and hot water supply services,1.0
+35,,p40.11.a,Electricity by coal,1.0
+35,,p40.11.b,Electricity by gas,1.0
+35,,p40.11.c,Electricity by nuclear,1.0
+35,,p40.11.d,Electricity by hydro,1.0
+35,,p40.11.e,Electricity by wind,1.0
+35,,p40.11.f,Electricity by petroleum and other oil derivatives,1.0
+35,,p40.11.g,Electricity by biomass and waste,1.0
+35,,p40.11.h,Electricity by solar photovoltaic,1.0
+35,,p40.11.i,Electricity by solar thermal,1.0
+35,,p40.11.j,"Electricity by tide, wave, ocean",1.0
+35,,p40.11.k,Electricity by Geothermal,1.0
+35,,p40.11.l,Electricity nec,1.0
+35,,p40.12,Transmission services of electricity,1.0
+35,,p40.13,Distribution and trade services of electricity,1.0
+35,,p40.2.a,Coke oven gas,1.0
+35,,p40.2.b,Blast Furnace Gas,1.0
+35,,p40.2.c,Oxygen Steel Furnace Gas,1.0
+35,,p40.2.d,Gas Works Gas,1.0
+35,,p40.2.e,Biogas,1.0
+35,,p40.2.1,Distribution services of gaseous fuels through mains,1.0
+35,,p40.3,Steam and hot water supply services,1.0
+35.1,,p40.11.a,Electricity by coal,1.0
+35.1,,p40.11.b,Electricity by gas,1.0
+35.1,,p40.11.c,Electricity by nuclear,1.0
+35.1,,p40.11.d,Electricity by hydro,1.0
+35.1,,p40.11.e,Electricity by wind,1.0
+35.1,,p40.11.f,Electricity by petroleum and other oil derivatives,1.0
+35.1,,p40.11.g,Electricity by biomass and waste,1.0
+35.1,,p40.11.h,Electricity by solar photovoltaic,1.0
+35.1,,p40.11.i,Electricity by solar thermal,1.0
+35.1,,p40.11.j,"Electricity by tide, wave, ocean",1.0
+35.1,,p40.11.k,Electricity by Geothermal,1.0
+35.1,,p40.11.l,Electricity nec,1.0
+35.1,,p40.12,Transmission services of electricity,1.0
+35.1,,p40.13,Distribution and trade services of electricity,1.0
+35.11,,p40.11.a,Electricity by coal,1.0
+35.11,,p40.11.b,Electricity by gas,1.0
+35.11,,p40.11.c,Electricity by nuclear,1.0
+35.11,,p40.11.d,Electricity by hydro,1.0
+35.11,,p40.11.e,Electricity by wind,1.0
+35.11,,p40.11.f,Electricity by petroleum and other oil derivatives,1.0
+35.11,,p40.11.g,Electricity by biomass and waste,1.0
+35.11,,p40.11.h,Electricity by solar photovoltaic,1.0
+35.11,,p40.11.i,Electricity by solar thermal,1.0
+35.11,,p40.11.j,"Electricity by tide, wave, ocean",1.0
+35.11,,p40.11.k,Electricity by Geothermal,1.0
+35.11,,p40.11.l,Electricity nec,1.0
+35.12,,p40.12,Transmission services of electricity,1.0
+35.13,,p40.13,Distribution and trade services of electricity,1.0
+35.14,,p40.13,Distribution and trade services of electricity,1.0
+35.2,,p40.2.a,Coke oven gas,1.0
+35.2,,p40.2.b,Blast Furnace Gas,1.0
+35.2,,p40.2.c,Oxygen Steel Furnace Gas,1.0
+35.2,,p40.2.d,Gas Works Gas,1.0
+35.2,,p40.2.e,Biogas,1.0
+35.2,,p40.2.1,Distribution services of gaseous fuels through mains,1.0
+35.21,,p40.2.a,Coke oven gas,1.0
+35.21,,p40.2.b,Blast Furnace Gas,1.0
+35.21,,p40.2.c,Oxygen Steel Furnace Gas,1.0
+35.21,,p40.2.d,Gas Works Gas,1.0
+35.21,,p40.2.e,Biogas,1.0
+35.22,,p40.2.1,Distribution services of gaseous fuels through mains,1.0
+35.23,,p40.2.1,Distribution services of gaseous fuels through mains,1.0
+35.3,,p40.3,Steam and hot water supply services,1.0
+35.30,,p40.3,Steam and hot water supply services,1.0
+E,,p37,Secondary raw materials,1.0
+E,,p37.w.1,"Bottles for treatment, Recycling of bottles by direct reuse",1.0
+E,,p41,"Collected and purified water, distribution services of water (41)",1.0
+E,,p90.1.a,Food waste for treatment: incineration,1.0
+E,,p90.1.b,Paper waste for treatment: incineration,1.0
+E,,p90.1.c,Plastic waste for treatment: incineration,1.0
+E,,p90.1.d,Intert/metal waste for treatment: incineration,1.0
+E,,p90.1.e,Textiles waste for treatment: incineration,1.0
+E,,p90.1.f,Wood waste for treatment: incineration,1.0
+E,,p90.1.g,Oil/hazardous waste for treatment: incineration,1.0
+E,,p90.2.a,Food waste for treatment: biogasification and land application,1.0
+E,,p90.2.b,Paper waste for treatment: biogasification and land application,1.0
+E,,p90.2.c,Sewage sludge for treatment: biogasification and land application,1.0
+E,,p90.3.a,Food waste for treatment: composting and land application,1.0
+E,,p90.3.b,Paper and wood waste for treatment: composting and land application,1.0
+E,,p90.4.a,Food waste for treatment: waste water treatment,1.0
+E,,p90.4.b,Other waste for treatment: waste water treatment,1.0
+E,,p90.5.a,Food waste for treatment: landfill,1.0
+E,,p90.5.b,Paper for treatment: landfill,1.0
+E,,p90.5.c,Plastic waste for treatment: landfill,1.0
+E,,p90.5.d,Inert/metal/hazardous waste for treatment: landfill,1.0
+E,,p90.5.e,Textiles waste for treatment: landfill,1.0
+E,,p90.5.f,Wood waste for treatment: landfill,1.0
+36,,p41,"Collected and purified water, distribution services of water (41)",1.0
+36.0,,p41,"Collected and purified water, distribution services of water (41)",1.0
+36.00,,p41,"Collected and purified water, distribution services of water (41)",1.0
+37,,p90.4.a,Food waste for treatment: waste water treatment,1.0
+37,,p90.4.b,Other waste for treatment: waste water treatment,1.0
+37.0,,p90.4.a,Food waste for treatment: waste water treatment,1.0
+37.0,,p90.4.b,Other waste for treatment: waste water treatment,1.0
+37.00,,p90.4.a,Food waste for treatment: waste water treatment,1.0
+37.00,,p90.4.b,Other waste for treatment: waste water treatment,1.0
+38,,p37,Secondary raw materials,1.0
+38,,p37.w.1,"Bottles for treatment, Recycling of bottles by direct reuse",1.0
+38,,p90.1.a,Food waste for treatment: incineration,1.0
+38,,p90.1.b,Paper waste for treatment: incineration,1.0
+38,,p90.1.c,Plastic waste for treatment: incineration,1.0
+38,,p90.1.d,Intert/metal waste for treatment: incineration,1.0
+38,,p90.1.e,Textiles waste for treatment: incineration,1.0
+38,,p90.1.f,Wood waste for treatment: incineration,1.0
+38,,p90.1.g,Oil/hazardous waste for treatment: incineration,1.0
+38,,p90.2.a,Food waste for treatment: biogasification and land application,1.0
+38,,p90.2.b,Paper waste for treatment: biogasification and land application,1.0
+38,,p90.2.c,Sewage sludge for treatment: biogasification and land application,1.0
+38,,p90.3.a,Food waste for treatment: composting and land application,1.0
+38,,p90.3.b,Paper and wood waste for treatment: composting and land application,1.0
+38,,p90.5.a,Food waste for treatment: landfill,1.0
+38,,p90.5.b,Paper for treatment: landfill,1.0
+38,,p90.5.c,Plastic waste for treatment: landfill,1.0
+38,,p90.5.d,Inert/metal/hazardous waste for treatment: landfill,1.0
+38,,p90.5.e,Textiles waste for treatment: landfill,1.0
+38,,p90.5.f,Wood waste for treatment: landfill,1.0
+38.1,,p90.1.a,Food waste for treatment: incineration,1.0
+38.1,,p90.1.b,Paper waste for treatment: incineration,1.0
+38.1,,p90.1.c,Plastic waste for treatment: incineration,1.0
+38.1,,p90.1.d,Intert/metal waste for treatment: incineration,1.0
+38.1,,p90.1.e,Textiles waste for treatment: incineration,1.0
+38.1,,p90.1.f,Wood waste for treatment: incineration,1.0
+38.1,,p90.1.g,Oil/hazardous waste for treatment: incineration,1.0
+38.1,,p90.2.a,Food waste for treatment: biogasification and land application,1.0
+38.1,,p90.2.b,Paper waste for treatment: biogasification and land application,1.0
+38.1,,p90.2.c,Sewage sludge for treatment: biogasification and land application,1.0
+38.1,,p90.3.a,Food waste for treatment: composting and land application,1.0
+38.1,,p90.3.b,Paper and wood waste for treatment: composting and land application,1.0
+38.1,,p90.5.a,Food waste for treatment: landfill,1.0
+38.1,,p90.5.b,Paper for treatment: landfill,1.0
+38.1,,p90.5.c,Plastic waste for treatment: landfill,1.0
+38.1,,p90.5.d,Inert/metal/hazardous waste for treatment: landfill,1.0
+38.1,,p90.5.e,Textiles waste for treatment: landfill,1.0
+38.1,,p90.5.f,Wood waste for treatment: landfill,1.0
+38.11,,p90.1.a,Food waste for treatment: incineration,1.0
+38.11,,p90.1.b,Paper waste for treatment: incineration,1.0
+38.11,,p90.1.c,Plastic waste for treatment: incineration,1.0
+38.11,,p90.1.d,Intert/metal waste for treatment: incineration,1.0
+38.11,,p90.1.e,Textiles waste for treatment: incineration,1.0
+38.11,,p90.1.f,Wood waste for treatment: incineration,1.0
+38.11,,p90.1.g,Oil/hazardous waste for treatment: incineration,1.0
+38.11,,p90.2.a,Food waste for treatment: biogasification and land application,1.0
+38.11,,p90.2.b,Paper waste for treatment: biogasification and land application,1.0
+38.11,,p90.2.c,Sewage sludge for treatment: biogasification and land application,1.0
+38.11,,p90.3.a,Food waste for treatment: composting and land application,1.0
+38.11,,p90.3.b,Paper and wood waste for treatment: composting and land application,1.0
+38.11,,p90.5.a,Food waste for treatment: landfill,1.0
+38.11,,p90.5.b,Paper for treatment: landfill,1.0
+38.11,,p90.5.c,Plastic waste for treatment: landfill,1.0
+38.11,,p90.5.d,Inert/metal/hazardous waste for treatment: landfill,1.0
+38.11,,p90.5.e,Textiles waste for treatment: landfill,1.0
+38.11,,p90.5.f,Wood waste for treatment: landfill,1.0
+38.12,,p90.1.a,Food waste for treatment: incineration,1.0
+38.12,,p90.1.b,Paper waste for treatment: incineration,1.0
+38.12,,p90.1.c,Plastic waste for treatment: incineration,1.0
+38.12,,p90.1.d,Intert/metal waste for treatment: incineration,1.0
+38.12,,p90.1.e,Textiles waste for treatment: incineration,1.0
+38.12,,p90.1.f,Wood waste for treatment: incineration,1.0
+38.12,,p90.1.g,Oil/hazardous waste for treatment: incineration,1.0
+38.12,,p90.2.a,Food waste for treatment: biogasification and land application,1.0
+38.12,,p90.2.b,Paper waste for treatment: biogasification and land application,1.0
+38.12,,p90.2.c,Sewage sludge for treatment: biogasification and land application,1.0
+38.12,,p90.3.a,Food waste for treatment: composting and land application,1.0
+38.12,,p90.3.b,Paper and wood waste for treatment: composting and land application,1.0
+38.12,,p90.5.a,Food waste for treatment: landfill,1.0
+38.12,,p90.5.b,Paper for treatment: landfill,1.0
+38.12,,p90.5.c,Plastic waste for treatment: landfill,1.0
+38.12,,p90.5.d,Inert/metal/hazardous waste for treatment: landfill,1.0
+38.12,,p90.5.e,Textiles waste for treatment: landfill,1.0
+38.12,,p90.5.f,Wood waste for treatment: landfill,1.0
+38.2,,p90.1.a,Food waste for treatment: incineration,1.0
+38.2,,p90.1.b,Paper waste for treatment: incineration,1.0
+38.2,,p90.1.c,Plastic waste for treatment: incineration,1.0
+38.2,,p90.1.d,Intert/metal waste for treatment: incineration,1.0
+38.2,,p90.1.e,Textiles waste for treatment: incineration,1.0
+38.2,,p90.1.f,Wood waste for treatment: incineration,1.0
+38.2,,p90.1.g,Oil/hazardous waste for treatment: incineration,1.0
+38.2,,p90.2.a,Food waste for treatment: biogasification and land application,1.0
+38.2,,p90.2.b,Paper waste for treatment: biogasification and land application,1.0
+38.2,,p90.2.c,Sewage sludge for treatment: biogasification and land application,1.0
+38.2,,p90.3.a,Food waste for treatment: composting and land application,1.0
+38.2,,p90.3.b,Paper and wood waste for treatment: composting and land application,1.0
+38.2,,p90.5.a,Food waste for treatment: landfill,1.0
+38.2,,p90.5.b,Paper for treatment: landfill,1.0
+38.2,,p90.5.c,Plastic waste for treatment: landfill,1.0
+38.2,,p90.5.d,Inert/metal/hazardous waste for treatment: landfill,1.0
+38.2,,p90.5.e,Textiles waste for treatment: landfill,1.0
+38.2,,p90.5.f,Wood waste for treatment: landfill,1.0
+38.21,,p90.1.a,Food waste for treatment: incineration,1.0
+38.21,,p90.1.b,Paper waste for treatment: incineration,1.0
+38.21,,p90.1.c,Plastic waste for treatment: incineration,1.0
+38.21,,p90.1.d,Intert/metal waste for treatment: incineration,1.0
+38.21,,p90.1.e,Textiles waste for treatment: incineration,1.0
+38.21,,p90.1.f,Wood waste for treatment: incineration,1.0
+38.21,,p90.1.g,Oil/hazardous waste for treatment: incineration,1.0
+38.21,,p90.2.a,Food waste for treatment: biogasification and land application,1.0
+38.21,,p90.2.b,Paper waste for treatment: biogasification and land application,1.0
+38.21,,p90.2.c,Sewage sludge for treatment: biogasification and land application,1.0
+38.21,,p90.3.a,Food waste for treatment: composting and land application,1.0
+38.21,,p90.3.b,Paper and wood waste for treatment: composting and land application,1.0
+38.21,,p90.5.a,Food waste for treatment: landfill,1.0
+38.21,,p90.5.b,Paper for treatment: landfill,1.0
+38.21,,p90.5.c,Plastic waste for treatment: landfill,1.0
+38.21,,p90.5.d,Inert/metal/hazardous waste for treatment: landfill,1.0
+38.21,,p90.5.e,Textiles waste for treatment: landfill,1.0
+38.21,,p90.5.f,Wood waste for treatment: landfill,1.0
+38.22,,p90.1.a,Food waste for treatment: incineration,1.0
+38.22,,p90.1.b,Paper waste for treatment: incineration,1.0
+38.22,,p90.1.c,Plastic waste for treatment: incineration,1.0
+38.22,,p90.1.d,Intert/metal waste for treatment: incineration,1.0
+38.22,,p90.1.e,Textiles waste for treatment: incineration,1.0
+38.22,,p90.1.f,Wood waste for treatment: incineration,1.0
+38.22,,p90.1.g,Oil/hazardous waste for treatment: incineration,1.0
+38.22,,p90.2.a,Food waste for treatment: biogasification and land application,1.0
+38.22,,p90.2.b,Paper waste for treatment: biogasification and land application,1.0
+38.22,,p90.2.c,Sewage sludge for treatment: biogasification and land application,1.0
+38.22,,p90.3.a,Food waste for treatment: composting and land application,1.0
+38.22,,p90.3.b,Paper and wood waste for treatment: composting and land application,1.0
+38.22,,p90.5.a,Food waste for treatment: landfill,1.0
+38.22,,p90.5.b,Paper for treatment: landfill,1.0
+38.22,,p90.5.c,Plastic waste for treatment: landfill,1.0
+38.22,,p90.5.d,Inert/metal/hazardous waste for treatment: landfill,1.0
+38.22,,p90.5.e,Textiles waste for treatment: landfill,1.0
+38.22,,p90.5.f,Wood waste for treatment: landfill,1.0
+38.3,,p37,Secondary raw materials,1.0
+38.3,,p37.w.1,"Bottles for treatment, Recycling of bottles by direct reuse",1.0
+38.31,,p37,Secondary raw materials,1.0
+38.32,,p37,Secondary raw materials,1.0
+38.32,,p37.w.1,"Bottles for treatment, Recycling of bottles by direct reuse",1.0
+39,,p90.1.a,Food waste for treatment: incineration,1.0
+39,,p90.1.b,Paper waste for treatment: incineration,1.0
+39,,p90.1.c,Plastic waste for treatment: incineration,1.0
+39,,p90.1.d,Intert/metal waste for treatment: incineration,1.0
+39,,p90.1.e,Textiles waste for treatment: incineration,1.0
+39,,p90.1.f,Wood waste for treatment: incineration,1.0
+39,,p90.1.g,Oil/hazardous waste for treatment: incineration,1.0
+39,,p90.2.a,Food waste for treatment: biogasification and land application,1.0
+39,,p90.2.b,Paper waste for treatment: biogasification and land application,1.0
+39,,p90.2.c,Sewage sludge for treatment: biogasification and land application,1.0
+39,,p90.3.a,Food waste for treatment: composting and land application,1.0
+39,,p90.3.b,Paper and wood waste for treatment: composting and land application,1.0
+39,,p90.5.a,Food waste for treatment: landfill,1.0
+39,,p90.5.b,Paper for treatment: landfill,1.0
+39,,p90.5.c,Plastic waste for treatment: landfill,1.0
+39,,p90.5.d,Inert/metal/hazardous waste for treatment: landfill,1.0
+39,,p90.5.e,Textiles waste for treatment: landfill,1.0
+39,,p90.5.f,Wood waste for treatment: landfill,1.0
+39.0,,p90.1.a,Food waste for treatment: incineration,1.0
+39.0,,p90.1.b,Paper waste for treatment: incineration,1.0
+39.0,,p90.1.c,Plastic waste for treatment: incineration,1.0
+39.0,,p90.1.d,Intert/metal waste for treatment: incineration,1.0
+39.0,,p90.1.e,Textiles waste for treatment: incineration,1.0
+39.0,,p90.1.f,Wood waste for treatment: incineration,1.0
+39.0,,p90.1.g,Oil/hazardous waste for treatment: incineration,1.0
+39.0,,p90.2.a,Food waste for treatment: biogasification and land application,1.0
+39.0,,p90.2.b,Paper waste for treatment: biogasification and land application,1.0
+39.0,,p90.2.c,Sewage sludge for treatment: biogasification and land application,1.0
+39.0,,p90.3.a,Food waste for treatment: composting and land application,1.0
+39.0,,p90.3.b,Paper and wood waste for treatment: composting and land application,1.0
+39.0,,p90.5.a,Food waste for treatment: landfill,1.0
+39.0,,p90.5.b,Paper for treatment: landfill,1.0
+39.0,,p90.5.c,Plastic waste for treatment: landfill,1.0
+39.0,,p90.5.d,Inert/metal/hazardous waste for treatment: landfill,1.0
+39.0,,p90.5.e,Textiles waste for treatment: landfill,1.0
+39.0,,p90.5.f,Wood waste for treatment: landfill,1.0
+39.00,,p90.1.a,Food waste for treatment: incineration,1.0
+39.00,,p90.1.b,Paper waste for treatment: incineration,1.0
+39.00,,p90.1.c,Plastic waste for treatment: incineration,1.0
+39.00,,p90.1.d,Intert/metal waste for treatment: incineration,1.0
+39.00,,p90.1.e,Textiles waste for treatment: incineration,1.0
+39.00,,p90.1.f,Wood waste for treatment: incineration,1.0
+39.00,,p90.1.g,Oil/hazardous waste for treatment: incineration,1.0
+39.00,,p90.2.a,Food waste for treatment: biogasification and land application,1.0
+39.00,,p90.2.b,Paper waste for treatment: biogasification and land application,1.0
+39.00,,p90.2.c,Sewage sludge for treatment: biogasification and land application,1.0
+39.00,,p90.3.a,Food waste for treatment: composting and land application,1.0
+39.00,,p90.3.b,Paper and wood waste for treatment: composting and land application,1.0
+39.00,,p90.5.a,Food waste for treatment: landfill,1.0
+39.00,,p90.5.b,Paper for treatment: landfill,1.0
+39.00,,p90.5.c,Plastic waste for treatment: landfill,1.0
+39.00,,p90.5.d,Inert/metal/hazardous waste for treatment: landfill,1.0
+39.00,,p90.5.e,Textiles waste for treatment: landfill,1.0
+39.00,,p90.5.f,Wood waste for treatment: landfill,1.0
+F,,p45,Construction work (45),1.0
+F,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+41,,p45,Construction work (45),1.0
+41,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+41.1,,p45,Construction work (45),1.0
+41.1,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+41.10,,p45,Construction work (45),1.0
+41.10,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+41.2,,p45,Construction work (45),1.0
+41.2,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+41.20,,p45,Construction work (45),1.0
+41.20,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+42,,p45,Construction work (45),1.0
+42,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+42.1,,p45,Construction work (45),1.0
+42.1,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+42.11,,p45,Construction work (45),1.0
+42.11,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+42.12,,p45,Construction work (45),1.0
+42.12,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+42.13,,p45,Construction work (45),1.0
+42.13,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+42.2,,p45,Construction work (45),1.0
+42.2,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+42.21,,p45,Construction work (45),1.0
+42.21,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+42.22,,p45,Construction work (45),1.0
+42.22,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+42.9,,p45,Construction work (45),1.0
+42.9,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+42.91,,p45,Construction work (45),1.0
+42.91,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+42.99,,p45,Construction work (45),1.0
+42.99,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+43,,p45,Construction work (45),1.0
+43,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+43.1,,p45,Construction work (45),1.0
+43.1,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+43.11,,p45,Construction work (45),1.0
+43.11,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+43.12,,p45,Construction work (45),1.0
+43.12,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+43.13,,p45,Construction work (45),1.0
+43.13,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+43.2,,p45,Construction work (45),1.0
+43.2,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+43.21,,p45,Construction work (45),1.0
+43.21,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+43.22,,p45,Construction work (45),1.0
+43.22,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+43.29,,p45,Construction work (45),1.0
+43.29,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+43.3,,p45,Construction work (45),1.0
+43.3,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+43.31,,p45,Construction work (45),1.0
+43.31,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+43.32,,p45,Construction work (45),1.0
+43.32,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+43.33,,p45,Construction work (45),1.0
+43.33,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+43.34,,p45,Construction work (45),1.0
+43.34,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+43.39,,p45,Construction work (45),1.0
+43.39,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+43.9,,p45,Construction work (45),1.0
+43.9,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+43.91,,p45,Construction work (45),1.0
+43.91,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+43.99,,p45,Construction work (45),1.0
+43.99,,p45.w,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",1.0
+G,,p50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+G,,p50.b,Retail trade services of motor fuel,1.0
+G,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+G,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+45,,p50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+45.1,,p50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+45.11,,p50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+45.19,,p50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+45.2,,p50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+45.20,,p50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+45.3,,p50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+45.31,,p50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+45.32,,p50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+45.4,,p50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+45.40,,p50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+46,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.1,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.11,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.12,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.13,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.14,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.15,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.16,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.17,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.18,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.19,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.2,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.21,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.22,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.23,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.24,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.3,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.31,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.32,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.33,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.34,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.35,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.36,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.37,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.38,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.39,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.4,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.41,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.42,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.43,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.44,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.45,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.46,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.47,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.48,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.49,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.5,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.51,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.52,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.6,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.61,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.62,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.63,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.64,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.65,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.66,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.69,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.7,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.71,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.72,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.73,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.74,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.75,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.76,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.77,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.9,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+46.90,,p51,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1.0
+47,,p50.b,Retail trade services of motor fuel,1.0
+47,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.1,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.11,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.19,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.2,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.21,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.22,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.23,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.24,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.25,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.26,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.29,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.3,,p50.b,Retail trade services of motor fuel,1.0
+47.30,,p50.b,Retail trade services of motor fuel,1.0
+47.4,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.41,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.42,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.43,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.5,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.51,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.52,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.53,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.54,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.59,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.6,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.61,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.62,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.63,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.64,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.65,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.7,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.71,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.72,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.73,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.74,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.75,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.76,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.77,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.78,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.79,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.8,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.81,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.82,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.89,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.9,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.91,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+47.99,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+H,,p60.1,Railway transportation services,1.0
+H,,p60.2,Other land transportation services,1.0
+H,,p60.3,Transportation services via pipelines,1.0
+H,,p61.1,Sea and coastal water transportation services,1.0
+H,,p61.2,Inland water transportation services,1.0
+H,,p62,Air transport services (62),1.0
+H,,p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+H,,p64,Post and telecommunication services (64),1.0
+49,,p60.1,Railway transportation services,1.0
+49,,p60.2,Other land transportation services,1.0
+49,,p60.3,Transportation services via pipelines,1.0
+49.1,,p60.1,Railway transportation services,1.0
+49.10,,p60.1,Railway transportation services,1.0
+49.2,,p60.1,Railway transportation services,1.0
+49.20,,p60.1,Railway transportation services,1.0
+49.3,,p60.2,Other land transportation services,1.0
+49.31,,p60.2,Other land transportation services,1.0
+49.32,,p60.2,Other land transportation services,1.0
+49.39,,p60.2,Other land transportation services,1.0
+49.4,,p60.2,Other land transportation services,1.0
+49.41,,p60.2,Other land transportation services,1.0
+49.42,,p60.2,Other land transportation services,1.0
+49.5,,p60.3,Transportation services via pipelines,1.0
+49.50,,p60.3,Transportation services via pipelines,1.0
+50,,p61.1,Sea and coastal water transportation services,1.0
+50,,p61.2,Inland water transportation services,1.0
+50.1,,p61.1,Sea and coastal water transportation services,1.0
+50.10,,p61.1,Sea and coastal water transportation services,1.0
+50.2,,p61.1,Sea and coastal water transportation services,1.0
+50.20,,p61.1,Sea and coastal water transportation services,1.0
+50.3,,p61.2,Inland water transportation services,1.0
+50.30,,p61.2,Inland water transportation services,1.0
+50.4,,p61.2,Inland water transportation services,1.0
+50.40,,p61.2,Inland water transportation services,1.0
+51,,p62,Air transport services (62),1.0
+51.1,,p62,Air transport services (62),1.0
+51.10,,p62,Air transport services (62),1.0
+51.2,,p62,Air transport services (62),1.0
+51.21,,p62,Air transport services (62),1.0
+51.22,,p62,Air transport services (62),1.0
+52,,p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+52.1,,p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+52.10,,p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+52.2,,p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+52.21,,p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+52.22,,p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+52.23,,p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+52.24,,p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+52.29,,p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+53,,p64,Post and telecommunication services (64),1.0
+53.1,,p64,Post and telecommunication services (64),1.0
+53.10,,p64,Post and telecommunication services (64),1.0
+53.2,,p64,Post and telecommunication services (64),1.0
+53.20,,p64,Post and telecommunication services (64),1.0
+I,,p55,Hotel and restaurant services (55),1.0
+55,,p55,Hotel and restaurant services (55),1.0
+55.1,,p55,Hotel and restaurant services (55),1.0
+55.10,,p55,Hotel and restaurant services (55),1.0
+55.2,,p55,Hotel and restaurant services (55),1.0
+55.20,,p55,Hotel and restaurant services (55),1.0
+55.3,,p55,Hotel and restaurant services (55),1.0
+55.30,,p55,Hotel and restaurant services (55),1.0
+55.9,,p55,Hotel and restaurant services (55),1.0
+55.90,,p55,Hotel and restaurant services (55),1.0
+56,,p55,Hotel and restaurant services (55),1.0
+56.1,,p55,Hotel and restaurant services (55),1.0
+56.10,,p55,Hotel and restaurant services (55),1.0
+56.2,,p55,Hotel and restaurant services (55),1.0
+56.21,,p55,Hotel and restaurant services (55),1.0
+56.29,,p55,Hotel and restaurant services (55),1.0
+56.3,,p55,Hotel and restaurant services (55),1.0
+56.30,,p55,Hotel and restaurant services (55),1.0
+J,,p22,Printed matter and recorded media (22),1.0
+J,,p64,Post and telecommunication services (64),1.0
+J,,p72,Computer and related services (72),1.0
+J,,p74,Other business services (74),1.0
+J,,p92,"Recreational, cultural and sporting services (92)",1.0
+58,,p22,Printed matter and recorded media (22),1.0
+58,,p72,Computer and related services (72),1.0
+58.1,,p22,Printed matter and recorded media (22),1.0
+58.11,,p22,Printed matter and recorded media (22),1.0
+58.12,,p22,Printed matter and recorded media (22),1.0
+58.13,,p22,Printed matter and recorded media (22),1.0
+58.14,,p22,Printed matter and recorded media (22),1.0
+58.19,,p22,Printed matter and recorded media (22),1.0
+58.2,,p72,Computer and related services (72),1.0
+58.21,,p72,Computer and related services (72),1.0
+58.29,,p72,Computer and related services (72),1.0
+59,,p22,Printed matter and recorded media (22),1.0
+59,,p92,"Recreational, cultural and sporting services (92)",1.0
+59.1,,p92,"Recreational, cultural and sporting services (92)",1.0
+59.11,,p92,"Recreational, cultural and sporting services (92)",1.0
+59.12,,p92,"Recreational, cultural and sporting services (92)",1.0
+59.13,,p92,"Recreational, cultural and sporting services (92)",1.0
+59.14,,p92,"Recreational, cultural and sporting services (92)",1.0
+59.2,,p22,Printed matter and recorded media (22),1.0
+59.20,,p22,Printed matter and recorded media (22),1.0
+60,,p92,"Recreational, cultural and sporting services (92)",1.0
+60.1,,p92,"Recreational, cultural and sporting services (92)",1.0
+60.10,,p92,"Recreational, cultural and sporting services (92)",1.0
+60.2,,p92,"Recreational, cultural and sporting services (92)",1.0
+60.20,,p92,"Recreational, cultural and sporting services (92)",1.0
+61,,p64,Post and telecommunication services (64),1.0
+61.1,,p64,Post and telecommunication services (64),1.0
+61.10,,p64,Post and telecommunication services (64),1.0
+61.2,,p64,Post and telecommunication services (64),1.0
+61.20,,p64,Post and telecommunication services (64),1.0
+61.3,,p64,Post and telecommunication services (64),1.0
+61.30,,p64,Post and telecommunication services (64),1.0
+61.9,,p64,Post and telecommunication services (64),1.0
+61.90,,p64,Post and telecommunication services (64),1.0
+62,,p72,Computer and related services (72),1.0
+62.0,,p72,Computer and related services (72),1.0
+62.01,,p72,Computer and related services (72),1.0
+62.02,,p72,Computer and related services (72),1.0
+62.03,,p72,Computer and related services (72),1.0
+62.09,,p72,Computer and related services (72),1.0
+63,,p72,Computer and related services (72),1.0
+63,,p74,Other business services (74),1.0
+63,,p92,"Recreational, cultural and sporting services (92)",1.0
+63.1,,p72,Computer and related services (72),1.0
+63.11,,p72,Computer and related services (72),1.0
+63.12,,p72,Computer and related services (72),1.0
+63.9,,p74,Other business services (74),1.0
+63.9,,p92,"Recreational, cultural and sporting services (92)",1.0
+63.91,,p92,"Recreational, cultural and sporting services (92)",1.0
+63.99,,p74,Other business services (74),1.0
+K,,p65,"Financial intermediation services, except insurance and pension funding services (65)",1.0
+K,,p66,"Insurance and pension funding services, except compulsory social security services (66)",1.0
+K,,p67,Services auxiliary to financial intermediation (67),1.0
+K,,p74,Other business services (74),1.0
+64,,p65,"Financial intermediation services, except insurance and pension funding services (65)",1.0
+64,,p74,Other business services (74),1.0
+64.1,,p65,"Financial intermediation services, except insurance and pension funding services (65)",1.0
+64.11,,p65,"Financial intermediation services, except insurance and pension funding services (65)",1.0
+64.19,,p65,"Financial intermediation services, except insurance and pension funding services (65)",1.0
+64.2,,p65,"Financial intermediation services, except insurance and pension funding services (65)",1.0
+64.2,,p74,Other business services (74),1.0
+64.20,,p65,"Financial intermediation services, except insurance and pension funding services (65)",1.0
+64.20,,p74,Other business services (74),1.0
+64.3,,p65,"Financial intermediation services, except insurance and pension funding services (65)",1.0
+64.30,,p65,"Financial intermediation services, except insurance and pension funding services (65)",1.0
+64.9,,p65,"Financial intermediation services, except insurance and pension funding services (65)",1.0
+64.91,,p65,"Financial intermediation services, except insurance and pension funding services (65)",1.0
+64.92,,p65,"Financial intermediation services, except insurance and pension funding services (65)",1.0
+64.99,,p65,"Financial intermediation services, except insurance and pension funding services (65)",1.0
+65,,p66,"Insurance and pension funding services, except compulsory social security services (66)",1.0
+65.1,,p66,"Insurance and pension funding services, except compulsory social security services (66)",1.0
+65.11,,p66,"Insurance and pension funding services, except compulsory social security services (66)",1.0
+65.12,,p66,"Insurance and pension funding services, except compulsory social security services (66)",1.0
+65.2,,p66,"Insurance and pension funding services, except compulsory social security services (66)",1.0
+65.20,,p66,"Insurance and pension funding services, except compulsory social security services (66)",1.0
+65.3,,p66,"Insurance and pension funding services, except compulsory social security services (66)",1.0
+65.30,,p66,"Insurance and pension funding services, except compulsory social security services (66)",1.0
+66,,p67,Services auxiliary to financial intermediation (67),1.0
+66.1,,p67,Services auxiliary to financial intermediation (67),1.0
+66.11,,p67,Services auxiliary to financial intermediation (67),1.0
+66.12,,p67,Services auxiliary to financial intermediation (67),1.0
+66.19,,p67,Services auxiliary to financial intermediation (67),1.0
+66.2,,p67,Services auxiliary to financial intermediation (67),1.0
+66.21,,p67,Services auxiliary to financial intermediation (67),1.0
+66.22,,p67,Services auxiliary to financial intermediation (67),1.0
+66.29,,p67,Services auxiliary to financial intermediation (67),1.0
+66.3,,p67,Services auxiliary to financial intermediation (67),1.0
+66.30,,p67,Services auxiliary to financial intermediation (67),1.0
+L,,p70,Real estate services (70),1.0
+68,,p70,Real estate services (70),1.0
+68.1,,p70,Real estate services (70),1.0
+68.10,,p70,Real estate services (70),1.0
+68.2,,p70,Real estate services (70),1.0
+68.20,,p70,Real estate services (70),1.0
+68.3,,p70,Real estate services (70),1.0
+68.31,,p70,Real estate services (70),1.0
+68.32,,p70,Real estate services (70),1.0
+M,,p73,Research and development services (73),1.0
+M,,p74,Other business services (74),1.0
+M,,p85,Health and social work services (85),1.0
+69,,p74,Other business services (74),1.0
+69.1,,p74,Other business services (74),1.0
+69.10,,p74,Other business services (74),1.0
+69.2,,p74,Other business services (74),1.0
+69.20,,p74,Other business services (74),1.0
+70,,p74,Other business services (74),1.0
+70.1,,p74,Other business services (74),1.0
+70.10,,p74,Other business services (74),1.0
+70.2,,p74,Other business services (74),1.0
+70.21,,p74,Other business services (74),1.0
+70.22,,p74,Other business services (74),1.0
+71,,p74,Other business services (74),1.0
+71.1,,p74,Other business services (74),1.0
+71.11,,p74,Other business services (74),1.0
+71.12,,p74,Other business services (74),1.0
+71.2,,p74,Other business services (74),1.0
+71.20,,p74,Other business services (74),1.0
+72,,p73,Research and development services (73),1.0
+72.1,,p73,Research and development services (73),1.0
+72.11,,p73,Research and development services (73),1.0
+72.19,,p73,Research and development services (73),1.0
+72.2,,p73,Research and development services (73),1.0
+72.20,,p73,Research and development services (73),1.0
+73,,p74,Other business services (74),1.0
+73.1,,p74,Other business services (74),1.0
+73.11,,p74,Other business services (74),1.0
+73.12,,p74,Other business services (74),1.0
+73.2,,p74,Other business services (74),1.0
+73.20,,p74,Other business services (74),1.0
+74,,p74,Other business services (74),1.0
+74.1,,p74,Other business services (74),1.0
+74.10,,p74,Other business services (74),1.0
+74.2,,p74,Other business services (74),1.0
+74.20,,p74,Other business services (74),1.0
+74.3,,p74,Other business services (74),1.0
+74.30,,p74,Other business services (74),1.0
+74.9,,p74,Other business services (74),1.0
+74.90,,p74,Other business services (74),1.0
+75,,p85,Health and social work services (85),1.0
+75.0,,p85,Health and social work services (85),1.0
+75.00,,p85,Health and social work services (85),1.0
+N,,p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+N,,p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+N,,p74,Other business services (74),1.0
+N,,p92,"Recreational, cultural and sporting services (92)",1.0
+77,,p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+77,,p74,Other business services (74),1.0
+77.1,,p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+77.11,,p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+77.12,,p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+77.2,,p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+77.21,,p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+77.22,,p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+77.29,,p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+77.3,,p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+77.31,,p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+77.32,,p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+77.33,,p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+77.34,,p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+77.35,,p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+77.39,,p71,Renting services of machinery and equipment without operator and of personal and household goods (71),1.0
+77.4,,p74,Other business services (74),1.0
+77.40,,p74,Other business services (74),1.0
+78,,p74,Other business services (74),1.0
+78.1,,p74,Other business services (74),1.0
+78.10,,p74,Other business services (74),1.0
+78.2,,p74,Other business services (74),1.0
+78.20,,p74,Other business services (74),1.0
+78.3,,p74,Other business services (74),1.0
+78.30,,p74,Other business services (74),1.0
+79,,p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+79,,p92,"Recreational, cultural and sporting services (92)",1.0
+79.1,,p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+79.11,,p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+79.12,,p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+79.9,,p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+79.9,,p92,"Recreational, cultural and sporting services (92)",1.0
+79.90,,p63,Supporting and auxiliary transport services; travel agency services (63),1.0
+79.90,,p92,"Recreational, cultural and sporting services (92)",1.0
+80,,p74,Other business services (74),1.0
+80.1,,p74,Other business services (74),1.0
+80.10,,p74,Other business services (74),1.0
+80.2,,p74,Other business services (74),1.0
+80.20,,p74,Other business services (74),1.0
+80.3,,p74,Other business services (74),1.0
+80.30,,p74,Other business services (74),1.0
+81,,p74,Other business services (74),1.0
+81.1,,p74,Other business services (74),1.0
+81.10,,p74,Other business services (74),1.0
+81.2,,p74,Other business services (74),1.0
+81.21,,p74,Other business services (74),1.0
+81.22,,p74,Other business services (74),1.0
+81.29,,p74,Other business services (74),1.0
+81.3,,p74,Other business services (74),1.0
+81.30,,p74,Other business services (74),1.0
+82,,p74,Other business services (74),1.0
+82.1,,p74,Other business services (74),1.0
+82.11,,p74,Other business services (74),1.0
+82.19,,p74,Other business services (74),1.0
+82.2,,p74,Other business services (74),1.0
+82.20,,p74,Other business services (74),1.0
+82.3,,p74,Other business services (74),1.0
+82.30,,p74,Other business services (74),1.0
+82.9,,p74,Other business services (74),1.0
+82.91,,p74,Other business services (74),1.0
+82.92,,p74,Other business services (74),1.0
+82.99,,p74,Other business services (74),1.0
+O,,p75,Public administration and defence services; compulsory social security services (75),1.0
+84,,p75,Public administration and defence services; compulsory social security services (75),1.0
+84.1,,p75,Public administration and defence services; compulsory social security services (75),1.0
+84.11,,p75,Public administration and defence services; compulsory social security services (75),1.0
+84.12,,p75,Public administration and defence services; compulsory social security services (75),1.0
+84.13,,p75,Public administration and defence services; compulsory social security services (75),1.0
+84.2,,p75,Public administration and defence services; compulsory social security services (75),1.0
+84.21,,p75,Public administration and defence services; compulsory social security services (75),1.0
+84.22,,p75,Public administration and defence services; compulsory social security services (75),1.0
+84.23,,p75,Public administration and defence services; compulsory social security services (75),1.0
+84.24,,p75,Public administration and defence services; compulsory social security services (75),1.0
+84.25,,p75,Public administration and defence services; compulsory social security services (75),1.0
+84.3,,p75,Public administration and defence services; compulsory social security services (75),1.0
+84.30,,p75,Public administration and defence services; compulsory social security services (75),1.0
+P,,p74,Other business services (74),1.0
+P,,p80,Education services (80),1.0
+85,,p74,Other business services (74),1.0
+85,,p80,Education services (80),1.0
+85.1,,p80,Education services (80),1.0
+85.10,,p80,Education services (80),1.0
+85.2,,p80,Education services (80),1.0
+85.20,,p80,Education services (80),1.0
+85.3,,p80,Education services (80),1.0
+85.31,,p80,Education services (80),1.0
+85.32,,p80,Education services (80),1.0
+85.4,,p80,Education services (80),1.0
+85.41,,p80,Education services (80),1.0
+85.42,,p80,Education services (80),1.0
+85.5,,p80,Education services (80),1.0
+85.51,,p80,Education services (80),1.0
+85.52,,p80,Education services (80),1.0
+85.53,,p80,Education services (80),1.0
+85.59,,p80,Education services (80),1.0
+85.6,,p74,Other business services (74),1.0
+85.60,,p74,Other business services (74),1.0
+Q,,p85,Health and social work services (85),1.0
+86,,p85,Health and social work services (85),1.0
+86.1,,p85,Health and social work services (85),1.0
+86.10,,p85,Health and social work services (85),1.0
+86.2,,p85,Health and social work services (85),1.0
+86.21,,p85,Health and social work services (85),1.0
+86.22,,p85,Health and social work services (85),1.0
+86.23,,p85,Health and social work services (85),1.0
+86.9,,p85,Health and social work services (85),1.0
+86.90,,p85,Health and social work services (85),1.0
+87,,p85,Health and social work services (85),1.0
+87.1,,p85,Health and social work services (85),1.0
+87.10,,p85,Health and social work services (85),1.0
+87.2,,p85,Health and social work services (85),1.0
+87.20,,p85,Health and social work services (85),1.0
+87.3,,p85,Health and social work services (85),1.0
+87.30,,p85,Health and social work services (85),1.0
+87.9,,p85,Health and social work services (85),1.0
+87.90,,p85,Health and social work services (85),1.0
+88,,p85,Health and social work services (85),1.0
+88.1,,p85,Health and social work services (85),1.0
+88.10,,p85,Health and social work services (85),1.0
+88.9,,p85,Health and social work services (85),1.0
+88.91,,p85,Health and social work services (85),1.0
+88.99,,p85,Health and social work services (85),1.0
+R,,p92,"Recreational, cultural and sporting services (92)",1.0
+R,,p93,Other services (93),1.0
+90,,p92,"Recreational, cultural and sporting services (92)",1.0
+90.0,,p92,"Recreational, cultural and sporting services (92)",1.0
+90.01,,p92,"Recreational, cultural and sporting services (92)",1.0
+90.02,,p92,"Recreational, cultural and sporting services (92)",1.0
+90.03,,p92,"Recreational, cultural and sporting services (92)",1.0
+90.04,,p92,"Recreational, cultural and sporting services (92)",1.0
+91,,p92,"Recreational, cultural and sporting services (92)",1.0
+91.0,,p92,"Recreational, cultural and sporting services (92)",1.0
+91.01,,p92,"Recreational, cultural and sporting services (92)",1.0
+91.02,,p92,"Recreational, cultural and sporting services (92)",1.0
+91.03,,p92,"Recreational, cultural and sporting services (92)",1.0
+91.04,,p92,"Recreational, cultural and sporting services (92)",1.0
+92,,p92,"Recreational, cultural and sporting services (92)",1.0
+92.0,,p92,"Recreational, cultural and sporting services (92)",1.0
+92.00,,p92,"Recreational, cultural and sporting services (92)",1.0
+93,,p92,"Recreational, cultural and sporting services (92)",1.0
+93,,p93,Other services (93),1.0
+93.1,,p92,"Recreational, cultural and sporting services (92)",1.0
+93.1,,p93,Other services (93),1.0
+93.11,,p92,"Recreational, cultural and sporting services (92)",1.0
+93.12,,p92,"Recreational, cultural and sporting services (92)",1.0
+93.13,,p93,Other services (93),1.0
+93.19,,p92,"Recreational, cultural and sporting services (92)",1.0
+93.2,,p92,"Recreational, cultural and sporting services (92)",1.0
+93.21,,p92,"Recreational, cultural and sporting services (92)",1.0
+93.29,,p92,"Recreational, cultural and sporting services (92)",1.0
+S,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+S,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+S,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+S,,p72,Computer and related services (72),1.0
+S,,p91,Membership organisation services n.e.c. (91),1.0
+S,,p93,Other services (93),1.0
+94,,p91,Membership organisation services n.e.c. (91),1.0
+94.1,,p91,Membership organisation services n.e.c. (91),1.0
+94.11,,p91,Membership organisation services n.e.c. (91),1.0
+94.12,,p91,Membership organisation services n.e.c. (91),1.0
+94.2,,p91,Membership organisation services n.e.c. (91),1.0
+94.20,,p91,Membership organisation services n.e.c. (91),1.0
+94.9,,p91,Membership organisation services n.e.c. (91),1.0
+94.91,,p91,Membership organisation services n.e.c. (91),1.0
+94.92,,p91,Membership organisation services n.e.c. (91),1.0
+94.99,,p91,Membership organisation services n.e.c. (91),1.0
+95,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+95,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+95,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+95,,p72,Computer and related services (72),1.0
+95.1,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+95.1,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+95.1,,p72,Computer and related services (72),1.0
+95.11,,p72,Computer and related services (72),1.0
+95.12,,p32,"Radio, television and communication equipment and apparatus (32)",1.0
+95.12,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+95.2,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+95.2,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+95.21,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+95.22,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+95.23,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+95.24,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+95.25,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+95.29,,p36,Furniture; other manufactured goods n.e.c. (36),1.0
+95.29,,p52,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",1.0
+96,,p93,Other services (93),1.0
+96.0,,p93,Other services (93),1.0
+96.01,,p93,Other services (93),1.0
+96.02,,p93,Other services (93),1.0
+96.03,,p93,Other services (93),1.0
+96.04,,p93,Other services (93),1.0
+96.09,,p93,Other services (93),1.0
+T,,p95,Private households with employed persons (95),1.0
+97,,p95,Private households with employed persons (95),1.0
+97.0,,p95,Private households with employed persons (95),1.0
+97.00,,p95,Private households with employed persons (95),1.0
+98,,p95,Private households with employed persons (95),1.0
+98.1,,p95,Private households with employed persons (95),1.0
+98.10,,p95,Private households with employed persons (95),1.0
+98.2,,p95,Private households with employed persons (95),1.0
+98.20,,p95,Private households with employed persons (95),1.0
+U,,p99,Extra-territorial organizations and bodies,1.0
+99,,p99,Extra-territorial organizations and bodies,1.0
+99.0,,p99,Extra-territorial organizations and bodies,1.0
+99.00,,p99,Extra-territorial organizations and bodies,1.0
