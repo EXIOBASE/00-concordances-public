@@ -1,0 +1,181 @@
+source_code,source_name,target_code,target_name,weight
+A01,,i01.a,Cultivation of paddy rice,1.0
+A01,,i01.b,Cultivation of wheat,1.0
+A01,,i01.c,Cultivation of cereal grains nec,1.0
+A01,,i01.d,"Cultivation of vegetables, fruit, nuts",1.0
+A01,,i01.e,Cultivation of oil seeds,1.0
+A01,,i01.f,"Cultivation of sugar cane, sugar beet",1.0
+A01,,i01.g,Cultivation of plant-based fibers,1.0
+A01,,i01.h,Cultivation of crops nec,1.0
+A01,,i01.i,Cattle farming,1.0
+A01,,i01.j,Pigs farming,1.0
+A01,,i01.k,Poultry farming,1.0
+A01,,i01.l,Meat animals nec,1.0
+A01,,i01.m,Animal products nec,1.0
+A01,,i01.n,Raw milk,1.0
+A01,,i01.o,"Wool, silk-worm cocoons",1.0
+A01,,i01.w.1,"Manure treatment (conventional), storage and land application",1.0
+A01,,i01.w.2,"Manure treatment (biogas), storage and land application",1.0
+A02,,i02,"Forestry, logging and related service activities (02)",1.0
+A03,,i05,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing (05)",1.0
+B05,,i10,Mining of coal and lignite; extraction of peat (10),1.0
+B05,,i12,Mining of uranium and thorium ores (12),1.0
+B06,,i11.a,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",1.0
+B06,,i11.b,"Extraction of natural gas and services related to natural gas extraction, excluding surveying",1.0
+B06,,i11.c,"Extraction, liquefaction, and regasification of other petroleum and gaseous materials",1.0
+B07,,i13.1,Mining of iron ores,1.0
+B07,,i13.20.11,Mining of copper ores and concentrates,1.0
+B07,,i13.20.12,Mining of nickel ores and concentrates,1.0
+B07,,i13.20.13,Mining of aluminium ores and concentrates,1.0
+B07,,i13.20.14,Mining of precious metal ores and concentrates,1.0
+B07,,i13.20.15,"Mining of lead, zinc and tin ores and concentrates",1.0
+B07,,i13.20.16,Mining of other non-ferrous metal ores and concentrates,1.0
+B08,,i14.1,Quarrying of stone,1.0
+B08,,i14.2,Quarrying of sand and clay,1.0
+B08,,i14.3,"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",1.0
+B09,,i10,Mining of coal and lignite; extraction of peat (10),1.0
+B09,,i11.a,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",1.0
+B09,,i11.b,"Extraction of natural gas and services related to natural gas extraction, excluding surveying",1.0
+B09,,i11.c,"Extraction, liquefaction, and regasification of other petroleum and gaseous materials",1.0
+B09,,i12,Mining of uranium and thorium ores (12),1.0
+B09,,i13.1,Mining of iron ores,1.0
+B09,,i13.20.11,Mining of copper ores and concentrates,1.0
+B09,,i13.20.12,Mining of nickel ores and concentrates,1.0
+B09,,i13.20.13,Mining of aluminium ores and concentrates,1.0
+B09,,i13.20.14,Mining of precious metal ores and concentrates,1.0
+B09,,i13.20.15,"Mining of lead, zinc and tin ores and concentrates",1.0
+B09,,i13.20.16,Mining of other non-ferrous metal ores and concentrates,1.0
+B09,,i14.1,Quarrying of stone,1.0
+B09,,i14.2,Quarrying of sand and clay,1.0
+B09,,i14.3,"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",1.0
+C10T12,,i15.a,Processing of meat cattle,1.0
+C10T12,,i15.b,Processing of meat pigs,1.0
+C10T12,,i15.c,Processing of meat poultry,1.0
+C10T12,,i15.d,Production of meat products nec,1.0
+C10T12,,i15.e,Processing vegetable oils and fats,1.0
+C10T12,,i15.f,Processing of dairy products,1.0
+C10T12,,i15.g,Processed rice,1.0
+C10T12,,i15.h,Sugar refining,1.0
+C10T12,,i15.i,Processing of Food products nec,1.0
+C10T12,,i15.j,Manufacture of beverages,1.0
+C10T12,,i15.k,Manufacture of fish products,1.0
+C10T12,,i16,Manufacture of tobacco products (16),1.0
+C13T15,,i17,Manufacture of textiles (17),1.0
+C13T15,,i18,Manufacture of wearing apparel; dressing and dyeing of fur (18),1.0
+C13T15,,i19,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear (19)",1.0
+C16,,i20,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",1.0
+C16,,i20.w,Re-processing of secondary wood material into new wood material,1.0
+C17_18,,i21.1,Pulp,1.0
+C17_18,,i21.w.1,Re-processing of secondary paper into new pulp,1.0
+C17_18,,i21.2,Paper,1.0
+C19,,i23.1,Manufacture of coke oven products,1.0
+C19,,i23.2,Petroleum Refinery,1.0
+C19,,i23.3,Processing of nuclear fuel,1.0
+C20,,i24.a,"Plastics, basic",1.0
+C20,,i24.a.w,Re-processing of secondary plastic into new plastic,1.0
+C20,,i24.b,N-fertiliser,1.0
+C20,,i24.c,P- and other fertiliser,1.0
+C21,,i24.d,Chemicals nec,1.0
+C22,,i25,Manufacture of rubber and plastic products (25),1.0
+C23,,i26.a,Manufacture of glass and glass products,1.0
+C23,,i26.a.w,Re-processing of secondary glass into new glass,1.0
+C23,,i26.b,Manufacture of ceramic goods,1.0
+C23,,i26.c,"Manufacture of bricks, tiles and construction products, in baked clay",1.0
+C23,,i26.d,"Manufacture of cement, lime and plaster",1.0
+C23,,i26.d.w,Re-processing of ash into clinker,1.0
+C23,,i26.e,Manufacture of other non-metallic mineral products n.e.c.,1.0
+C24A,,i27.a,Manufacture of basic iron and steel and of ferro-alloys and first products thereof,1.0
+C24A,,i27.a.w,Re-processing of secondary steel into new steel,1.0
+C24B,,i27.41,Precious metals production,1.0
+C24B,,i27.41.w,Re-processing of secondary preciuos metals into new preciuos metals,1.0
+C24B,,i27.42,Aluminium production,1.0
+C24B,,i27.42.w,Re-processing of secondary aluminium into new aluminium,1.0
+C24B,,i27.43,"Lead, zinc and tin production",1.0
+C24B,,i27.43.w,"Re-processing of secondary lead into new lead, zinc and tin",1.0
+C24B,,i27.44,Copper production,1.0
+C24B,,i27.44.w,Re-processing of secondary copper into new copper,1.0
+C24B,,i27.45,Other non-ferrous metal production,1.0
+C24B,,i27.45.w,Re-processing of secondary other non-ferrous metals into new other non-ferrous metals,1.0
+C24B,,i27.5,Casting of metals,1.0
+C25,,i28,"Manufacture of fabricated metal products, except machinery and equipment (28)",1.0
+C26,,i30,Manufacture of office machinery and computers (30),1.0
+C26,,i32,"Manufacture of radio, television and communication equipment and apparatus (32)",1.0
+C26,,i33,"Manufacture of medical, precision and optical instruments, watches and clocks (33)",1.0
+C27,,i31,Manufacture of electrical machinery and apparatus n.e.c. (31),1.0
+C28,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
+C28,,i71,Renting of machinery and equipment without operator and of personal and household goods (71),1.0
+C29,,i34,"Manufacture of motor vehicles, trailers and semi-trailers (34)",1.0
+C301,,i35,Manufacture of other transport equipment (35),1.0
+C302T309,,i35,Manufacture of other transport equipment (35),1.0
+C31T33,,i36,Manufacture of furniture; manufacturing n.e.c. (36),1.0
+D,,i40.11.a,Production of electricity by coal,1.0
+D,,i40.11.b,Production of electricity by gas,1.0
+D,,i40.11.c,Production of electricity by nuclear,1.0
+D,,i40.11.d,Production of electricity by hydro,1.0
+D,,i40.11.e,Production of electricity by wind,1.0
+D,,i40.11.f,Production of electricity by petroleum and other oil derivatives,1.0
+D,,i40.11.g,Production of electricity by biomass and waste,1.0
+D,,i40.11.h,Production of electricity by solar photovoltaic,1.0
+D,,i40.11.i,Production of electricity by solar thermal,1.0
+D,,i40.11.j,"Production of electricity by tide, wave, ocean",1.0
+D,,i40.11.k,Production of electricity by Geothermal,1.0
+D,,i40.11.l,Production of electricity nec,1.0
+D,,i40.12,Transmission of electricity,1.0
+D,,i40.13,Distribution and trade of electricity,1.0
+D,,i40.2,Manufacture of gas; distribution of gaseous fuels through mains,1.0
+D,,i40.3,Steam and hot water supply,1.0
+E,,i37,Recycling of waste and scrap,1.0
+E,,i37.w.1,Recycling of bottles by direct reuse,1.0
+E,,i41,"Collection, purification and distribution of water (41)",1.0
+E,,i90.1.a,Incineration of waste: Food,1.0
+E,,i90.1.b,Incineration of waste: Paper,1.0
+E,,i90.1.c,Incineration of waste: Plastic,1.0
+E,,i90.1.d,Incineration of waste: Metals and Inert materials,1.0
+E,,i90.1.e,Incineration of waste: Textiles,1.0
+E,,i90.1.f,Incineration of waste: Wood,1.0
+E,,i90.1.g,Incineration of waste: Oil/Hazardous waste,1.0
+E,,i90.2.a,"Biogasification of food waste, incl. land application",1.0
+E,,i90.2.b,"Biogasification of paper, incl. land application",1.0
+E,,i90.2.c,"Biogasification of sewage slugde, incl. land application",1.0
+E,,i90.3.a,"Composting of food waste, incl. land application",1.0
+E,,i90.3.b,"Composting of paper and wood, incl. land application",1.0
+E,,i90.4.a,"Waste water treatment, food",1.0
+E,,i90.4.b,"Waste water treatment, other",1.0
+E,,i90.5.a,Landfill of waste: Food,1.0
+E,,i90.5.b,Landfill of waste: Paper,1.0
+E,,i90.5.c,Landfill of waste: Plastic,1.0
+E,,i90.5.d,Landfill of waste: Inert/metal/hazardous,1.0
+E,,i90.5.e,Landfill of waste: Textiles,1.0
+E,,i90.5.f,Landfill of waste: Wood,1.0
+F,,i45,Construction (45),1.0
+F,,i45.w,Re-processing of secondary construction material into aggregates,1.0
+G,,i50.a,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1.0
+G,,i50.b,Retail sale of automotive fuel,1.0
+G,,i51,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1.0
+G,,i52,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",1.0
+H49,,i60.1,Transport via railways,1.0
+H49,,i60.2,Other land transport,1.0
+H49,,i60.3,Transport via pipelines,1.0
+H50,,i61.1,Sea and coastal water transport,1.0
+H50,,i61.2,Inland water transport,1.0
+H51,,i62,Air transport (62),1.0
+H52,,i63,Supporting and auxiliary transport activities; activities of travel agencies (63),1.0
+H53,,i64,Post and telecommunications (64),1.0
+I,,i55,Hotels and restaurants (55),1.0
+J58T60,,i22,"Publishing, printing and reproduction of recorded media (22)",1.0
+J61,,i64,Post and telecommunications (64),1.0
+J62_63,,i72,Computer and related activities (72),1.0
+K,,i65,"Financial intermediation, except insurance and pension funding (65)",1.0
+K,,i66,"Insurance and pension funding, except compulsory social security (66)",1.0
+K,,i67,Activities auxiliary to financial intermediation (67),1.0
+L,,i70,Real estate activities (70),1.0
+M,,i73,Research and development (73),1.0
+N,,i74,Other business activities (74),1.0
+O,,i75,Public administration and defence; compulsory social security (75),1.0
+O,,i99,Extra-territorial organizations and bodies,1.0
+P,,i80,Education (80),1.0
+Q,,i85,Health and social work (85),1.0
+R,,i91,Activities of membership organisation n.e.c. (91),1.0
+R,,i92,"Recreational, cultural and sporting activities (92)",1.0
+S,,i93,Other service activities (93),1.0
+T,,i95,Private households with employed persons (95),1.0

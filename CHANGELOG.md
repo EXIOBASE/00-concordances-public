@@ -15,9 +15,10 @@ table), newest first.
     categories (+ a detailed breakdown), ESA59, CC17, CC41r regions,
     EXIOBASE1.0 products.
   - `exiobase/` (1): product -> industry.
-  - `international/` (9): CPA 2002, ISIC Rev.3, HS 1996, NACE Rev.2 (two
-    variants), NAICS 2017, COICOP (-> product and -> ISIC), and FAO
-    production items, all mapped to EXIOBASE.
+  - `international/` (11): CPA 2002, CPA SUT 64 (Eurostat A64), ISIC
+    Rev.3, HS 1996, NACE Rev.2 (two variants), NAICS 2017, COICOP
+    (-> product and -> ISIC), FAO production items, and OECD ICIO 2025
+    industries, all mapped to EXIOBASE.
   - `nsi_bridges/`: national supply/use bridges (original workbooks).
 - Small read-only Python loader (`exiobase_concordances`): `load`,
   `load_wide`, `list_concordances`, `has_wide`. Requires only `pandas`.
