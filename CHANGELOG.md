@@ -9,6 +9,11 @@ table), newest first.
 
 ### Added
 
+- `international/faoisscaap_exiobase3p` (45 rows): FAO ISSCAAP fishery
+  groups -> `p05`. Fishery was not previously covered by any table.
+- `international/faoitem_cpa2002` (184 rows): FAO production items ->
+  CPA 2002 at 6-digit, for the crop and forestry items. The README notes
+  where the CPA route is coarser than the direct FAO -> EXIOBASE table.
 - Github repo of EXIOBASE concordance tables. 
 - Published concordances, each as a long CSV plus a `_wide/` matrix mirror:
   - `aggregations/` (9): EXIOBASE detail -> 7 sectors, 7 consumption
@@ -22,3 +27,18 @@ table), newest first.
   - `nsi_bridges/`: national supply/use bridges (original workbooks).
 - Small read-only Python loader (`exiobase_concordances`): `load`,
   `load_wide`, `list_concordances`, `has_wide`. Requires only `pandas`.
+
+### Changed
+
+- `international/fao_exiobase3p` now carries **FAO item codes**: 237 of
+  its 263 rows have one, matched by exact item name against the FAO item
+  lists used by the EXIOBASE FAO extensions. The 26 rows with no
+  unambiguous code keep an empty `source_code` and are still identified
+  by name; no codes were guessed. Because the wide mirror is keyed on
+  code-where-present, its row labels change from item names to item
+  codes for the coded rows.
+- `international/fao_exiobase3p` lost 31 duplicate rows (294 -> 263).
+  Each was a punctuation variant of another row (`Grain mixed` vs
+  `Grain, mixed`) mapping to the same product, and one had a
+  mojibake-corrupted name. No mapping changed: the set of (item,
+  product) pairs is identical before and after.
