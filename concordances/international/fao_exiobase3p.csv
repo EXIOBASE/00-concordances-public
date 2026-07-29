@@ -1,129 +1,116 @@
 source_code,source_name,target_code,target_name,weight
-,Agave fibres nes,p01.g,Plant-based fibers,1.0
-,"Almonds, with shell",p01.d,"Vegetables, fruit, nuts",1.0
-,"Anise, badian, fennel, coriander",p01.h,Crops nec,1.0
-,Apples,p01.d,"Vegetables, fruit, nuts",1.0
-,Apricots,p01.d,"Vegetables, fruit, nuts",1.0
-,Areca nuts,p01.d,"Vegetables, fruit, nuts",1.0
-,Artichokes,p01.d,"Vegetables, fruit, nuts",1.0
-,Asparagus,p01.d,"Vegetables, fruit, nuts",1.0
-,Avocados,p01.d,"Vegetables, fruit, nuts",1.0
-,Bambara beans,p01.d,"Vegetables, fruit, nuts",1.0
-,Bananas,p01.d,"Vegetables, fruit, nuts",1.0
-,Barley,p01.c,Cereal grains nec,1.0
-,"Bastfibres, other",p01.g,Plant-based fibers,1.0
-,"Beans, dry",p01.d,"Vegetables, fruit, nuts",1.0
-,"Beans, green",p01.d,"Vegetables, fruit, nuts",1.0
-,Beer of barley,p15.j,Beverages,1.0
-,Beeswax,p01.m,Animal products nec,1.0
-,Berries nes,p01.d,"Vegetables, fruit, nuts",1.0
-,Blueberries,p01.d,"Vegetables, fruit, nuts",1.0
-,"Brazil nuts, with shell",p01.d,"Vegetables, fruit, nuts",1.0
-,"Broad beans, horse beans, dry",p01.d,"Vegetables, fruit, nuts",1.0
-,Buckwheat,p01.c,Cereal grains nec,1.0
-,"Butter and ghee, sheep milk",p15.f,Dairy products,1.0
-,"Butter, buffalo milk",p15.f,Dairy products,1.0
-,"Butter, cow milk",p15.f,Dairy products,1.0
-,Cabbages and other brassicas,p01.d,"Vegetables, fruit, nuts",1.0
-,Canary seed,p01.c,Cereal grains nec,1.0
-,Carobs,p01.d,"Vegetables, fruit, nuts",1.0
-,Carrots and turnips,p01.d,"Vegetables, fruit, nuts",1.0
-,"Cashew nuts, with shell",p01.d,"Vegetables, fruit, nuts",1.0
-,Cashewapple,p01.d,"Vegetables, fruit, nuts",1.0
-,Cassava,p01.d,"Vegetables, fruit, nuts",1.0
-,Cassava leaves,p01.d,"Vegetables, fruit, nuts",1.0
-,Castor oil seed,p01.e,Oil seeds,1.0
-,Cauliflowers and broccoli,p01.d,"Vegetables, fruit, nuts",1.0
-,"Cereals, nes",p01.c,Cereal grains nec,1.0
+800,Agave fibres nes,p01.g,Plant-based fibers,1.0
+221,"Almonds, with shell",p01.d,"Vegetables, fruit, nuts",1.0
+711,"Anise, badian, fennel, coriander",p01.h,Crops nec,1.0
+515,Apples,p01.d,"Vegetables, fruit, nuts",1.0
+526,Apricots,p01.d,"Vegetables, fruit, nuts",1.0
+226,Areca nuts,p01.d,"Vegetables, fruit, nuts",1.0
+366,Artichokes,p01.d,"Vegetables, fruit, nuts",1.0
+367,Asparagus,p01.d,"Vegetables, fruit, nuts",1.0
+572,Avocados,p01.d,"Vegetables, fruit, nuts",1.0
+203,Bambara beans,p01.d,"Vegetables, fruit, nuts",1.0
+486,Bananas,p01.d,"Vegetables, fruit, nuts",1.0
+44,Barley,p01.c,Cereal grains nec,1.0
+782,"Bastfibres, other",p01.g,Plant-based fibers,1.0
+176,"Beans, dry",p01.d,"Vegetables, fruit, nuts",1.0
+414,"Beans, green",p01.d,"Vegetables, fruit, nuts",1.0
+51,Beer of barley,p15.j,Beverages,1.0
+1183,Beeswax,p01.m,Animal products nec,1.0
+558,Berries nes,p01.d,"Vegetables, fruit, nuts",1.0
+552,Blueberries,p01.d,"Vegetables, fruit, nuts",1.0
+216,"Brazil nuts, with shell",p01.d,"Vegetables, fruit, nuts",1.0
+181,"Broad beans, horse beans, dry",p01.d,"Vegetables, fruit, nuts",1.0
+89,Buckwheat,p01.c,Cereal grains nec,1.0
+983,"Butter and ghee, sheep milk",p15.f,Dairy products,1.0
+952,"Butter, buffalo milk",p15.f,Dairy products,1.0
+886,"Butter, cow milk",p15.f,Dairy products,1.0
+358,Cabbages and other brassicas,p01.d,"Vegetables, fruit, nuts",1.0
+101,Canary seed,p01.c,Cereal grains nec,1.0
+461,Carobs,p01.d,"Vegetables, fruit, nuts",1.0
+426,Carrots and turnips,p01.d,"Vegetables, fruit, nuts",1.0
+217,"Cashew nuts, with shell",p01.d,"Vegetables, fruit, nuts",1.0
+591,Cashewapple,p01.d,"Vegetables, fruit, nuts",1.0
+125,Cassava,p01.d,"Vegetables, fruit, nuts",1.0
+378,Cassava leaves,p01.d,"Vegetables, fruit, nuts",1.0
+265,Castor oil seed,p01.e,Oil seeds,1.0
+393,Cauliflowers and broccoli,p01.d,"Vegetables, fruit, nuts",1.0
+108,"Cereals, nes",p01.c,Cereal grains nec,1.0
 ,Cheese of goat mlk,p15.f,Dairy products,1.0
-,"Cheese, buffalo milk",p15.f,Dairy products,1.0
-,"Cheese, sheep milk",p15.f,Dairy products,1.0
-,"Cheese, skimmed cow milk",p15.f,Dairy products,1.0
-,"Cheese, whole cow milk",p15.f,Dairy products,1.0
-,Cherries,p01.d,"Vegetables, fruit, nuts",1.0
-,"Cherries, sour",p01.d,"Vegetables, fruit, nuts",1.0
-,Chestnut,p01.d,"Vegetables, fruit, nuts",1.0
-,Chick peas,p01.d,"Vegetables, fruit, nuts",1.0
-,Chicory roots,p01.h,Crops nec,1.0
-,"Chillies and peppers, dry",p01.h,Crops nec,1.0
-,"Chillies and peppers, green",p01.d,"Vegetables, fruit, nuts",1.0
-,Cinnamon (canella),p01.h,Crops nec,1.0
-,Cloves,p01.h,Crops nec,1.0
-,"Cocoa, beans",p01.h,Crops nec,1.0
-,Coconuts,p01.d,"Vegetables, fruit, nuts",1.0
-,"Coffee, green",p01.h,Crops nec,1.0
-,Coir,p01.g,Plant-based fibers,1.0
+955,"Cheese, buffalo milk",p15.f,Dairy products,1.0
+984,"Cheese, sheep milk",p15.f,Dairy products,1.0
+904,"Cheese, skimmed cow milk",p15.f,Dairy products,1.0
+901,"Cheese, whole cow milk",p15.f,Dairy products,1.0
+531,Cherries,p01.d,"Vegetables, fruit, nuts",1.0
+530,"Cherries, sour",p01.d,"Vegetables, fruit, nuts",1.0
+220,Chestnut,p01.d,"Vegetables, fruit, nuts",1.0
+191,Chick peas,p01.d,"Vegetables, fruit, nuts",1.0
+459,Chicory roots,p01.h,Crops nec,1.0
+689,"Chillies and peppers, dry",p01.h,Crops nec,1.0
+401,"Chillies and peppers, green",p01.d,"Vegetables, fruit, nuts",1.0
+693,Cinnamon (canella),p01.h,Crops nec,1.0
+698,Cloves,p01.h,Crops nec,1.0
+661,"Cocoa, beans",p01.h,Crops nec,1.0
+249,Coconuts,p01.d,"Vegetables, fruit, nuts",1.0
+656,"Coffee, green",p01.h,Crops nec,1.0
+813,Coir,p01.g,Plant-based fibers,1.0
 ,Copra,p01.d,"Vegetables, fruit, nuts",1.0
-,Cotton lint,p01.g,Plant-based fibers,1.0
-,Cottonseed,p01.e,Oil seeds,1.0
-,"Cow peas, dry",p01.d,"Vegetables, fruit, nuts",1.0
-,Cranberries,p01.d,"Vegetables, fruit, nuts",1.0
-,Cream fresh,p15.f,Dairy products,1.0
-,Cucumbers and gherkins,p01.d,"Vegetables, fruit, nuts",1.0
-,Currants,p01.d,"Vegetables, fruit, nuts",1.0
-,Dates,p01.d,"Vegetables, fruit, nuts",1.0
-,Eggplants (aubergines),p01.d,"Vegetables, fruit, nuts",1.0
-,"Eggs, hen, in shell",p01.m,Animal products nec,1.0
-,"Eggs, other bird, in shell",p01.m,Animal products nec,1.0
-,Fibre crops nes,p01.g,Plant-based fibers,1.0
-,Figs,p01.d,"Vegetables, fruit, nuts",1.0
-,Flax fibre and tow,p01.g,Plant-based fibers,1.0
-,Fonio,p01.c,Cereal grains nec,1.0
-,Fruit citrus nes,p01.d,"Vegetables, fruit, nuts",1.0
-,Fruit fresh nes,p01.d,"Vegetables, fruit, nuts",1.0
-,Fruit pome nes,p01.d,"Vegetables, fruit, nuts",1.0
-,Fruit stone nes,p01.d,"Vegetables, fruit, nuts",1.0
-,Fruit tropical fresh nes,p01.d,"Vegetables, fruit, nuts",1.0
-,"Fruit, citrus nes",p01.d,"Vegetables, fruit, nuts",1.0
-,"Fruit, fresh nes",p01.d,"Vegetables, fruit, nuts",1.0
-,"Fruit, pome nes",p01.d,"Vegetables, fruit, nuts",1.0
-,"Fruit, stone nes",p01.d,"Vegetables, fruit, nuts",1.0
-,"Fruit, tropical fresh nes",p01.d,"Vegetables, fruit, nuts",1.0
-,Garlic,p01.d,"Vegetables, fruit, nuts",1.0
-,"Ghee, butteroil of cow milk",p15.f,Dairy products,1.0
+767,Cotton lint,p01.g,Plant-based fibers,1.0
+329,Cottonseed,p01.e,Oil seeds,1.0
+195,"Cow peas, dry",p01.d,"Vegetables, fruit, nuts",1.0
+554,Cranberries,p01.d,"Vegetables, fruit, nuts",1.0
+885,Cream fresh,p15.f,Dairy products,1.0
+397,Cucumbers and gherkins,p01.d,"Vegetables, fruit, nuts",1.0
+550,Currants,p01.d,"Vegetables, fruit, nuts",1.0
+577,Dates,p01.d,"Vegetables, fruit, nuts",1.0
+399,Eggplants (aubergines),p01.d,"Vegetables, fruit, nuts",1.0
+1062,"Eggs, hen, in shell",p01.m,Animal products nec,1.0
+1091,"Eggs, other bird, in shell",p01.m,Animal products nec,1.0
+821,Fibre crops nes,p01.g,Plant-based fibers,1.0
+569,Figs,p01.d,"Vegetables, fruit, nuts",1.0
+773,Flax fibre and tow,p01.g,Plant-based fibers,1.0
+94,Fonio,p01.c,Cereal grains nec,1.0
+512,Fruit citrus nes,p01.d,"Vegetables, fruit, nuts",1.0
+619,Fruit fresh nes,p01.d,"Vegetables, fruit, nuts",1.0
+542,Fruit pome nes,p01.d,"Vegetables, fruit, nuts",1.0
+541,Fruit stone nes,p01.d,"Vegetables, fruit, nuts",1.0
+603,Fruit tropical fresh nes,p01.d,"Vegetables, fruit, nuts",1.0
+406,Garlic,p01.d,"Vegetables, fruit, nuts",1.0
+887,"Ghee, butteroil of cow milk",p15.f,Dairy products,1.0
 ,"Ghee, of buffalo milk",p15.f,Dairy products,1.0
-,Ginger,p01.h,Crops nec,1.0
-,Gooseberries,p01.d,"Vegetables, fruit, nuts",1.0
-,Grain mixed,p01.c,Cereal grains nec,1.0
-,"Grain, mixed",p01.c,Cereal grains nec,1.0
-,Grapefruit (inc. pomelos),p01.d,"Vegetables, fruit, nuts",1.0
-,Grapes,p01.d,"Vegetables, fruit, nuts",1.0
-,Groundnuts with shell,p01.e,Oil seeds,1.0
-,"Groundnuts, with shell",p01.e,Oil seeds,1.0
-,Gums natural,p02,"Products of forestry, logging and related services (02)",1.0
-,"Gums, natural",p02,"Products of forestry, logging and related services (02)",1.0
+720,Ginger,p01.h,Crops nec,1.0
+549,Gooseberries,p01.d,"Vegetables, fruit, nuts",1.0
+103,Grain mixed,p01.c,Cereal grains nec,1.0
+507,Grapefruit (inc. pomelos),p01.d,"Vegetables, fruit, nuts",1.0
+560,Grapes,p01.d,"Vegetables, fruit, nuts",1.0
+242,Groundnuts with shell,p01.e,Oil seeds,1.0
+839,Gums natural,p02,"Products of forestry, logging and related services (02)",1.0
 ,"Hair, horse",p01.l,Meat animals nec,1.0
-,Hazelnuts with shell,p01.d,"Vegetables, fruit, nuts",1.0
-,"Hazelnuts, with shell",p01.d,"Vegetables, fruit, nuts",1.0
-,Hemp tow waste,p01.g,Plant-based fibers,1.0
-,Hempseed,p01.e,Oil seeds,1.0
-,"Hides, buffalo, fresh",p15.d,Meat products nec,1.0
-,"Hides, cattle, fresh",p15.a,Products of meat cattle,1.0
-,"Honey, natural",p01.m,Animal products nec,1.0
-,Hops,p01.h,Crops nec,1.0
-,Jojoba seed,p01.e,Oil seeds,1.0
-,Jute,p01.g,Plant-based fibers,1.0
-,Kapok fruit,p02,"Products of forestry, logging and related services (02)",1.0
-,Karite nuts (sheanuts),p01.e,Oil seeds,1.0
-,Kiwi fruit,p01.d,"Vegetables, fruit, nuts",1.0
-,Kola nuts,p01.d,"Vegetables, fruit, nuts",1.0
-,Lard,p15.d,Meat products nec,1.0
-,Leeks other alliaceous vegetables,p01.d,"Vegetables, fruit, nuts",1.0
-,"Leeks, other alliaceous vegetables",p01.d,"Vegetables, fruit, nuts",1.0
-,Lemons and limes,p01.d,"Vegetables, fruit, nuts",1.0
-,Lentils,p01.d,"Vegetables, fruit, nuts",1.0
-,Lettuce and chicory,p01.d,"Vegetables, fruit, nuts",1.0
-,Linseed,p01.e,Oil seeds,1.0
-,Lupins,p01.d,"Vegetables, fruit, nuts",1.0
-,Maize,p01.c,Cereal grains nec,1.0
-,Maize green,p01.d,"Vegetables, fruit, nuts",1.0
-,"Maize, green",p01.d,"Vegetables, fruit, nuts",1.0
-,Mangoes mangosteens guavas,p01.d,"Vegetables, fruit, nuts",1.0
-,"Mangoes, mangosteens, guavas",p01.d,"Vegetables, fruit, nuts",1.0
-,Manila fibre (abaca),p01.g,Plant-based fibers,1.0
-,"Margarine, short",p15.e,products of Vegetable oils and fats,1.0
-,MatÃ©,p01.h,Crops nec,1.0
-,Maté,p01.h,Crops nec,1.0
+225,Hazelnuts with shell,p01.d,"Vegetables, fruit, nuts",1.0
+777,Hemp tow waste,p01.g,Plant-based fibers,1.0
+336,Hempseed,p01.e,Oil seeds,1.0
+957,"Hides, buffalo, fresh",p15.d,Meat products nec,1.0
+919,"Hides, cattle, fresh",p15.a,Products of meat cattle,1.0
+1182,"Honey, natural",p01.m,Animal products nec,1.0
+677,Hops,p01.h,Crops nec,1.0
+277,Jojoba seed,p01.e,Oil seeds,1.0
+780,Jute,p01.g,Plant-based fibers,1.0
+310,Kapok fruit,p02,"Products of forestry, logging and related services (02)",1.0
+263,Karite nuts (sheanuts),p01.e,Oil seeds,1.0
+592,Kiwi fruit,p01.d,"Vegetables, fruit, nuts",1.0
+224,Kola nuts,p01.d,"Vegetables, fruit, nuts",1.0
+1043,Lard,p15.d,Meat products nec,1.0
+407,Leeks other alliaceous vegetables,p01.d,"Vegetables, fruit, nuts",1.0
+497,Lemons and limes,p01.d,"Vegetables, fruit, nuts",1.0
+201,Lentils,p01.d,"Vegetables, fruit, nuts",1.0
+372,Lettuce and chicory,p01.d,"Vegetables, fruit, nuts",1.0
+333,Linseed,p01.e,Oil seeds,1.0
+210,Lupins,p01.d,"Vegetables, fruit, nuts",1.0
+56,Maize,p01.c,Cereal grains nec,1.0
+446,Maize green,p01.d,"Vegetables, fruit, nuts",1.0
+571,Mangoes mangosteens guavas,p01.d,"Vegetables, fruit, nuts",1.0
+809,Manila fibre (abaca),p01.g,Plant-based fibers,1.0
+1242,"Margarine, short",p15.e,products of Vegetable oils and fats,1.0
+671,MatÃ©,p01.h,Crops nec,1.0
 ,"Meat live weight, ass",p01.l,Meat animals nec,1.0
 ,"Meat live weight, buffalo",p01.l,Meat animals nec,1.0
 ,"Meat live weight, camel",p01.l,Meat animals nec,1.0
@@ -139,157 +126,139 @@ source_code,source_name,target_code,target_name,weight
 ,"Meat live weight, rabbit",p01.l,Meat animals nec,1.0
 ,"Meat live weight, sheep",p01.l,Meat animals nec,1.0
 ,"Meat live weight, turkey",p01.k,Poultry,1.0
-,"Meat, ass",p01.l,Meat animals nec,1.0
-,"Meat, bird nes",p15.d,Meat products nec,1.0
-,"Meat, buffalo",p15.d,Meat products nec,1.0
-,"Meat, camel",p15.d,Meat products nec,1.0
-,"Meat, cattle",p15.a,Products of meat cattle,1.0
-,"Meat, chicken",p15.c,Products of meat poultry,1.0
-,"Meat, duck",p15.c,Products of meat poultry,1.0
-,"Meat, game",p15.d,Meat products nec,1.0
-,"Meat, goat",p15.d,Meat products nec,1.0
-,"Meat, goose and guinea fowl",p15.d,Meat products nec,1.0
-,"Meat, horse",p15.d,Meat products nec,1.0
-,"Meat, mule",p15.d,Meat products nec,1.0
-,"Meat, nes",p15.d,Meat products nec,1.0
-,"Meat, pig",p15.b,Products of meat pigs,1.0
-,"Meat, rabbit",p15.d,Meat products nec,1.0
-,"Meat, sheep",p15.d,Meat products nec,1.0
-,"Meat, turkey",p15.c,Products of meat poultry,1.0
-,"Melons, other (inc.cantaloupes)",p01.d,"Vegetables, fruit, nuts",1.0
-,Melonseed,p01.e,Oil seeds,1.0
-,"Milk, dry buttermilk",p15.f,Dairy products,1.0
-,"Milk, skimmed condensed",p15.f,Dairy products,1.0
-,"Milk, skimmed cow",p15.f,Dairy products,1.0
-,"Milk, skimmed dried",p15.f,Dairy products,1.0
-,"Milk, skimmed evaporated",p15.f,Dairy products,1.0
-,"Milk, whole condensed",p15.f,Dairy products,1.0
-,"Milk, whole dried",p15.f,Dairy products,1.0
-,"Milk, whole evaporated",p15.f,Dairy products,1.0
-,"Milk, whole fresh buffalo",p01.n,Raw milk,1.0
-,"Milk, whole fresh camel",p01.n,Raw milk,1.0
-,"Milk, whole fresh cow",p01.n,Raw milk,1.0
-,"Milk, whole fresh goat",p01.n,Raw milk,1.0
-,"Milk, whole fresh sheep",p01.n,Raw milk,1.0
-,Millet,p01.c,Cereal grains nec,1.0
-,Molasses,p15.h,Sugar,1.0
-,Mushrooms and truffles,p01.d,"Vegetables, fruit, nuts",1.0
-,Mustard seed,p01.e,Oil seeds,1.0
-,Nutmeg mace and cardamoms,p01.h,Crops nec,1.0
-,"Nutmeg, mace and cardamoms",p01.h,Crops nec,1.0
-,Nuts nes,p01.d,"Vegetables, fruit, nuts",1.0
-,"Nuts, nes",p01.d,"Vegetables, fruit, nuts",1.0
-,Oats,p01.c,Cereal grains nec,1.0
+1108,"Meat, ass",p01.l,Meat animals nec,1.0
+1089,"Meat, bird nes",p15.d,Meat products nec,1.0
+947,"Meat, buffalo",p15.d,Meat products nec,1.0
+1127,"Meat, camel",p15.d,Meat products nec,1.0
+867,"Meat, cattle",p15.a,Products of meat cattle,1.0
+1058,"Meat, chicken",p15.c,Products of meat poultry,1.0
+1069,"Meat, duck",p15.c,Products of meat poultry,1.0
+1163,"Meat, game",p15.d,Meat products nec,1.0
+1017,"Meat, goat",p15.d,Meat products nec,1.0
+1073,"Meat, goose and guinea fowl",p15.d,Meat products nec,1.0
+1097,"Meat, horse",p15.d,Meat products nec,1.0
+1111,"Meat, mule",p15.d,Meat products nec,1.0
+1166,"Meat, nes",p15.d,Meat products nec,1.0
+1035,"Meat, pig",p15.b,Products of meat pigs,1.0
+1141,"Meat, rabbit",p15.d,Meat products nec,1.0
+977,"Meat, sheep",p15.d,Meat products nec,1.0
+1080,"Meat, turkey",p15.c,Products of meat poultry,1.0
+568,"Melons, other (inc.cantaloupes)",p01.d,"Vegetables, fruit, nuts",1.0
+299,Melonseed,p01.e,Oil seeds,1.0
+899,"Milk, dry buttermilk",p15.f,Dairy products,1.0
+896,"Milk, skimmed condensed",p15.f,Dairy products,1.0
+888,"Milk, skimmed cow",p15.f,Dairy products,1.0
+898,"Milk, skimmed dried",p15.f,Dairy products,1.0
+895,"Milk, skimmed evaporated",p15.f,Dairy products,1.0
+889,"Milk, whole condensed",p15.f,Dairy products,1.0
+897,"Milk, whole dried",p15.f,Dairy products,1.0
+894,"Milk, whole evaporated",p15.f,Dairy products,1.0
+951,"Milk, whole fresh buffalo",p01.n,Raw milk,1.0
+1130,"Milk, whole fresh camel",p01.n,Raw milk,1.0
+882,"Milk, whole fresh cow",p01.n,Raw milk,1.0
+1020,"Milk, whole fresh goat",p01.n,Raw milk,1.0
+982,"Milk, whole fresh sheep",p01.n,Raw milk,1.0
+79,Millet,p01.c,Cereal grains nec,1.0
+165,Molasses,p15.h,Sugar,1.0
+449,Mushrooms and truffles,p01.d,"Vegetables, fruit, nuts",1.0
+292,Mustard seed,p01.e,Oil seeds,1.0
+702,Nutmeg mace and cardamoms,p01.h,Crops nec,1.0
+234,Nuts nes,p01.d,"Vegetables, fruit, nuts",1.0
+75,Oats,p01.c,Cereal grains nec,1.0
 ,"Offals, nes",p15.d,Meat products nec,1.0
 ,"Oil, citronella",p15.e,products of Vegetable oils and fats,1.0
-,"Oil, coconut (copra)",p15.e,products of Vegetable oils and fats,1.0
-,"Oil, cottonseed",p15.e,products of Vegetable oils and fats,1.0
-,"Oil, groundnut",p15.e,products of Vegetable oils and fats,1.0
-,"Oil, linseed",p15.e,products of Vegetable oils and fats,1.0
-,"Oil, maize",p15.e,products of Vegetable oils and fats,1.0
-,"Oil, olive, virgin",p15.e,products of Vegetable oils and fats,1.0
-,"Oil, palm",p15.e,products of Vegetable oils and fats,1.0
-,"Oil, palm fruit",p01.e,Oil seeds,1.0
-,"Oil, palm kernel",p15.e,products of Vegetable oils and fats,1.0
-,"Oil, rapeseed",p15.e,products of Vegetable oils and fats,1.0
-,"Oil, safflower",p15.e,products of Vegetable oils and fats,1.0
-,"Oil, sesame",p15.e,products of Vegetable oils and fats,1.0
-,"Oil, soybean",p15.e,products of Vegetable oils and fats,1.0
+252,"Oil, coconut (copra)",p15.e,products of Vegetable oils and fats,1.0
+331,"Oil, cottonseed",p15.e,products of Vegetable oils and fats,1.0
+244,"Oil, groundnut",p15.e,products of Vegetable oils and fats,1.0
+334,"Oil, linseed",p15.e,products of Vegetable oils and fats,1.0
+60,"Oil, maize",p15.e,products of Vegetable oils and fats,1.0
+261,"Oil, olive, virgin",p15.e,products of Vegetable oils and fats,1.0
+257,"Oil, palm",p15.e,products of Vegetable oils and fats,1.0
+254,"Oil, palm fruit",p01.e,Oil seeds,1.0
+258,"Oil, palm kernel",p15.e,products of Vegetable oils and fats,1.0
+271,"Oil, rapeseed",p15.e,products of Vegetable oils and fats,1.0
+281,"Oil, safflower",p15.e,products of Vegetable oils and fats,1.0
+290,"Oil, sesame",p15.e,products of Vegetable oils and fats,1.0
+237,"Oil, soybean",p15.e,products of Vegetable oils and fats,1.0
 ,"Oil, stillingia",p15.e,products of Vegetable oils and fats,1.0
-,"Oil, sunflower",p15.e,products of Vegetable oils and fats,1.0
-,Oilseeds nes,p01.e,Oil seeds,1.0
-,Okra,p01.d,"Vegetables, fruit, nuts",1.0
-,Olives,p01.d,"Vegetables, fruit, nuts",1.0
-,Onions dry,p01.d,"Vegetables, fruit, nuts",1.0
-,Onions shallots green,p01.d,"Vegetables, fruit, nuts",1.0
-,"Onions, dry",p01.d,"Vegetables, fruit, nuts",1.0
-,"Onions, shallots, green",p01.d,"Vegetables, fruit, nuts",1.0
-,Oranges,p01.d,"Vegetables, fruit, nuts",1.0
-,Papayas,p01.d,"Vegetables, fruit, nuts",1.0
-,Peaches and nectarines,p01.d,"Vegetables, fruit, nuts",1.0
-,Pears,p01.d,"Vegetables, fruit, nuts",1.0
-,Peas dry,p01.d,"Vegetables, fruit, nuts",1.0
-,Peas green,p01.d,"Vegetables, fruit, nuts",1.0
-,"Peas, dry",p01.d,"Vegetables, fruit, nuts",1.0
-,"Peas, green",p01.d,"Vegetables, fruit, nuts",1.0
-,Pepper (piper spp.),p01.h,Crops nec,1.0
-,Peppermint,p01.h,Crops nec,1.0
-,Persimmons,p01.d,"Vegetables, fruit, nuts",1.0
-,Pigeon peas,p01.d,"Vegetables, fruit, nuts",1.0
-,Pineapples,p01.d,"Vegetables, fruit, nuts",1.0
-,Pistachios,p01.d,"Vegetables, fruit, nuts",1.0
-,Plantains,p01.d,"Vegetables, fruit, nuts",1.0
-,Plums and sloes,p01.d,"Vegetables, fruit, nuts",1.0
-,Popcorn,p01.c,Cereal grains nec,1.0
-,Poppy seed,p01.e,Oil seeds,1.0
-,Potatoes,p01.d,"Vegetables, fruit, nuts",1.0
-,Pulses nes,p01.d,"Vegetables, fruit, nuts",1.0
-,"Pulses, nes",p01.d,"Vegetables, fruit, nuts",1.0
-,Pumpkins squash and gourds,p01.d,"Vegetables, fruit, nuts",1.0
-,"Pumpkins, squash and gourds",p01.d,"Vegetables, fruit, nuts",1.0
-,Pyrethrum dried,p01.h,Crops nec,1.0
-,"Pyrethrum, dried",p01.h,Crops nec,1.0
-,Quinces,p01.d,"Vegetables, fruit, nuts",1.0
-,Quinoa,p01.c,Cereal grains nec,1.0
+268,"Oil, sunflower",p15.e,products of Vegetable oils and fats,1.0
+339,Oilseeds nes,p01.e,Oil seeds,1.0
+430,Okra,p01.d,"Vegetables, fruit, nuts",1.0
+260,Olives,p01.d,"Vegetables, fruit, nuts",1.0
+403,Onions dry,p01.d,"Vegetables, fruit, nuts",1.0
+402,Onions shallots green,p01.d,"Vegetables, fruit, nuts",1.0
+490,Oranges,p01.d,"Vegetables, fruit, nuts",1.0
+600,Papayas,p01.d,"Vegetables, fruit, nuts",1.0
+534,Peaches and nectarines,p01.d,"Vegetables, fruit, nuts",1.0
+521,Pears,p01.d,"Vegetables, fruit, nuts",1.0
+187,Peas dry,p01.d,"Vegetables, fruit, nuts",1.0
+417,Peas green,p01.d,"Vegetables, fruit, nuts",1.0
+687,Pepper (piper spp.),p01.h,Crops nec,1.0
+748,Peppermint,p01.h,Crops nec,1.0
+587,Persimmons,p01.d,"Vegetables, fruit, nuts",1.0
+197,Pigeon peas,p01.d,"Vegetables, fruit, nuts",1.0
+574,Pineapples,p01.d,"Vegetables, fruit, nuts",1.0
+223,Pistachios,p01.d,"Vegetables, fruit, nuts",1.0
+489,Plantains,p01.d,"Vegetables, fruit, nuts",1.0
+536,Plums and sloes,p01.d,"Vegetables, fruit, nuts",1.0
+68,Popcorn,p01.c,Cereal grains nec,1.0
+296,Poppy seed,p01.e,Oil seeds,1.0
+116,Potatoes,p01.d,"Vegetables, fruit, nuts",1.0
+211,Pulses nes,p01.d,"Vegetables, fruit, nuts",1.0
+394,Pumpkins squash and gourds,p01.d,"Vegetables, fruit, nuts",1.0
+754,Pyrethrum dried,p01.h,Crops nec,1.0
+523,Quinces,p01.d,"Vegetables, fruit, nuts",1.0
+92,Quinoa,p01.c,Cereal grains nec,1.0
 ,Raisins,p15.i,Food products nec,1.0
-,Ramie,p01.g,Plant-based fibers,1.0
-,Rapeseed,p01.e,Oil seeds,1.0
-,Raspberries,p01.d,"Vegetables, fruit, nuts",1.0
-,Rice paddy,p01.a,Paddy rice,1.0
-,"Rice, paddy",p01.a,Paddy rice,1.0
-,Roots and tubers nes,p01.d,"Vegetables, fruit, nuts",1.0
-,"Roots and tubers, nes",p01.d,"Vegetables, fruit, nuts",1.0
-,Rubber natural,p01.h,Crops nec,1.0
-,"Rubber, natural",p01.h,Crops nec,1.0
-,Rye,p01.c,Cereal grains nec,1.0
-,Safflower seed,p01.e,Oil seeds,1.0
-,Sesame seed,p01.e,Oil seeds,1.0
-,"Silk-worm cocoons, reelable",p01.o,"Wool, silk-worm cocoons",1.0
-,Sisal,p01.g,Plant-based fibers,1.0
-,"Skins, goat, fresh",p15.d,Meat products nec,1.0
-,"Skins, sheep, fresh",p15.d,Meat products nec,1.0
+788,Ramie,p01.g,Plant-based fibers,1.0
+270,Rapeseed,p01.e,Oil seeds,1.0
+547,Raspberries,p01.d,"Vegetables, fruit, nuts",1.0
+27,Rice paddy,p01.a,Paddy rice,1.0
+149,Roots and tubers nes,p01.d,"Vegetables, fruit, nuts",1.0
+836,Rubber natural,p01.h,Crops nec,1.0
+71,Rye,p01.c,Cereal grains nec,1.0
+280,Safflower seed,p01.e,Oil seeds,1.0
+289,Sesame seed,p01.e,Oil seeds,1.0
+1185,"Silk-worm cocoons, reelable",p01.o,"Wool, silk-worm cocoons",1.0
+789,Sisal,p01.g,Plant-based fibers,1.0
+1025,"Skins, goat, fresh",p15.d,Meat products nec,1.0
+995,"Skins, sheep, fresh",p15.d,Meat products nec,1.0
 ,"Skins, sheep, with wool",p15.d,Meat products nec,1.0
-,Sorghum,p01.c,Cereal grains nec,1.0
-,Soybeans,p01.e,Oil seeds,1.0
-,"Spices, nes",p01.h,Crops nec,1.0
-,Spinach,p01.d,"Vegetables, fruit, nuts",1.0
-,Strawberries,p01.d,"Vegetables, fruit, nuts",1.0
-,String beans,p01.d,"Vegetables, fruit, nuts",1.0
-,Sugar beet,p01.f,"Sugar cane, sugar beet",1.0
-,Sugar cane,p01.f,"Sugar cane, sugar beet",1.0
-,Sugar crops nes,p01.f,"Sugar cane, sugar beet",1.0
-,"Sugar crops, nes",p01.f,"Sugar cane, sugar beet",1.0
-,Sugar Raw Centrifugal,p15.h,Sugar,1.0
-,Sunflower seed,p01.e,Oil seeds,1.0
-,Sweet potatoes,p01.d,"Vegetables, fruit, nuts",1.0
-,Tallow,p15.a,Products of meat cattle,1.0
-,Tallowtree seed,p01.e,Oil seeds,1.0
-,Tangerines mandarins clementines satsumas,p01.d,"Vegetables, fruit, nuts",1.0
-,"Tangerines, mandarins, clementines, satsumas",p01.d,"Vegetables, fruit, nuts",1.0
-,Taro (cocoyam),p01.d,"Vegetables, fruit, nuts",1.0
-,Tea,p01.h,Crops nec,1.0
-,Tea nes,p01.h,Crops nec,1.0
-,Tobacco unmanufactured,p01.h,Crops nec,1.0
-,"Tobacco, unmanufactured",p01.h,Crops nec,1.0
-,Tomatoes,p01.d,"Vegetables, fruit, nuts",1.0
-,Triticale,p01.c,Cereal grains nec,1.0
-,Tung nuts,p01.e,Oil seeds,1.0
-,Vanilla,p01.h,Crops nec,1.0
+83,Sorghum,p01.c,Cereal grains nec,1.0
+236,Soybeans,p01.e,Oil seeds,1.0
+723,"Spices, nes",p01.h,Crops nec,1.0
+373,Spinach,p01.d,"Vegetables, fruit, nuts",1.0
+544,Strawberries,p01.d,"Vegetables, fruit, nuts",1.0
+423,String beans,p01.d,"Vegetables, fruit, nuts",1.0
+157,Sugar beet,p01.f,"Sugar cane, sugar beet",1.0
+156,Sugar cane,p01.f,"Sugar cane, sugar beet",1.0
+161,Sugar crops nes,p01.f,"Sugar cane, sugar beet",1.0
+162,Sugar Raw Centrifugal,p15.h,Sugar,1.0
+267,Sunflower seed,p01.e,Oil seeds,1.0
+122,Sweet potatoes,p01.d,"Vegetables, fruit, nuts",1.0
+1225,Tallow,p15.a,Products of meat cattle,1.0
+305,Tallowtree seed,p01.e,Oil seeds,1.0
+495,Tangerines mandarins clementines satsumas,p01.d,"Vegetables, fruit, nuts",1.0
+136,Taro (cocoyam),p01.d,"Vegetables, fruit, nuts",1.0
+667,Tea,p01.h,Crops nec,1.0
+674,Tea nes,p01.h,Crops nec,1.0
+826,Tobacco unmanufactured,p01.h,Crops nec,1.0
+388,Tomatoes,p01.d,"Vegetables, fruit, nuts",1.0
+97,Triticale,p01.c,Cereal grains nec,1.0
+275,Tung nuts,p01.e,Oil seeds,1.0
+692,Vanilla,p01.h,Crops nec,1.0
 ,Vegetable tallow,p15.e,products of Vegetable oils and fats,1.0
-,Vegetables fresh nes,p01.d,"Vegetables, fruit, nuts",1.0
-,Vegetables leguminous nes,p01.d,"Vegetables, fruit, nuts",1.0
-,"Vegetables, fresh nes",p01.d,"Vegetables, fruit, nuts",1.0
-,"Vegetables, leguminous nes",p01.d,"Vegetables, fruit, nuts",1.0
-,Vetches,p01.d,"Vegetables, fruit, nuts",1.0
-,Walnuts with shell,p01.d,"Vegetables, fruit, nuts",1.0
-,"Walnuts, with shell",p01.d,"Vegetables, fruit, nuts",1.0
-,Watermelons,p01.d,"Vegetables, fruit, nuts",1.0
-,Wheat,p01.b,Wheat,1.0
+463,Vegetables fresh nes,p01.d,"Vegetables, fruit, nuts",1.0
+420,Vegetables leguminous nes,p01.d,"Vegetables, fruit, nuts",1.0
+205,Vetches,p01.d,"Vegetables, fruit, nuts",1.0
+222,Walnuts with shell,p01.d,"Vegetables, fruit, nuts",1.0
+567,Watermelons,p01.d,"Vegetables, fruit, nuts",1.0
+15,Wheat,p01.b,Wheat,1.0
 ,"Whey, cheese",p15.f,Dairy products,1.0
-,"Whey, condensed",p15.f,Dairy products,1.0
-,"Whey, dry",p15.f,Dairy products,1.0
-,Wine,p15.j,Beverages,1.0
-,"Wool, greasy",p01.o,"Wool, silk-worm cocoons",1.0
-,Yams,p01.d,"Vegetables, fruit, nuts",1.0
-,Yautia (cocoyam),p01.d,"Vegetables, fruit, nuts",1.0
-,Yoghurt,p15.f,Dairy products,1.0
+890,"Whey, condensed",p15.f,Dairy products,1.0
+900,"Whey, dry",p15.f,Dairy products,1.0
+564,Wine,p15.j,Beverages,1.0
+987,"Wool, greasy",p01.o,"Wool, silk-worm cocoons",1.0
+137,Yams,p01.d,"Vegetables, fruit, nuts",1.0
+135,Yautia (cocoyam),p01.d,"Vegetables, fruit, nuts",1.0
+891,Yoghurt,p15.f,Dairy products,1.0

@@ -1,0 +1,185 @@
+source_code,source_name,target_code,target_name,weight
+27,"Rice, Paddy",01.11.14,"Rice, not husked",1.0
+15,Wheat,01.11.11,Durum wheat,1.0
+15,Wheat,01.11.12,Soft wheat and meslin,1.0
+44,Barley,01.11.15,Barley,1.0
+56,Maize,01.11.13,Maize (corn),1.0
+68,Popcorn,01.11.17,Other cereals,1.0
+71,Rye,01.11.16,"Rye, oats",1.0
+75,Oats,01.11.17,Other cereals,1.0
+79,Millet,01.11.17,Other cereals,1.0
+83,Sorghum,01.11.17,Other cereals,1.0
+89,Buckwheat,01.11.17,Other cereals,1.0
+92,Quinoa,01.11.17,Other cereals,1.0
+94,Fonio,01.11.17,Other cereals,1.0
+97,Triticale,01.11.17,Other cereals,1.0
+101,Canary Seed,01.11.17,Other cereals,1.0
+103,"Grain, mixed",01.11.17,Other cereals,1.0
+108,"Cereals, nes",01.11.17,Other cereals,1.0
+249,Coconuts,01.13.21,"Dates, figs, bananas, coconuts, Brazil nuts, cashew nuts, pineapples, avocados, mangoes, guavas",1.0
+461,Carobs,01.11.22,"Dried leguminous vegetables, shelled",1.0
+486,Bananas,01.13.21,"Dates, figs, bananas, coconuts, Brazil nuts, cashew nuts, pineapples, avocados, mangoes, guavas",1.0
+489,Plantains,01.13.21,"Dates, figs, bananas, coconuts, Brazil nuts, cashew nuts, pineapples, avocados, mangoes, guavas",1.0
+490,Oranges,01.13.22,Citrus fruit,1.0
+495,"Tangerines, mandarins, clementines, satsumas",01.13.22,Citrus fruit,1.0
+497,Lemons and Limes,01.13.22,Citrus fruit,1.0
+507,Grapefruit (inc. pomelos),01.13.22,Citrus fruit,1.0
+512,"Fruit, citrus nes",01.13.22,Citrus fruit,1.0
+515,Apples,01.13.23,"Other fruit, locust beans",1.0
+521,Pears,01.13.23,"Other fruit, locust beans",1.0
+523,Quinces,01.13.23,"Other fruit, locust beans",1.0
+526,Apricots,01.13.23,"Other fruit, locust beans",1.0
+530,"Cherries, sour",01.13.23,"Other fruit, locust beans",1.0
+531,Cherries,01.13.23,"Other fruit, locust beans",1.0
+534,Peaches and Nectarines,01.13.23,"Other fruit, locust beans",1.0
+536,Plums and sloes,01.13.23,"Other fruit, locust beans",1.0
+541,"Fruit, stone nes",01.13.23,"Other fruit, locust beans",1.0
+542,"Fruit, pome nes",01.13.23,"Other fruit, locust beans",1.0
+544,Strawberries,01.13.23,"Other fruit, locust beans",1.0
+547,Raspberries,01.13.23,"Other fruit, locust beans",1.0
+549,Gooseberries,01.13.23,"Other fruit, locust beans",1.0
+550,Currants,01.13.23,"Other fruit, locust beans",1.0
+552,Blueberries,01.13.23,"Other fruit, locust beans",1.0
+554,Cranberries,01.13.23,"Other fruit, locust beans",1.0
+558,Berries nes,01.13.23,"Other fruit, locust beans",1.0
+560,Grapes,01.13.11,Table grapes,1.0
+560,Grapes,01.13.12,"Other grapes, fresh",1.0
+569,Figs,01.13.21,"Dates, figs, bananas, coconuts, Brazil nuts, cashew nuts, pineapples, avocados, mangoes, guavas",1.0
+571,"Mangoes, mangosteens, guavas",01.13.21,"Dates, figs, bananas, coconuts, Brazil nuts, cashew nuts, pineapples, avocados, mangoes, guavas",1.0
+572,Avocados,01.13.21,"Dates, figs, bananas, coconuts, Brazil nuts, cashew nuts, pineapples, avocados, mangoes, guavas",1.0
+574,Pineapples,01.13.21,"Dates, figs, bananas, coconuts, Brazil nuts, cashew nuts, pineapples, avocados, mangoes, guavas",1.0
+577,Dates,01.13.21,"Dates, figs, bananas, coconuts, Brazil nuts, cashew nuts, pineapples, avocados, mangoes, guavas",1.0
+587,Persimmons,01.13.23,"Other fruit, locust beans",1.0
+591,Cashewapple,01.13.23,"Other fruit, locust beans",1.0
+592,Kiwi Fruit,01.13.23,"Other fruit, locust beans",1.0
+600,Papayas,01.13.23,"Other fruit, locust beans",1.0
+603,"Fruit, tropical fresh nes",01.13.23,"Other fruit, locust beans",1.0
+619,"Fruit, fresh nes",01.13.23,"Other fruit, locust beans",1.0
+216,"Brazil nuts, with shell",01.13.21,"Dates, figs, bananas, coconuts, Brazil nuts, cashew nuts, pineapples, avocados, mangoes, guavas",1.0
+217,"Cashew nuts, with shell",01.13.21,"Dates, figs, bananas, coconuts, Brazil nuts, cashew nuts, pineapples, avocados, mangoes, guavas",1.0
+220,Chestnut,01.13.24,Olives and other nuts,1.0
+221,"Almonds, with shell",01.13.24,Olives and other nuts,1.0
+222,"Walnuts, with shell",01.13.24,Olives and other nuts,1.0
+223,Pistachios,01.13.24,Olives and other nuts,1.0
+224,Kola nuts,01.13.24,Olives and other nuts,1.0
+225,"Hazelnuts, with shell",01.13.24,Olives and other nuts,1.0
+226,Areca nuts,01.13.24,Olives and other nuts,1.0
+234,"Nuts, nes",01.13.24,Olives and other nuts,1.0
+176,"Beans, dry",01.12.12,Vegetables cultivated for their fruits,1.0
+181,"Broad beans, horse beans, dry",01.12.12,Vegetables cultivated for their fruits,1.0
+187,"Peas, dry",01.12.12,Vegetables cultivated for their fruits,1.0
+191,Chick peas,01.12.12,Vegetables cultivated for their fruits,1.0
+195,"Cow peas, dry",01.12.12,Vegetables cultivated for their fruits,1.0
+197,Pigeon peas,01.12.12,Vegetables cultivated for their fruits,1.0
+201,Lentils,01.11.22,"Dried leguminous vegetables, shelled",1.0
+203,Bambara beans,01.12.12,Vegetables cultivated for their fruits,1.0
+205,Vetches,01.12.12,Vegetables cultivated for their fruits,1.0
+210,Lupins,01.12.12,Vegetables cultivated for their fruits,1.0
+211,"Pulses, nes",01.12.12,Vegetables cultivated for their fruits,1.0
+414,"Beans, green",01.12.12,Vegetables cultivated for their fruits,1.0
+423,String beans,01.12.12,Vegetables cultivated for their fruits,1.0
+116,Potatoes,01.11.21,Potatoes,1.0
+122,Sweet Potatoes,01.11.21,Potatoes,1.0
+125,Cassava,01.11.23,Edible roots and tubers with high starch or inulin content,1.0
+135,Yautia (cocoyam),01.12.11,Root and tuber vegetables,1.0
+136,Taro (cocoyam),01.12.11,Root and tuber vegetables,1.0
+137,Yams,01.12.11,Root and tuber vegetables,1.0
+149,"Roots and Tubers, nes",01.12.11,Root and tuber vegetables,1.0
+260,Olives,01.13.24,Olives and other nuts,1.0
+358,Cabbages and other brassicas,01.12.13,Other vegetables n.e.c.,1.0
+366,Artichokes,01.12.13,Other vegetables n.e.c.,1.0
+367,Asparagus,01.12.13,Other vegetables n.e.c.,1.0
+372,Lettuce and chicory,01.12.13,Other vegetables n.e.c.,1.0
+373,Spinach,01.12.13,Other vegetables n.e.c.,1.0
+378,Cassava leaves,01.11.23,Edible roots and tubers with high starch or inulin content,1.0
+388,Tomatoes,01.12.12,Vegetables cultivated for their fruits,1.0
+393,Cauliflowers and broccoli,01.12.13,Other vegetables n.e.c.,1.0
+394,"Pumpkins, squash and gourds",01.12.12,Vegetables cultivated for their fruits,1.0
+397,Cucumbers and Gherkins,01.12.12,Vegetables cultivated for their fruits,1.0
+399,Eggplants (aubergines),01.12.13,Other vegetables n.e.c.,1.0
+401,"Chillies and peppers, green",01.12.13,Other vegetables n.e.c.,1.0
+402,"Onions, shallots, green",01.12.11,Root and tuber vegetables,1.0
+403,"Onions, dry",01.12.11,Root and tuber vegetables,1.0
+406,Garlic,01.12.11,Root and tuber vegetables,1.0
+407,"Leeks, other alliaceous vegetables",01.12.11,Root and tuber vegetables,1.0
+417,"Peas, Green",01.12.12,Vegetables cultivated for their fruits,1.0
+420,"Vegetables, leguminous nes",01.12.12,Vegetables cultivated for their fruits,1.0
+426,Carrots and turnips,01.12.11,Root and tuber vegetables,1.0
+430,Okra,01.12.13,Other vegetables n.e.c.,1.0
+446,"Maize, green",01.12.13,Other vegetables n.e.c.,1.0
+449,Mushrooms and truffles,01.12.13,Other vegetables n.e.c.,1.0
+463,"Vegetables, fresh nes",01.12.13,Other vegetables n.e.c.,1.0
+567,Watermelons,01.12.12,Vegetables cultivated for their fruits,1.0
+568,"Melons, other (inc.cantaloupes)",01.12.12,Vegetables cultivated for their fruits,1.0
+236,Soybeans,01.11.31,Soy beans,1.0
+242,"Groundnuts, with shell",01.11.32,Ground nuts,1.0
+254,"Oil, palm fruit",01.11.35,Oil seeds and oleaginous fruits n.e.c.,1.0
+263,Karite Nuts (Sheanuts),01.13.24,Olives and other nuts,1.0
+265,Castor oil seed,01.11.35,Oil seeds and oleaginous fruits n.e.c.,1.0
+267,Sunflower Seed,01.11.33,"Sunflower, sesamum, safflower, rape, colza and mustard seeds",1.0
+270,Rapeseed,01.11.33,"Sunflower, sesamum, safflower, rape, colza and mustard seeds",1.0
+275,Tung Nuts,01.11.35,Oil seeds and oleaginous fruits n.e.c.,1.0
+277,Jojoba seed,01.11.35,Oil seeds and oleaginous fruits n.e.c.,1.0
+280,Safflower Seed,01.11.33,"Sunflower, sesamum, safflower, rape, colza and mustard seeds",1.0
+289,Sesame Seed,01.11.33,"Sunflower, sesamum, safflower, rape, colza and mustard seeds",1.0
+292,Mustard Seed,01.11.33,"Sunflower, sesamum, safflower, rape, colza and mustard seeds",1.0
+296,Poppy Seed,01.11.35,Oil seeds and oleaginous fruits n.e.c.,1.0
+299,Melonseed,01.11.35,Oil seeds and oleaginous fruits n.e.c.,1.0
+305,Tallowtree seed,01.11.35,Oil seeds and oleaginous fruits n.e.c.,1.0
+329,Cottonseed,01.11.34,Cotton seed,1.0
+333,Linseed,01.11.35,Oil seeds and oleaginous fruits n.e.c.,1.0
+336,Hempseed,01.11.35,Oil seeds and oleaginous fruits n.e.c.,1.0
+339,Oilseeds nes,01.11.35,Oil seeds and oleaginous fruits n.e.c.,1.0
+156,Sugar cane,01.11.52,Sugar cane,1.0
+157,Sugar beet,01.11.51,Sugar beet,1.0
+161,"Sugar crops, nes",01.11.51,Sugar beet,1.0
+767,Cotton Lint,01.11.71,"Cotton, whether or not ginned",1.0
+773,Flax Fibre and Tow,01.11.73,"Flax and true hemp; sisal and other textile fibres of the genus Agave, raw",1.0
+777,Hemp tow waste,01.11.73,"Flax and true hemp; sisal and other textile fibres of the genus Agave, raw",1.0
+780,Jute,01.11.72,"Jute and other textile bast fibres, except flax, true hemp and ramie",1.0
+782,"Bastfibres, other",01.11.72,"Jute and other textile bast fibres, except flax, true hemp and ramie",1.0
+788,Ramie,01.11.73,"Flax and true hemp; sisal and other textile fibres of the genus Agave, raw",1.0
+789,Sisal,01.11.73,"Flax and true hemp; sisal and other textile fibres of the genus Agave, raw",1.0
+800,Agave Fibres nes,01.11.73,"Flax and true hemp; sisal and other textile fibres of the genus Agave, raw",1.0
+809,Manila fibre (abaca),01.11.73,"Flax and true hemp; sisal and other textile fibres of the genus Agave, raw",1.0
+813,Coir,01.11.73,"Flax and true hemp; sisal and other textile fibres of the genus Agave, raw",1.0
+821,Fibre Crops nes,01.11.73,"Flax and true hemp; sisal and other textile fibres of the genus Agave, raw",1.0
+459,Chicory Roots,01.11.93,Other raw vergetable materials,1.0
+656,"Coffee, Green",01.13.31,"Coffee, not roasted, not decaffeinated",1.0
+661,"Cocoa, beans",01.13.34,Cocoa beans,1.0
+667,Tea,01.13.32,"Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content > 3 kg",1.0
+671,Maté,01.13.33,Mate,1.0
+674,Tea nes,01.13.32,"Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content > 3 kg",1.0
+677,Hops,01.11.93,Other raw vegetable materials,1.0
+687,Pepper (Piper spp.),01.13.40,"Spices, not processed",1.0
+689,"Chillies and peppers, dry",01.13.40,"Spices, not processed",1.0
+692,Vanilla,01.13.40,"Spices, not processed",1.0
+693,Cinnamon (canella),01.13.40,"Spices, not processed",1.0
+698,Cloves,01.13.40,"Spices, not processed",1.0
+702,"Nutmeg, mace and cardamoms",01.13.40,"Spices, not processed",1.0
+711,"Anise, badian, fennel, coriander",01.13.40,"Spices, not processed",1.0
+720,Ginger,01.13.40,"Spices, not processed",1.0
+723,"Spices, nes",01.13.40,"Spices, not processed",1.0
+748,Peppermint,01.13.40,"Spices, not processed",1.0
+754,"Pyrethrum, dried",01.11.91,"Plants used primary in perfumery, in pharmacy, or for insecticidal, fungicidal or similar purposes",1.0
+826,"Tobacco, unmanufactured",01.11.40,Unmanufactured tobacco,1.0
+836,"Rubber, natural",01.11.80,Natural rubber,1.0
+636,"Forage and silage, maize",01.11.60,Straw and forage,1.0
+637,"Forage and silage, sorghum",01.11.60,Straw and forage,1.0
+638,"Forage and silage, rye grass",01.11.60,Straw and forage,1.0
+639,"Forage and silage, grasses nes",01.11.60,Straw and forage,1.0
+640,"Forage and silage, clover",01.11.60,Straw and forage,1.0
+641,"Forage and silage, alfalfa",01.11.60,Straw and forage,1.0
+642,"Forage and silage, green oilseeds",01.11.60,Straw and forage,1.0
+643,"Forage and silage, legumes",01.11.60,Straw and forage,1.0
+644,Cabbage for Fodder,01.11.60,Straw and forage,1.0
+645,Pumpkins for Fodder,01.11.60,Straw and forage,1.0
+646,Turnips for Fodder,01.11.60,Straw and forage,1.0
+647,Beets for Fodder,01.11.60,Straw and forage,1.0
+648,Carrots for Fodder,01.11.60,Straw and forage,1.0
+649,Swedes for Fodder,01.11.60,Straw and forage,1.0
+651,Forage Products,01.11.60,Straw and forage,1.0
+655,Vegetables and roots fodder,01.11.60,Straw and forage,1.0
+310,Kapok Fruit,02.01.42,"Vegetable materials n.e.c., for plaiting, stuffing, padding, dyeing or tanning; vegetable products n.e.c.",1.0
+839,"Gums, natural",02.01.21,"Balata, gutta-percha, guayula, chicle and similar natural gums",1.0
+839,"Gums, natural",02.01.22,"Lac, natural gums, resins, gum-resins and balsams",1.0
