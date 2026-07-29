@@ -1,0 +1,46 @@
+source_code,source_name,target_code,target_name,weight
+11,Carps barbels and other cyprinids,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+12,Tilapias and other cichlids,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+13,Miscellaneous freshwater fishes,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+21,Sturgeons paddlefishes,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+22,River eels,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+23,Salmons trouts smelts,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+24,Shads,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+25,Miscellaneous diadromous fishes,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+31,Flounders halibuts soles,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+32,Cods hakes haddocks,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+33,Miscellaneous coastal fishes,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+34,Miscellaneous demersal fishes,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+35,Herrings sardines anchovies,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+36,Tunas bonitos billfishes,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+37,Miscellaneous pelagic fishes,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+38,Sharks rays chimaeras,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+39,Marine fishes not identified,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+41,Freshwater crustaceans,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+42,Crabs sea-spiders,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+43,Lobsters spiny-rock lobsters,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+44,King crabs squat-lobsters,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+45,Shrimps prawns,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+47,Miscellaneous marine crustaceans,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+51,Freshwater molluscs,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+52,Abalones winkles conchs,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+53,Oysters,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+54,Mussels,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+55,Scallops pectens,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+56,Clams cockles arkshells,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+57,Squids cuttlefishes octopuses,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+58,Miscellaneous marine molluscs,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+61,Blue-whales fin-whales,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+62,Eared seals hair seals walruses,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+63,Miscellaneous aquatic mammals,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+64,Turtles,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+71,Frogs and other amphibians,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+72,Crocodiles and alligators,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+74,Sea-urchins and other echinoderms,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+76,Sea-squirts and other tunicates,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+77,Miscellaneous aquatic invertebrates,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+81,Pearls mother-of-pearl shells,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+91,Brown seaweeds,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+92,Red seaweeds,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+93,Green seaweeds,p05,Fish and other fishing products; services incidental of fishing (05),1.0
+94,Miscellaneous aquatic plants,p05,Fish and other fishing products; services incidental of fishing (05),1.0
