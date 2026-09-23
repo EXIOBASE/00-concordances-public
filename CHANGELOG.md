@@ -12,8 +12,9 @@ table), newest first.
 - `international/faoisscaap_exiobase3p` (45 rows): FAO ISSCAAP fishery
   groups -> `p05`. Fishery was not previously covered by any table.
 - `international/faoitem_cpa2002` (184 rows): FAO production items ->
-  CPA 2002 at 6-digit, for the crop and forestry items. The README notes
-  where the CPA route is coarser than the direct FAO -> EXIOBASE table.
+  CPA 2002 at 6-digit, for the crop and forestry items. Some CPA classes
+  are coarser than the FAO item, so chaining FAO -> CPA -> EXIOBASE does
+  not always reproduce `fao_exiobase3p`; prefer the direct table.
 - Github repo of EXIOBASE concordance tables. 
 - Published concordances, each as a long CSV plus a `_wide/` matrix mirror:
   - `aggregations/` (9): EXIOBASE detail -> 7 sectors, 7 consumption
