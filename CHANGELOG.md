@@ -28,6 +28,18 @@ table), newest first.
 - Small read-only Python loader (`exiobase_concordances`): `load`,
   `load_wide`, `list_concordances`, `has_wide`. Requires only `pandas`.
 
+### Fixed
+
+- `international/icio2025i_exiobase3i`: ICIO `C28` (machinery and
+  equipment n.e.c.) no longer maps to `i71` (renting of machinery and
+  equipment, rev 3.1 division 71) as well as `i29`. Division 71 is ISIC
+  rev 4 division 77 inside section N (administrative and support
+  services, N77-N82 per the ICIO 2025 ReadMe), so `N` now maps to `i71`
+  and `i74` instead of `i74` alone. Row count unchanged (180); in the wide
+  mirror the `i71` column moves from after `i29` to after `i73` because
+  columns follow first appearance in the long table. Pinned in
+  `tests/test_icio2025i_exiobase3i.py`.
+
 ### Changed
 
 - `international/fao_exiobase3p` now carries **FAO item codes**: 237 of
