@@ -7,6 +7,15 @@ table), newest first.
 
 ## [Unreleased]
 
+### Changed
+
+- `international/icio2025i_exiobase3i`: EXIO i12 (mining of uranium and
+  thorium ores) moves from ICIO B05 to B07. ISIC rev4 puts uranium (0721)
+  in division 07 metal ores; B05 is coal and lignite only, so uranium was
+  only ever a share of the coal row. B05 now maps to i10 alone. (Peat, rev4
+  0892 in B08, stays on i10 here because EXIO has no separate peat
+  industry; 03-product_output moves the peat product to B08.)
+
 ### Added
 
 - `international/faoisscaap_exiobase3p` (45 rows): FAO ISSCAAP fishery

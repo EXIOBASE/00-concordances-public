@@ -43,3 +43,12 @@ def test_wide_mirror_matches_long():
     long = loaders.load("international", NAME, CONCORDANCES)
     wide = loaders.load_wide("international", NAME, CONCORDANCES)
     assert schema.wide_to_pairs(wide) == schema.long_to_pairs(schema.tidy_long(long))
+
+
+def test_uranium_is_metal_ore_mining_under_rev4():
+    """ISIC rev4 puts uranium and thorium ores (0721) in division 07, so
+    EXIO i12 sits on B07 and B05 is coal and lignite (with peat, which EXIO
+    keeps in i10; 03-product_output moves the peat product to B08)."""
+    long = loaders.load("international", NAME, CONCORDANCES)
+    assert _targets(long, "B05") == {"i10"}
+    assert "i12" in _targets(long, "B07")
