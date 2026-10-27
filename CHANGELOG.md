@@ -7,6 +7,15 @@ table), newest first.
 
 ## [Unreleased]
 
+### Changed
+
+- `international/icio2025i_exiobase3i`: EXIO i12 (mining of uranium and
+  thorium ores) moves from ICIO B05 to B07. ISIC rev4 puts uranium (0721)
+  in division 07 metal ores; B05 is coal and lignite only, so uranium was
+  only ever a share of the coal row. B05 now maps to i10 alone. (Peat, rev4
+  0892 in B08, stays on i10 here because EXIO has no separate peat
+  industry; 03-product_output moves the peat product to B08.)
+
 ### Added
 
 - `international/faoisscaap_exiobase3p` (45 rows): FAO ISSCAAP fishery
@@ -27,6 +36,18 @@ table), newest first.
   - `nsi_bridges/`: national supply/use bridges (original workbooks).
 - Small read-only Python loader (`exiobase_concordances`): `load`,
   `load_wide`, `list_concordances`, `has_wide`. Requires only `pandas`.
+
+### Fixed
+
+- `international/icio2025i_exiobase3i`: ICIO `C28` (machinery and
+  equipment n.e.c.) no longer maps to `i71` (renting of machinery and
+  equipment, rev 3.1 division 71) as well as `i29`. Division 71 is ISIC
+  rev 4 division 77 inside section N (administrative and support
+  services, N77-N82 per the ICIO 2025 ReadMe), so `N` now maps to `i71`
+  and `i74` instead of `i74` alone. Row count unchanged (180); in the wide
+  mirror the `i71` column moves from after `i29` to after `i73` because
+  columns follow first appearance in the long table. Pinned in
+  `tests/test_icio2025i_exiobase3i.py`.
 
 ### Changed
 

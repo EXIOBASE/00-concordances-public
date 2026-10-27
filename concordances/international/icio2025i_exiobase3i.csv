@@ -19,10 +19,10 @@ A01,,i01.w.2,"Manure treatment (biogas), storage and land application",1.0
 A02,,i02,"Forestry, logging and related service activities (02)",1.0
 A03,,i05,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing (05)",1.0
 B05,,i10,Mining of coal and lignite; extraction of peat (10),1.0
-B05,,i12,Mining of uranium and thorium ores (12),1.0
 B06,,i11.a,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",1.0
 B06,,i11.b,"Extraction of natural gas and services related to natural gas extraction, excluding surveying",1.0
 B06,,i11.c,"Extraction, liquefaction, and regasification of other petroleum and gaseous materials",1.0
+B07,,i12,Mining of uranium and thorium ores (12),1.0
 B07,,i13.1,Mining of iron ores,1.0
 B07,,i13.20.11,Mining of copper ores and concentrates,1.0
 B07,,i13.20.12,Mining of nickel ores and concentrates,1.0
@@ -103,7 +103,6 @@ C26,,i32,"Manufacture of radio, television and communication equipment and appar
 C26,,i33,"Manufacture of medical, precision and optical instruments, watches and clocks (33)",1.0
 C27,,i31,Manufacture of electrical machinery and apparatus n.e.c. (31),1.0
 C28,,i29,Manufacture of machinery and equipment n.e.c. (29),1.0
-C28,,i71,Renting of machinery and equipment without operator and of personal and household goods (71),1.0
 C29,,i34,"Manufacture of motor vehicles, trailers and semi-trailers (34)",1.0
 C301,,i35,Manufacture of other transport equipment (35),1.0
 C302T309,,i35,Manufacture of other transport equipment (35),1.0
@@ -170,6 +169,7 @@ K,,i66,"Insurance and pension funding, except compulsory social security (66)",1
 K,,i67,Activities auxiliary to financial intermediation (67),1.0
 L,,i70,Real estate activities (70),1.0
 M,,i73,Research and development (73),1.0
+N,,i71,Renting of machinery and equipment without operator and of personal and household goods (71),1.0
 N,,i74,Other business activities (74),1.0
 O,,i75,Public administration and defence; compulsory social security (75),1.0
 O,,i99,Extra-territorial organizations and bodies,1.0
